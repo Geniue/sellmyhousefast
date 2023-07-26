@@ -19,7 +19,7 @@
 }
 
 #section-2-3 {
-    background-image: url(//www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast-hero.webp);
+    background-image: url('{{asset('assets/images/bg-banner.webp')}}');
     height: 300px
 }
 

@@ -26,7 +26,7 @@
 }
 
 #section-358-21 {
-    background-image: linear-gradient(rgba(72,135,191,0.4),rgba(72,135,191,0.4)),url(//www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast-hero.webp);
+    background-image: linear-gradient(rgba(72,135,191,0.4),rgba(72,135,191,0.4)),url('{{asset('assets/images/bg-banner.webp')}}');
     background-size: auto,cover;
     text-align: center
 }
