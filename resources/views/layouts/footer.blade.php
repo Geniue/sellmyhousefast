@@ -1,7 +1,7 @@
 <section id="section-156-91" class=" ct-section ct-section-with-shape-divider">
     <div class="ct-section-inner-wrap">
         <div id="-shape-divider-157-91" class="oxy-shape-divider ">
-            <div class="oxy_shape_divider">
+            <div class="oxy_shape_divider" style="transform: scaleX(1)">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"
                   preserveAspectRatio="none">
                     <path fill="currentColor" fill-opacity="1"

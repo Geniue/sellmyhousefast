@@ -74,7 +74,7 @@ class=" ct-section ct-section-with-shape-divider">
   <div class="ct-section-inner-wrap">
       <div id="-shape-divider-152-91" class="oxy-shape-divider ">
           <div class="oxy_shape_divider oxy_shape_divider_top"
-            style="transform:  scaleY(-1) scaleX(-1)">
+            style="transform:  scaleY(-1) scaleX(1)">
               <svg xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 1440 320" preserveAspectRatio="none">
                   <path fill="currentColor" fill-opacity="1"

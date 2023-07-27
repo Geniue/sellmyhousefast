@@ -1,10 +1,35 @@
 @extends('layouts.index')
 
+@section('css')
+
+<style>
+  .yt-image{
+    width:460px !important;
+    max-width: 100%;
+  }
+  #div_block-1642-106{
+    width: 50% !important;
+  }
+  #div_block-1641-106{
+    width: 50% !important;
+  }
+  .nw-dose-wews{
+    margin-bottom:30px !important; 
+  }
+  .ct-div-block{
+    margin-left:auto; 
+    margin-right:auto; 
+  }
+</style>
+    
+@endsection
+
 @section("content")
 
 <div id='inner_content-19-225' class='ct-inner-content'>
     <section id="section-2-224"
       class=" ct-section ct-section-with-shape-divider">
+      
         <div class="ct-section-inner-wrap">
             <h2 id="headline-4-224"
               class="ct-headline atomic-primary-heading">Sell My House For
@@ -56,14 +81,8 @@
                 </div><input type="hidden" name="gpaa_coords_4" class="gform_hidden" value=""></fieldset><div id="field_1_2" class="gfield gfield--width-half field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_2"><label class="gfield_label" for="input_1_2">Phone</label><div class="ginput_container ginput_container_phone"><div class="iti iti--allow-dropdown iti--separate-dial-code"><div class="iti__flag-container"><div class="iti__selected-flag" role="combobox" aria-controls="iti-0__country-listbox" aria-owns="iti-0__country-listbox" aria-expanded="false" tabindex="0" title="United States: +1" aria-activedescendant="iti-0__item-us-preferred"><div class="iti__flag iti__us"></div><div class="iti__selected-dial-code">+1</div><div class="iti__arrow"></div></div><ul class="iti__country-list iti__hide" id="iti-0__country-listbox" role="listbox" aria-label="List of countries"><li class="iti__country iti__preferred iti__active" tabindex="-1" id="iti-0__item-us-preferred" role="option" data-dial-code="1" data-country-code="us" aria-selected="true"><div class="iti__flag-box"><div class="iti__flag iti__us"></div></div><span class="iti__country-name">United States</span><span class="iti__dial-code">+1</span></li><li class="iti__divider" role="separator" aria-disabled="true"></li><li class="iti__country iti__standard" tabindex="-1" id="iti-0__item-ca" role="option" data-dial-code="1" data-country-code="ca" aria-selected="false"><div class="iti__flag-box"><div class="iti__flag iti__ca"></div></div><span class="iti__country-name">Canada</span><span class="iti__dial-code">+1</span></li><li class="iti__country iti__standard" tabindex="-1" id="iti-0__item-us" role="option" data-dial-code="1" data-country-code="us" aria-selected="false"><div class="iti__flag-box"><div class="iti__flag iti__us"></div></div><span class="iti__country-name">United States</span><span class="iti__dial-code">+1</span></li></ul></div><input name="" id="input_1_2_raw" type="tel" value="" class="large" placeholder="###-###-####" aria-invalid="false" autocomplete="off" data-intl-tel-input-id="0" style="padding-left: 73px;"><input type="hidden" name="input_2" id="input_1_2"></div></div></div><div id="field_1_3" class="gfield gfield--width-half gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_3"><label class="gfield_label" for="input_1_3">Email<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class="ginput_container ginput_container_email">
                 <input name="input_3" id="input_1_3" type="email" value="" class="large" aria-required="true" aria-invalid="false">
                 </div></div><div id="field_1_7" class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_7"><div class="ginput_container ginput_container_text"><input name="input_7" id="input_1_7" type="hidden" class="gform_hidden" aria-invalid="false" value="https://www.sellmyhousefast.com/"></div></div><div id="field_1_8" class="gfield gfield--width-full gform_hidden field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_8"><div class="ginput_container ginput_container_text"><input name="input_8" id="input_1_8" type="hidden" class="gform_hidden" aria-invalid="false" value="FBAFB097-3B97-5E90-E9FD-DFAECD72774E"></div></div><div id="field_1_9" class="gfield gfield--width-full gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below gfield_visibility_hidden" data-js-reload="field_1_9"><input id="input_8" name="input_1_8" type="hidden" value=""></div><div id="field_1_10" class="gfield gform_validation_container field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_10"><label class="gfield_label" for="input_1_10">Comments</label><div class="ginput_container"><input name="input_10" id="input_1_10" type="text" value="" autocomplete="new-password"></div><div class="gfield_description" id="gfield_description_1_10">This field is for validation purposes and should be left unchanged.</div></div></div></div>
-                <div class="gform_footer top_label"> <input type="image" src="//www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast-button.webp" id="gform_submit_button_1" class="gform_button button gform-button--width-full gform_image_button" alt="Submit" onclick="if(window[&quot;gf_submitting_1&quot;]){return false;}  if( !jQuery(&quot;#gform_1&quot;)[0].checkValidity || jQuery(&quot;#gform_1&quot;)[0].checkValidity()){window[&quot;gf_submitting_1&quot;]=true;}  " onkeypress="if( event.keyCode == 13 ){ if(window[&quot;gf_submitting_1&quot;]){return false;} if( !jQuery(&quot;#gform_1&quot;)[0].checkValidity || jQuery(&quot;#gform_1&quot;)[0].checkValidity()){window[&quot;gf_submitting_1&quot;]=true;}  jQuery(&quot;#gform_1&quot;).trigger(&quot;submit&quot;,[true]); }"> <input type="hidden" name="gform_ajax" value="form_id=1&amp;title=&amp;description=&amp;tabindex=0">
-                <input type="hidden" class="gform_hidden" name="is_submit_1" value="1">
-                <input type="hidden" class="gform_hidden" name="gform_submit" value="1">
-                <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
-                <input type="hidden" class="gform_hidden" name="state_1" value="WyJbXSIsImMzYmI3MTczODkwYjAxYmU4MGUyOWUyZjE4YmQ1YTFkIl0=">
-                <input type="hidden" class="gform_hidden" name="gform_target_page_number_1" id="gform_target_page_number_1" value="0">
-                <input type="hidden" class="gform_hidden" name="gform_source_page_number_1" id="gform_source_page_number_1" value="1">
-                <input type="hidden" name="gform_field_values" value="">
+                <div class="gform_footer top_label"> 
+                  <button class="xash-buton">Get My Cash Offer!</button>               
                 </div>
                 </form>
                 </div>
@@ -74,7 +93,7 @@
                 </div>
             <div id="-shape-divider-1647-106" class="oxy-shape-divider ">
                 <div class="oxy_shape_divider">
-                    <svg xmlns="http://www.w3.org/2000/svg"
+                    <svg style="transform: scaleX(-1)" xmlns="http://www.w3.org/2000/svg"
                       viewBox="0 0 1440 320" preserveAspectRatio="none">
                         <path fill="currentColor" fill-opacity="1"
                           d="M0,288L1440,0L1440,320L0,320Z"></path>
@@ -83,6 +102,57 @@
             </div>
         </div>
     </section>
+    <section id="section-353-106" class=" ct-section">
+      <div class="ct-section-inner-wrap">
+        <div id="new_columns-1640-106" class="ct-new-columns">
+          <div id="div_block-1641-106" class="ct-div-block">
+            <div class="wp-block-column">
+                          <h3 id="headline-1599-106" class="ct-headline">Why Sell To a ASAP
+                            Cash Offer?</h3>
+
+              <ol id="block-f560c857-bcdb-40c6-a484-c36d8471aadd" class="is-style-default">
+                  <li class="atomic-content-26-text ">You Pay <span style="text-decoration: underline"><strong>Zero
+                              Fees</strong></span> or Closing Costs</li>
+                  <li class="atomic-content-26-text "><span style="text-decoration: underline"><strong>Close
+                              quickly</strong></span> <strong><span class="has-inline-color has-c-link-color">7-28</span></strong>
+                      days or anytime.</li>
+                  <li class="atomic-content-26-text ">Guaranteed Offer, <span style="text-decoration: underline"><strong>no
+                              waiting months</strong></span>.</li>
+                  <li class="atomic-content-26-text "><span style="text-decoration: underline"><strong>No
+                              repairs</strong></span> are needed, sell
+                      fast “AS IS”</li>
+                  <li class="atomic-content-26-text ">No Showings or endless walkthroughs.</li>
+                  <li class="atomic-content-26-text ">No appraisals or approval delays.</li>
+              </ol>
+          </div>
+          </div>
+          <div id="div_block-1642-106" class="ct-div-block">
+ 
+          <img decoding="async" class="yt-image" src="https://i.ytimg.com/vi/Q3ZE_bHPxBo/hqdefault.jpg" srcset="https://i.ytimg.com/vi/Q3ZE_bHPxBo/hqdefault.jpg 480w" alt="Sell My House Fast for Cash - ASAP Cash Offer" loading="lazy">
+      
+          </div>
+
+          </div>
+      </div>
+      </div>
+  </section>
+  <section id="section-353-106" class=" ct-section">
+    <div class="ct-section-inner-wrap">
+      <div class="ten-scoff-btn-wrapper max-flex-md-column mx-auto py-0 d-flex m-center ">
+        <div class="d-flex ">
+          <h4><strong>
+            Speak with Live
+            <br>
+             Agent Now
+            </strong></h4>
+        </div>
+        <a href="#" class="ten-scoff-btn mx-lg-4">
+          <svg fill="#ffffff" width="35" height="35" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 33.834 33.834" xml:space="preserve" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path d="M32.253,29.334v4.5H1.581v-4.501c0-2.125,1.832-4.741,4.07-5.804l4.98-2.366l3.457,7.204l1.77-4.799 c0.349,0.066,0.695,0.154,1.059,0.154s0.709-0.088,1.059-0.154l1.68,4.563l3.389-7.048l5.141,2.445 C30.421,24.591,32.253,27.207,32.253,29.334z M6.105,13.562v-3.25c0-0.551,0.287-1.034,0.72-1.312c0.581-5.058,4.883-9,10.094-9 s9.514,3.942,10.096,9c0.432,0.278,0.719,0.761,0.719,1.312v3.25c0,0.863-0.699,1.563-1.563,1.563s-1.563-0.7-1.563-1.563v-0.683 c-0.846,4.255-3.961,8.205-7.688,8.205c-3.727,0-6.842-3.95-7.688-8.205v0.683c0,0.7-0.465,1.286-1.1,1.485 c0.622,2.117,2.002,3.946,3.908,5.146c0.352-0.116,0.796-0.094,1.227,0.13c0.692,0.36,1.045,1.06,0.783,1.56 c-0.261,0.5-1.033,0.612-1.729,0.251c-0.508-0.265-0.83-0.71-0.864-1.126c-2.183-1.396-3.731-3.533-4.37-5.998 C6.513,14.78,6.105,14.22,6.105,13.562z M7.89,8.635c0.047,0.003,0.092,0.004,0.137,0.021C8.14,8.698,8.222,8.779,8.279,8.874 c0.339,0.144,0.609,0.407,0.775,0.733C9.515,5.286,12.855,3,16.917,3c4.062,0,7.402,2.286,7.863,6.607 c0.229-0.449,0.664-0.77,1.185-0.837c-0.676-4.393-4.47-7.771-9.048-7.771C12.386,1,8.622,4.309,7.89,8.635z"></path> </g> </g></svg>          {{-- <img src="https://real.whippdigital.com/assets/images/live_chat.png" width="180" height="180" alt=""> --}}
+        Live Agent
+        </a>
+        </div>          
+    </div>
+</section>
     <section id="section-353-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <h2 id="headline-354-106"
@@ -119,32 +189,8 @@
                   sizes="(max-width: 1332px) 100vw, 1332px" /></div>
         </div>
     </section>
-    <section id="section-204-106" class=" ct-section">
-        <div class="ct-section-inner-wrap">
-            <div id="new_columns-205-106" class="ct-new-columns">
-                <div id="div_block-206-106" class="ct-div-block"><img
-                      loading="lazy" id="image-1183-106"
-                      alt="selling my home fast"
-                      src="{{asset('assets/images/review-1.webp')}}"
-                      class="ct-image" loading="lazy" /></div>
-                <div id="div_block-1208-106" class="ct-div-block"><img
-                      loading="lazy" id="image-1209-106"
-                      alt="selling house fast"
-                      src="{{asset('assets/images/review-2.webp')}}"
-                      class="ct-image" loading="lazy" /></div>
-                <div id="div_block-1210-106" class="ct-div-block"><img
-                      loading="lazy" id="image-1211-106"
-                      alt="selling houses fast"
-                      src="{{asset('assets/images/review-3.webp')}}"
-                      class="ct-image" loading="lazy" /></div>
-                <div id="div_block-1212-106" class="ct-div-block"><img
-                      loading="lazy" id="image-1213-106"
-                      alt="companies that buy houses for cash"
-                      src="{{asset('assets/images/review-4.webp')}}"
-                      class="ct-image" loading="lazy" /></div>
-            </div>
-        </div>
-    </section>
+
+
     <section id="section-1214-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <div id="new_columns-1217-106" class="ct-new-columns">
@@ -410,43 +456,8 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class='gform_footer top_label'>
-                                        <input type='image'
-                                          src='//www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast-button.webp'
-                                          id='gform_submit_button_4'
-                                          class='gform_button button gform-button--width-full gform_image_button'
-                                          alt='Submit'
-                                          onclick='if(window["gf_submitting_4"]){return false;}  if( !jQuery("#gform_4")[0].checkValidity || jQuery("#gform_4")[0].checkValidity()){window["gf_submitting_4"]=true;}  '
-                                          onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_4"]){return false;} if( !jQuery("#gform_4")[0].checkValidity || jQuery("#gform_4")[0].checkValidity()){window["gf_submitting_4"]=true;}  jQuery("#gform_4").trigger("submit",[true]); }' />
-                                        <input type='hidden'
-                                          name='gform_ajax'
-                                          value='form_id=4&amp;title=&amp;description=&amp;tabindex=0' />
-                                        <input type='hidden'
-                                          class='gform_hidden'
-                                          name='is_submit_4' value='1' />
-                                        <input type='hidden'
-                                          class='gform_hidden'
-                                          name='gform_submit' value='4' />
-                                        <input type='hidden'
-                                          class='gform_hidden'
-                                          name='gform_unique_id' value='' />
-                                        <input type='hidden'
-                                          class='gform_hidden'
-                                          name='state_4'
-                                          value='WyJbXSIsImMzYmI3MTczODkwYjAxYmU4MGUyOWUyZjE4YmQ1YTFkIl0=' />
-                                        <input type='hidden'
-                                          class='gform_hidden'
-                                          name='gform_target_page_number_4'
-                                          id='gform_target_page_number_4'
-                                          value='0' />
-                                        <input type='hidden'
-                                          class='gform_hidden'
-                                          name='gform_source_page_number_4'
-                                          id='gform_source_page_number_4'
-                                          value='1' />
-                                        <input type='hidden'
-                                          name='gform_field_values'
-                                          value='' />
+                                    <div class="gform_footer top_label"> 
+                                      <button class="xash-buton">Get My Cash Offer!</button>               
                                     </div>
                                 </form>
                             </div>
@@ -461,32 +472,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </section>
-    <section id="section-1240-106" class=" ct-section">
-        <div class="ct-section-inner-wrap">
-            <div id="new_columns-1241-106" class="ct-new-columns">
-                <div id="div_block-1242-106" class="ct-div-block"><img
-                      loading="lazy" id="image-1243-106"
-                      alt="need to sell my home fast"
-                      src="{{asset("assets/images/review-5.webp")}}"
-                      class="ct-image" loading="lazy" /></div>
-                <div id="div_block-1244-106" class="ct-div-block"><img
-                      loading="lazy" id="image-1245-106"
-                      alt="need to sell house fast"
-                      src="{{asset("assets/images/review-6.webp")}}"
-                      class="ct-image" loading="lazy" /></div>
-                <div id="div_block-1246-106" class="ct-div-block"><img
-                      loading="lazy" id="image-1247-106"
-                      alt="need to sell home fast"
-                      src="{{asset("assets/images/review-7.webp")}}"
-                      class="ct-image" loading="lazy" /></div>
-                <div id="div_block-1248-106" class="ct-div-block"><img
-                      loading="lazy" id="image-1249-106"
-                      alt="companies that buy homes"
-                      src="{{asset("assets/images/review-8.webp")}}"
-                      class="ct-image" loading="lazy" /></div>
             </div>
         </div>
     </section>
@@ -653,6 +638,40 @@
                 closing date that you choose.<br></p>
         </div>
     </section>
+    <section id="section-353-106" class=" ct-section">
+      <div class="ct-section-inner-wrap">
+        <div id="new_columns-1640-106" class="ct-new-columns">
+          <div id="div_block-1641-106" class="ct-div-block">
+            <div class="wp-block-column">
+                          <h3 id="headline-1599-106" class="ct-headline">Why Sell To a ASAP
+                            Cash Offer?</h3>
+
+              <ol id="block-f560c857-bcdb-40c6-a484-c36d8471aadd" class="is-style-default">
+                  <li class="atomic-content-26-text ">You Pay <span style="text-decoration: underline"><strong>Zero
+                              Fees</strong></span> or Closing Costs</li>
+                  <li class="atomic-content-26-text "><span style="text-decoration: underline"><strong>Close
+                              quickly</strong></span> <strong><span class="has-inline-color has-c-link-color">7-28</span></strong>
+                      days or anytime.</li>
+                  <li class="atomic-content-26-text ">Guaranteed Offer, <span style="text-decoration: underline"><strong>no
+                              waiting months</strong></span>.</li>
+                  <li class="atomic-content-26-text "><span style="text-decoration: underline"><strong>No
+                              repairs</strong></span> are needed, sell
+                      fast “AS IS”</li>
+                  <li class="atomic-content-26-text ">No Showings or endless walkthroughs.</li>
+                  <li class="atomic-content-26-text ">No appraisals or approval delays.</li>
+              </ol>
+          </div>
+          </div>
+          <div id="div_block-1642-106" class="ct-div-block">
+ 
+          <img decoding="async" class="yt-image" src="https://i.ytimg.com/vi/Q3ZE_bHPxBo/hqdefault.jpg" srcset="https://i.ytimg.com/vi/Q3ZE_bHPxBo/hqdefault.jpg 480w" alt="Sell My House Fast for Cash - ASAP Cash Offer" loading="lazy">
+      
+          </div>
+
+          </div>
+      </div>
+      </div>
+  </section>
     <section id="section-1327-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <div id="new_columns-1328-106" class="ct-new-columns">
@@ -917,43 +936,8 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class='gform_footer top_label'>
-                                        <input type='image'
-                                          src='//www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast-button.webp'
-                                          id='gform_submit_button_5'
-                                          class='gform_button button gform-button--width-full gform_image_button'
-                                          alt='Submit'
-                                          onclick='if(window["gf_submitting_5"]){return false;}  if( !jQuery("#gform_5")[0].checkValidity || jQuery("#gform_5")[0].checkValidity()){window["gf_submitting_5"]=true;}  '
-                                          onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_5"]){return false;} if( !jQuery("#gform_5")[0].checkValidity || jQuery("#gform_5")[0].checkValidity()){window["gf_submitting_5"]=true;}  jQuery("#gform_5").trigger("submit",[true]); }' />
-                                        <input type='hidden'
-                                          name='gform_ajax'
-                                          value='form_id=5&amp;title=&amp;description=&amp;tabindex=0' />
-                                        <input type='hidden'
-                                          class='gform_hidden'
-                                          name='is_submit_5' value='1' />
-                                        <input type='hidden'
-                                          class='gform_hidden'
-                                          name='gform_submit' value='5' />
-                                        <input type='hidden'
-                                          class='gform_hidden'
-                                          name='gform_unique_id' value='' />
-                                        <input type='hidden'
-                                          class='gform_hidden'
-                                          name='state_5'
-                                          value='WyJbXSIsImMzYmI3MTczODkwYjAxYmU4MGUyOWUyZjE4YmQ1YTFkIl0=' />
-                                        <input type='hidden'
-                                          class='gform_hidden'
-                                          name='gform_target_page_number_5'
-                                          id='gform_target_page_number_5'
-                                          value='0' />
-                                        <input type='hidden'
-                                          class='gform_hidden'
-                                          name='gform_source_page_number_5'
-                                          id='gform_source_page_number_5'
-                                          value='1' />
-                                        <input type='hidden'
-                                          name='gform_field_values'
-                                          value='' />
+                                    <div class="gform_footer top_label"> 
+                                      <button class="xash-buton">Get My Cash Offer!</button>               
                                     </div>
                                 </form>
                             </div>
@@ -1122,79 +1106,6 @@
                             reason sellers choose us over an agent or fsbo!
                             No home listing. No headaches.</div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section id="section-1408-106" class=" ct-section">
-        <div class="ct-section-inner-wrap">
-            <h2 id="headline-1409-106"
-              class="ct-headline atomic-secondary-heading">Sell My House
-                Fast Reviews</h2>
-            <div id="div_block-1632-106" class="ct-div-block">
-                <div id="new_columns-1411-106" class="ct-new-columns">
-                    <div id="div_block-1412-106"
-                      class="ct-div-block atomic-iconblock-4-column"><img
-                          loading="lazy" id="image-1424-106"
-                          alt="sell my houses fast"
-                          src="{{asset('assets/images/review-9.webp')}}"
-                          class="ct-image"
-                          sizes="(max-width: 1364px) 100vw, 1364px" /></div>
-                    <div id="div_block-1417-106"
-                      class="ct-div-block atomic-iconblock-4-column"><img
-                          loading="lazy" id="image-1425-106"
-                          alt="fast sale for my house"
-                          src="{{asset('assets/images/review-10.webp')}}"
-                          class="ct-image"
-                          sizes="(max-width: 1364px) 100vw, 1364px" /></div>
-                </div>
-                <div id="new_columns-1436-106" class="ct-new-columns">
-                    <div id="div_block-1437-106"
-                      class="ct-div-block atomic-iconblock-4-column"><img
-                          loading="lazy" id="image-1438-106"
-                          alt="sell houses fast"
-                          src="{{asset('assets/images/review-11.webp')}}"
-                          class="ct-image"
-                          sizes="(max-width: 1364px) 100vw, 1364px" /></div>
-                    <div id="div_block-1439-106"
-                      class="ct-div-block atomic-iconblock-4-column"><img
-                          loading="lazy" id="image-1440-106"
-                          alt="fast home sale"
-                          src="{{asset('assets/images/review-12.webp')}}"
-                          class="ct-image"
-                          sizes="(max-width: 1364px) 100vw, 1364px" /></div>
-                </div>
-                <div id="new_columns-1431-106" class="ct-new-columns">
-                    <div id="div_block-1432-106"
-                      class="ct-div-block atomic-iconblock-4-column"><img
-                          loading="lazy" id="image-1433-106"
-                          alt="sale home fast"
-                          src="{{asset('assets/images/review-13.webp')}}"
-                          class="ct-image"
-                          sizes="(max-width: 1364px) 100vw, 1364px" /></div>
-                    <div id="div_block-1434-106"
-                      class="ct-div-block atomic-iconblock-4-column"><img
-                          loading="lazy" id="image-1435-106"
-                          alt="i need to sell my house fast"
-                          src="{{asset('assets/images/review-14.webp')}}"
-                          class="ct-image"
-                          sizes="(max-width: 1364px) 100vw, 1364px" /></div>
-                </div>
-                <div id="new_columns-1426-106" class="ct-new-columns">
-                    <div id="div_block-1427-106"
-                      class="ct-div-block atomic-iconblock-4-column"><img
-                          loading="lazy" id="image-1428-106"
-                          alt="fast sale for my home"
-                          src="{{asset('assets/images/review-15.webp')}}"
-                          class="ct-image"
-                          sizes="(max-width: 1364px) 100vw, 1364px" /></div>
-                    <div id="div_block-1429-106"
-                      class="ct-div-block atomic-iconblock-4-column"><img
-                          loading="lazy" id="image-1430-106"
-                          alt="i need to sell my home fast"
-                          src="{{asset('assets/images/review-16.webp')}}"
-                          class="ct-image"
-                          sizes="(max-width: 1364px) 100vw, 1364px" /></div>
                 </div>
             </div>
         </div>
@@ -1395,33 +1306,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class='gform_footer top_label'> <input
-                              type='image'
-                              src='//www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast-button.webp'
-                              id='gform_submit_button_6'
-                              class='gform_button button gform-button--width-full gform_image_button'
-                              alt='Submit'
-                              onclick='if(window["gf_submitting_6"]){return false;}  if( !jQuery("#gform_6")[0].checkValidity || jQuery("#gform_6")[0].checkValidity()){window["gf_submitting_6"]=true;}  '
-                              onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_6"]){return false;} if( !jQuery("#gform_6")[0].checkValidity || jQuery("#gform_6")[0].checkValidity()){window["gf_submitting_6"]=true;}  jQuery("#gform_6").trigger("submit",[true]); }' />
-                            <input type='hidden' name='gform_ajax'
-                              value='form_id=6&amp;title=&amp;description=&amp;tabindex=0' />
-                            <input type='hidden' class='gform_hidden'
-                              name='is_submit_6' value='1' />
-                            <input type='hidden' class='gform_hidden'
-                              name='gform_submit' value='6' />
-                            <input type='hidden' class='gform_hidden'
-                              name='gform_unique_id' value='' />
-                            <input type='hidden' class='gform_hidden'
-                              name='state_6'
-                              value='WyJbXSIsImMzYmI3MTczODkwYjAxYmU4MGUyOWUyZjE4YmQ1YTFkIl0=' />
-                            <input type='hidden' class='gform_hidden'
-                              name='gform_target_page_number_6'
-                              id='gform_target_page_number_6' value='0' />
-                            <input type='hidden' class='gform_hidden'
-                              name='gform_source_page_number_6'
-                              id='gform_source_page_number_6' value='1' />
-                            <input type='hidden' name='gform_field_values'
-                              value='' />
+                        <div class="gform_footer top_label"> 
+                          <button class="xash-buton">Get My Cash Offer!</button>               
                         </div>
                     </form>
                 </div>
@@ -1441,7 +1327,57 @@
     </section>
     <section id="section-530-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
-            <div id="div_block-1594-106" class="ct-div-block"></div>
+          <div id="div_block-1594-106" class="ct-div-block"></div>
+
+          <div id="new_columns-219-106" class="nw-dose-wews ct-new-columns">
+            <div id="div_block-220-106" class="ct-div-block">
+                <div id="div_block-221-106" class="p-4 ct-div-block atomic-iconblock-15-wrapper shadow-none">
+                   
+                  <img loading="lazy"   style="border-radius: 50%;width:240px;" alt="sale my home fast" src="{{asset('assets/images/house-se.webp')}}" class="ct-image" sizes="(max-width: 512px) 100vw, 512px">
+                  <ul class="bas-ldu-ul text-align-start"><li class="">Relocating</li>
+                    <li>Probate</li>
+                    <li>Tax Lien</li>
+                    <li>Inherited Home</li>
+                    <li>Upgrading</li>
+                    <li>Health Issues</li>
+                    <li>Title Issues</li>
+                  </ul>
+                </div>
+            </div>
+            <div id="div_block-220-106" class="ct-div-block">
+                <div id="div_block-221-106" class="p-4 ct-div-block atomic-iconblock-15-wrapper shadow-none">
+                   
+                  <img loading="lazy"   style="border-radius: 50%;width:240px;" alt="sale my home fast" src="{{asset('assets/images/house-sa2.webp')}}" class="ct-image" sizes="(max-width: 512px) 100vw, 512px">
+                  <ul class="bas-ldu-ul text-align-start">
+                    <li><em>Vacant Home</em></li>
+                    <li><em>Mold</em></li>
+                    <li><em>Hoarder Home</em></li>
+                    <li><em>Termite Damage</em></li>
+                    <li><em>Divorce</em></li>
+                    <li><em>Fire Damage</em></li>
+                    <li><em>Major Repairs Needed</em></li>
+                    <li><em>Storm Damage</em></li>
+                  </ul>
+                </div>
+            </div>
+            <div id="div_block-220-106" class="ct-div-block">
+                <div id="div_block-221-106" class="p-4 ct-div-block atomic-iconblock-15-wrapper shadow-none">
+                   
+                  <img loading="lazy"   style="border-radius: 50%;width:240px;" alt="sale my home fast" src="{{asset('assets/images/notice.webp')}}" class="ct-image" sizes="(max-width: 512px) 100vw, 512px">
+                  <ul class="bas-ldu-ul text-align-start">
+                    <li>Job Loss</li>
+                    <li>Expired Listing</li>
+                    <li>Bankruptcy</li>
+                    <li>Behind On Payments</li>
+                    <li>Foreclosure</li>
+                    <li>Problems With Tenants</li>
+                    <li>Job Transfer</li>
+                    <li>Code Violations</li>
+                  </ul>
+                </div>
+            </div>
+    
+        </div>
             <h2 id="headline-531-106"
               class="ct-headline atomic-secondary-heading">Sell Your Home
                 Fast Without An Agent</h2>
@@ -1844,33 +1780,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class='gform_footer top_label'> <input
-                              type='image'
-                              src='//www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast-button.webp'
-                              id='gform_submit_button_7'
-                              class='gform_button button gform-button--width-full gform_image_button'
-                              alt='Submit'
-                              onclick='if(window["gf_submitting_7"]){return false;}  if( !jQuery("#gform_7")[0].checkValidity || jQuery("#gform_7")[0].checkValidity()){window["gf_submitting_7"]=true;}  '
-                              onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_7"]){return false;} if( !jQuery("#gform_7")[0].checkValidity || jQuery("#gform_7")[0].checkValidity()){window["gf_submitting_7"]=true;}  jQuery("#gform_7").trigger("submit",[true]); }' />
-                            <input type='hidden' name='gform_ajax'
-                              value='form_id=7&amp;title=&amp;description=&amp;tabindex=0' />
-                            <input type='hidden' class='gform_hidden'
-                              name='is_submit_7' value='1' />
-                            <input type='hidden' class='gform_hidden'
-                              name='gform_submit' value='7' />
-                            <input type='hidden' class='gform_hidden'
-                              name='gform_unique_id' value='' />
-                            <input type='hidden' class='gform_hidden'
-                              name='state_7'
-                              value='WyJbXSIsImMzYmI3MTczODkwYjAxYmU4MGUyOWUyZjE4YmQ1YTFkIl0=' />
-                            <input type='hidden' class='gform_hidden'
-                              name='gform_target_page_number_7'
-                              id='gform_target_page_number_7' value='0' />
-                            <input type='hidden' class='gform_hidden'
-                              name='gform_source_page_number_7'
-                              id='gform_source_page_number_7' value='1' />
-                            <input type='hidden' name='gform_field_values'
-                              value='' />
+                        <div class="gform_footer top_label"> 
+                          <button class="xash-buton">Get My Cash Offer!</button>               
                         </div>
                     </form>
                 </div>

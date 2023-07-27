@@ -53,6 +53,127 @@
     </style>
 
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
+    <style>
+      @media(min-width:777px){
+
+        #image-13-225 {
+          width: 120px !important;
+        }
+      }
+      .oxy_shape_divider svg{
+        transform: scaleX(-1)!important;
+      }
+      #-shape-divider-152-91 .oxy_shape_divider{
+        transform: scaleY(-1) scaleX(-1)!important;
+
+      }
+      #_header_row-10-225{
+        border: none!important;
+      }
+      .p-4{
+        padding: 2rem;
+      }
+      .shadow-none{
+        box-shadow: none !important;
+      }
+      .text-align-start{
+        text-align: start !important;
+      }
+      .d-flex{
+        display: flex;
+      }
+      .m-center{
+        justify-content: center;
+        align-items: center;
+        gap: 18px;
+      }
+      .ten-scoff-btn::before {
+          position: absolute;
+          content: "";
+          background: url('{{asset('assets/images/arrow.png')}}') no-repeat;
+          width: 150px;
+          height: 150px;
+          background-size: 150px 150px;
+          transform: rotate(-29deg);
+          top: -230%;
+          right: -65%;
+      }
+      @media (max-width:767px){
+        .ten-scoff-btn::before {
+          position: absolute;
+          content: "";
+          display: none !important;
+          background: ;
+          width: 150px;
+          height: 150px;
+          background-size: 150px 150px;
+          transform: rotate(-29deg);
+          top: -230%;
+          right: -65%;
+      }
+      .max-flex-md-column{
+        flex-direction: column
+      }
+      }
+      .ten-scoff-btn {
+          /* border: 1px solid red; */
+          font-size: 28px;
+        font-weight: 700;
+        padding: 9px 25px;
+        width: 100%;
+        border: 3px solid #34496642;
+        border-radius: 5px !important;
+        background: #52a9dc !important;
+        color: #f7f7f7;
+        letter-spacing: 1px;
+        text-shadow: -2px 2px 6px #00000063;
+        transition: .4s all ease-in-out;
+
+          /* border-radius: 48px; */
+          /* color: #c7c7c7 !important; */
+          /* font-size: 27px; */
+          /* padding: 6px 28px; */
+          /* font-weight: 600; */
+          display: flex;
+          width: fit-content;
+          gap: 8px;
+          justify-content: center;
+          align-items: center;
+          margin-left: auto;
+          margin-right: auto;
+          position: relative;
+      }
+      .ten-scoff-btn:hover{
+        transition: .3s all ease-in-out;
+        background: rgba(15, 48, 67, 0.632) !important;
+        color: #f7f7f7
+      }
+      .xash-buton {
+        cursor: pointer;
+        text-transform: capitalize;
+        font-size: 42px;
+        font-weight: 700;
+        padding: 9px 25px;
+        width: 100%;
+        border: 3px solid #34496642;
+        border-radius: 5px !important;
+        background: #52a9dc !important;
+        color: #f7f7f7;
+        letter-spacing: 1px;
+        text-shadow: -2px 2px 6px #00000063;
+        transition: .4s all ease-in-out;
+      }
+      .xash-buton:hover{
+        transition: .3s all ease-in-out;
+        background: rgba(15, 48, 67, 0.632) !important;
+      }
+      @media (max-width: 568px){
+
+        .xash-buton {
+          font-size: 26px;
+        }
+      }
+      </style>
 
     @yield('schema')
 

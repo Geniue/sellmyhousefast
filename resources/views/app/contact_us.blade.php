@@ -4795,33 +4795,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="gform_footer top_label"> <input type="image"
-                              src="//www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast-button.webp"
-                              id="gform_submit_button_1"
-                              class="gform_button button gform-button--width-full gform_image_button"
-                              alt="Submit"
-                              onclick="if(window[&quot;gf_submitting_1&quot;]){return false;}  if( !jQuery(&quot;#gform_1&quot;)[0].checkValidity || jQuery(&quot;#gform_1&quot;)[0].checkValidity()){window[&quot;gf_submitting_1&quot;]=true;}  "
-                              onkeypress="if( event.keyCode == 13 ){ if(window[&quot;gf_submitting_1&quot;]){return false;} if( !jQuery(&quot;#gform_1&quot;)[0].checkValidity || jQuery(&quot;#gform_1&quot;)[0].checkValidity()){window[&quot;gf_submitting_1&quot;]=true;}  jQuery(&quot;#gform_1&quot;).trigger(&quot;submit&quot;,[true]); }">
-                            <input type="hidden" name="gform_ajax"
-                              value="form_id=1&amp;title=&amp;description=&amp;tabindex=0">
-                            <input type="hidden" class="gform_hidden"
-                              name="is_submit_1" value="1">
-                            <input type="hidden" class="gform_hidden"
-                              name="gform_submit" value="1">
-                            <input type="hidden" class="gform_hidden"
-                              name="gform_unique_id" value="">
-                            <input type="hidden" class="gform_hidden"
-                              name="state_1"
-                              value="WyJbXSIsImMzYmI3MTczODkwYjAxYmU4MGUyOWUyZjE4YmQ1YTFkIl0=">
-                            <input type="hidden" class="gform_hidden"
-                              name="gform_target_page_number_1"
-                              id="gform_target_page_number_1" value="0">
-                            <input type="hidden" class="gform_hidden"
-                              name="gform_source_page_number_1"
-                              id="gform_source_page_number_1" value="1">
-                            <input type="hidden" name="gform_field_values"
-                              value="">
-                        </div>
+                        <div class="gform_footer top_label"> 
+                            <button class="xash-buton">Get My Cash Offer!</button>               
+                          </div>
                     </form>
                 </div>
                 <iframe style="display:none;width:0px;height:0px;"
