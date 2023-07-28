@@ -569,7 +569,66 @@
                 are tired of dealing with bad tenants, or just want to sell
                 fast without paying for a real estate agent, we can make you
                 a quick, all cash offer!<b></b><br></p>
-                new_columns-612-106
+            <div id="new_columns-612-106" class="ct-new-columns">
+                <div id="div_block-613-106" class="ct-div-block"><img
+                      loading="lazy" id="image-1048-106"
+                      alt="want to sell my house fast"
+                      src="{{asset('assets/images/icons/inherited_house.png')}}"
+                      class="ct-image"
+                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
+                      alt="want to sell my house fast" />
+                    <h4 id="headline-632-106"
+                      class="ct-headline atomic-iconblock-12-title">
+                        Inherited House</h4><img loading="lazy"
+                      id="image-1051-106" alt="want to sell my home fast"
+                      src="{{asset('assets/images/icons/damage_proper.png')}}"
+                      class="ct-image"
+                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
+                      alt="want to sell my home fast" />
+                    <h4 id="headline-625-106"
+                      class="ct-headline atomic-iconblock-12-title">Damaged
+                        Property</h4>
+                </div>
+                <div id="div_block-616-106" class="ct-div-block"><img
+                      loading="lazy" id="image-1049-106"
+                      alt="want to sell house fast"
+                      src="{{asset('assets/images/icons/divorce.png')}}"
+                      class="ct-image"
+                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
+                      alt="want to sell house fast" />
+                    <h4 id="headline-642-106"
+                      class="ct-headline atomic-iconblock-12-title">Divorce
+                    </h4><img loading="lazy" id="image-1052-106"
+                      
+                      alt="want to sell home fast"
+                      src="{{asset('assets/images/icons/relocation.png')}}"
+                      class="ct-image"
+                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
+                      alt="want to sell home fast" />
+                    <h4 id="headline-648-106"
+                      class="ct-headline atomic-iconblock-12-title">
+                        Relocation</h4>
+                </div>
+                <div id="div_block-618-106" class="ct-div-block"><img
+                      loading="lazy" id="image-1050-106"
+                      alt="i want to sell my house fast"
+                      src="{{asset('assets/images/icons/avoid_foreclosure.png')}}"
+                      class="ct-image"
+                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
+                      alt="i want to sell my house fast" />
+                    <h4 id="headline-654-106"
+                      class="ct-headline atomic-iconblock-12-title">Avoid
+                        Foreclosure</h4><img loading="lazy"
+                      id="image-1053-106" alt="i want to sell my home fast"
+                      src="{{asset('assets/images/icons/bad_real_esta_agaenet.png')}}"
+                      class="ct-image"
+                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
+                      alt="i want to sell my home fast" />
+                    <h4 id="headline-660-106"
+                      class="ct-headline atomic-iconblock-12-title">Bad Real
+                        Estate Agent</h4>
+                </div>
+            </div>
             <p id="text_block-1852-106"
               class="ct-text-block atomic-content-26-text">We buy real
                 estate of all types including houses, 
