@@ -194,10 +194,10 @@
     <section id="section-1214-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <div id="new_columns-1217-106" class="ct-new-columns">
-                <div id="div_block-1218-106" class="ct-div-block "><img
+                <div id="div_block-1218-106" class="ct-div-block  p-4"><img
                       loading="lazy" id="image-1219-106"
                       alt="need to sell my home fast"
-                      src="{{asset('assets/images/dor-4.webp')}}"
+                      src="{{asset('assets/images/selling_cart.jpg')}}"
                       class="ct-image" /></div>
                 <div id="div_block-1221-106" class="ct-div-block">
                     <div id="div_block-1238-106" class="ct-div-block">
@@ -500,7 +500,7 @@
                         <p id="text_block-1303-106" class="ct-text-block">
                             FILL OUT FORM</p><img loading="lazy"
                           id="image-1317-106" alt="sale my home fast"
-                          src="{{asset('assets/images/step1.webp')}}"
+                          src="{{asset('assets/images/icons/fill_out_form.png')}}"
                           class="ct-image"
                           sizes="(max-width: 512px) 100vw, 512px"
                           alt="sale my home fast" />
@@ -519,7 +519,7 @@
                         <p id="text_block-1314-106" class="ct-text-block">
                             GET OFFERS</p><img loading="lazy"
                           id="image-1318-106" alt="sale my house fast"
-                          src="{{asset('assets/images/step2.webp')}}"
+                          src="{{asset('assets/images/icons/get_offer.png')}}"
                           class="ct-image"
                           sizes="(max-width: 512px) 100vw, 512px"
                           alt="sale my house fast" />
@@ -538,7 +538,7 @@
                         <p id="text_block-1319-106" class="ct-text-block">
                             GET PAID</p><img loading="lazy"
                           id="image-1323-106" alt="sale house fast"
-                          src="{{asset('assets/images/step3.webp')}}"
+                          src="{{asset('assets/images/icons/get_paid.png')}}"
                           class="ct-image"
                           sizes="(max-width: 512px) 100vw, 512px"
                           alt="sale house fast" />
@@ -569,69 +569,10 @@
                 are tired of dealing with bad tenants, or just want to sell
                 fast without paying for a real estate agent, we can make you
                 a quick, all cash offer!<b></b><br></p>
-            <div id="new_columns-612-106" class="ct-new-columns">
-                <div id="div_block-613-106" class="ct-div-block"><img
-                      loading="lazy" id="image-1048-106"
-                      alt="want to sell my house fast"
-                      src="{{asset('assets/images/icon-1.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
-                      alt="want to sell my house fast" />
-                    <h4 id="headline-632-106"
-                      class="ct-headline atomic-iconblock-12-title">
-                        Inherited House</h4><img loading="lazy"
-                      id="image-1051-106" alt="want to sell my home fast"
-                      src="{{asset('assets/images/icon-4.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
-                      alt="want to sell my home fast" />
-                    <h4 id="headline-625-106"
-                      class="ct-headline atomic-iconblock-12-title">Damaged
-                        Property</h4>
-                </div>
-                <div id="div_block-616-106" class="ct-div-block"><img
-                      loading="lazy" id="image-1049-106"
-                      alt="want to sell house fast"
-                      src="{{asset('assets/images/icon-2.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
-                      alt="want to sell house fast" />
-                    <h4 id="headline-642-106"
-                      class="ct-headline atomic-iconblock-12-title">Divorce
-                    </h4><img loading="lazy" id="image-1052-106"
-                      alt="want to sell home fast"
-                      src="{{asset('assets/images/icon-5.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
-                      alt="want to sell home fast" />
-                    <h4 id="headline-648-106"
-                      class="ct-headline atomic-iconblock-12-title">
-                        Relocation</h4>
-                </div>
-                <div id="div_block-618-106" class="ct-div-block"><img
-                      loading="lazy" id="image-1050-106"
-                      alt="i want to sell my house fast"
-                      src="{{asset('assets/images/icon-3.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
-                      alt="i want to sell my house fast" />
-                    <h4 id="headline-654-106"
-                      class="ct-headline atomic-iconblock-12-title">Avoid
-                        Foreclosure</h4><img loading="lazy"
-                      id="image-1053-106" alt="i want to sell my home fast"
-                      src="{{asset('assets/images/icon-6.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
-                      alt="i want to sell my home fast" />
-                    <h4 id="headline-660-106"
-                      class="ct-headline atomic-iconblock-12-title">Bad Real
-                        Estate Agent</h4>
-                </div>
-            </div>
+                new_columns-612-106
             <p id="text_block-1852-106"
               class="ct-text-block atomic-content-26-text">We buy real
-                estate of all types including houses, <a
-                  href="/sell-my-condo-fast/" style="">condos</a>,
+                estate of all types including houses, 
                 townhomes, apartments, buildings, duplexes, multi-family
                 homes… you name it. If you need to sell your home fast, we
                 will give you a free, no obligation, cash offer and set a
@@ -983,9 +924,9 @@
                 </div>
                 <div id="div_block-1642-106" class="ct-div-block"><img
                       id="image-1358-106" alt="sell your house fast"
-                      src="{{asset('assets/images/profile-1.webp')}}"
+                      style="border-radius: 50%;"
+                      src="{{asset('assets/images/female_wooden_house.jpg')}}"
                       class="ct-image"
-                      srcset="//www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-house-fast-online-quote.webp 529w, //www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-house-fast-online-quote-300x296.webp 300w"
                       sizes="(max-width: 529px) 100vw, 529px"
                       alt="sell your house fast" loading="lazy" /></div>
             </div>
@@ -1001,7 +942,7 @@
                   class="ct-div-block atomic-iconblock-4-column"><img
                       loading="lazy" id="image-1376-106"
                       alt="sell my home fast"
-                      src="{{asset('assets/images/fair-cash-offer.webp')}}"
+                      src="{{asset('assets/images/icons/fair_cash_offer.png')}}"
                       class="ct-image"
                       sizes="(max-width: 256px) 100vw, 256px"
                       alt="sell my home fast" />
@@ -1039,7 +980,7 @@
                   class="ct-div-block atomic-iconblock-4-column"><img
                       loading="lazy" id="image-1387-106"
                       alt="sale homes fast"
-                      src="{{asset('assets/images/no-fees.webp')}}.webp"
+                      src="{{asset('assets/images/icons/no_fee.png')}}"
                       class="ct-image"
                       sizes="(max-width: 256px) 100vw, 256px"
                       alt="sale homes fast" />
@@ -1057,7 +998,7 @@
                   class="ct-div-block atomic-iconblock-4-column"><img
                       loading="lazy" id="image-1391-106"
                       alt="selling my home"
-                      src="{{asset('assets/images/no-home-repairs.webp')}}"
+                      src="{{asset('assets/images/icons/no_home_repairs.png')}}"
                       class="ct-image"
                       sizes="(max-width: 512px) 100vw, 512px"
                       alt="selling my home" />
@@ -1076,7 +1017,7 @@
                 <div id="div_block-1395-106"
                   class="ct-div-block atomic-iconblock-4-column"><img
                       loading="lazy" id="image-1396-106" alt="sell my home"
-                      src="{{asset('assets/images/flexible-closing-time.webp')}}"
+                      src="{{asset('assets/images/icons/flexible_closing_time.png')}}"
                       class="ct-image"
                       sizes="(max-width: 256px) 100vw, 256px"
                       alt="sell my home" />
@@ -1093,7 +1034,7 @@
                 <div id="div_block-1399-106"
                   class="ct-div-block atomic-iconblock-4-column"><img
                       loading="lazy" id="image-1400-106" alt="sell home"
-                      src="{{asset('assets/images/simple-sale-process.webp')}}"
+                      src="{{asset('assets/images/icons/simiple_process.png')}}"
                       class="ct-image"
                       sizes="(max-width: 256px) 100vw, 256px"
                       alt="sell home" />
@@ -1333,7 +1274,7 @@
             <div id="div_block-220-106" class="ct-div-block">
                 <div id="div_block-221-106" class="p-4 ct-div-block atomic-iconblock-15-wrapper shadow-none">
                    
-                  <img loading="lazy"   style="border-radius: 50%;width:240px;" alt="sale my home fast" src="{{asset('assets/images/house-se.webp')}}" class="ct-image" sizes="(max-width: 512px) 100vw, 512px">
+                  <img loading="lazy"   style="border-radius: 50%;width:240px;height:240px;object-fit:cover;" alt="sale my home fast" src="{{asset('assets/images/relocated.jpg')}}" class="ct-image" sizes="(max-width: 512px) 100vw, 512px">
                   <ul class="bas-ldu-ul text-align-start"><li class="">Relocating</li>
                     <li>Probate</li>
                     <li>Tax Lien</li>
@@ -1347,7 +1288,7 @@
             <div id="div_block-220-106" class="ct-div-block">
                 <div id="div_block-221-106" class="p-4 ct-div-block atomic-iconblock-15-wrapper shadow-none">
                    
-                  <img loading="lazy"   style="border-radius: 50%;width:240px;" alt="sale my home fast" src="{{asset('assets/images/house-sa2.webp')}}" class="ct-image" sizes="(max-width: 512px) 100vw, 512px">
+                  <img loading="lazy"   style="border-radius: 50%;width:240px;height:240px;object-fit:cover;" alt="sale my home fast" src="{{asset('assets/images/vacant_home.jpg')}}" class="ct-image" sizes="(max-width: 512px) 100vw, 512px">
                   <ul class="bas-ldu-ul text-align-start">
                     <li><em>Vacant Home</em></li>
                     <li><em>Mold</em></li>
@@ -1363,7 +1304,7 @@
             <div id="div_block-220-106" class="ct-div-block">
                 <div id="div_block-221-106" class="p-4 ct-div-block atomic-iconblock-15-wrapper shadow-none">
                    
-                  <img loading="lazy"   style="border-radius: 50%;width:240px;" alt="sale my home fast" src="{{asset('assets/images/notice.webp')}}" class="ct-image" sizes="(max-width: 512px) 100vw, 512px">
+                  <img loading="lazy"   style="border-radius: 50%;width:240px;height:240px;object-fit:cover;" alt="sale my home fast" src="{{asset('assets/images/notice.jpg')}}" class="ct-image" sizes="(max-width: 512px) 100vw, 512px">
                   <ul class="bas-ldu-ul text-align-start">
                     <li>Job Loss</li>
                     <li>Expired Listing</li>
@@ -1392,8 +1333,7 @@
                 <div id="div_block-536-106" class="ct-div-block ">
                     <p id="text_block-1603-106"
                       class="ct-text-block atomic-content-26-text">We buy
-                        homes in every state and <a
-                          href="/we-buy-houses-canada/">Canada</a> with our
+                        homes in every state and  with our
                         network of local real estate buyers in each market.
                         We work with a local title company or real estate
                         attorney in every state who handles escrow and

@@ -4891,11 +4891,7 @@
                 <div id="text_block-114-6066"
                   class="ct-text-block atomic-content-4-text"><b></b><i><b>Thank
                             you. Let’s get your house sold
-                            fairly!</b></i><b></b></div><img loading="lazy"
-                  id="image-92-6066" alt="our company"
-                  src="{{asset('asset/images/andy-liz-signatures.webp')}}"
-                  class="ct-image"
-                  sizes="(max-width: 998px) 100vw, 998px">
+                            fairly!</b></i><b></b></div>
             </div>
         </div>
     </section>

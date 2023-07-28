@@ -4546,12 +4546,12 @@
     <section id="section-97-232" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <h2 id="headline-98-232"
-              class="ct-headline atomic-secondary-heading">Meet the Two of Us!
+              class="ct-headline atomic-secondary-heading">About Us!
             </h2>
             <div id="new_columns-262-25" class="ct-new-columns">
                 <div id="div_block-263-25" class="ct-div-block"><img
                       loading="lazy" id="image-313-25" alt="about us"
-                      src="{{asset('assets/images/about-us.webp')}}"
+                      src="{{asset('assets/images/selling_board.jpg')}}"
                       class="ct-image"
                       sizes="(max-width: 1024px) 100vw, 1024px"></div>
                 <div id="div_block-264-25" class="ct-div-block">
@@ -4637,11 +4637,6 @@
                   style="">Our goal is to help every homeowner, including you.
                     You will be treated with respect &amp; integrity the entire
                     way.</i><br></p>
-            <div id="div_block-290-25" class="ct-div-block"><img loading="lazy"
-                  id="image-291-25" alt="andy kolodgie and liz hutz"
-                  src="{{asset('assets/images/andy-liz-signatures.webp')}}"
-                  class="ct-image"
-                  sizes="(max-width: 998px) 100vw, 998px"></div>
         </div>
     </section>
 </div>

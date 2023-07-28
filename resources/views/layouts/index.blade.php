@@ -71,7 +71,7 @@
         border: none!important;
       }
       .p-4{
-        padding: 2rem;
+        padding: 2rem!important;
       }
       .shadow-none{
         box-shadow: none !important;

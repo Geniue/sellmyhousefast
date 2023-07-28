@@ -11561,12 +11561,6 @@
                         Home Sale!</span></div>
             </h2>
             <div id="new_columns-784-13" class="ct-new-columns">
-                <div id="div_block-787-13" class="ct-div-block"><img
-                      loading="lazy" id="image-788-13"
-                      alt="how it works simple home sale"
-                      src="{{asset('assets/images/profile-1.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 512px) 100vw, 512px"></div>
                 <div id="div_block-785-13" class="ct-div-block">
                     <div id="text_block-786-13"
                       class="ct-text-block atomic-subheading">

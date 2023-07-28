@@ -33,15 +33,7 @@
                         team@sellmyhousefast.com</div>
                 </a>
                 <p id="text_block-159-91" class="ct-text-block"><b>SEO Generated
-                        by SEO Meets REI:</b></p><a id="link-166-91"
-                  class="ct-link"
-                  href="/"
-                  target="_blank"><img id="image-164-91"
-                      alt="seo meets real estate investors"
-                      src="{{asset('assets/images/primary-logo.webp')}}"
-                      class="ct-image"
-                      srcset="{{asset('assets/images/primary-logo.webp')}} 512w, {{asset('assets/images/primary-logo.webp')}} 300w, {{asset('assets/images/primary-logo.webp')}} 150w"
-                      sizes="(max-width: 512px) 100vw, 512px"></a>
+                        by SEO Meets REI:</b></p>
                 <p id="text_block-79-91" class="ct-text-block">©&nbsp;<span
                       id="span-81-91" class="ct-span">2023</span> Sell My House
                     Fast</p>

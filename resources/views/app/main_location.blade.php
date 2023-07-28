@@ -360,7 +360,7 @@
                 <div id="div_block-1218-106" class="ct-div-block "><img
                       loading="lazy" id="image-1219-106"
                       alt="need to sell my home fast"
-                      src="{{asset('assets/images/dor-4.webp')}}"
+                      src="{{asset('assets/images/selling_cart.jpg')}}"
                       class="ct-image" /></div>
                 <div id="div_block-1221-106" class="ct-div-block">
                     <div id="div_block-1238-106" class="ct-div-block">
@@ -652,64 +652,64 @@
                 selling experience by giving you access to a cash home buyer who
                 operates exclusively in your market.<br></p>
                 <div id="new_columns-219-106" class="ct-new-columns">
-                    <div id="div_block-220-106" class="ct-div-block">
-                        <div id="div_block-221-106"
-                          class="ct-div-block atomic-iconblock-15-wrapper">
-                            <div id="div_block-1272-106" class="ct-div-block">
-                                <p id="text_block-1292-106"
-                                  class="ct-text-block">Step 1</p>
-                            </div>
-                            <p id="text_block-1303-106" class="ct-text-block">
-                                FILL OUT FORM</p><img loading="lazy"
-                              id="image-1317-106" alt="sale my home fast"
-                              src="{{asset('assets/images/step1.webp')}}"
-                              class="ct-image"
-                              sizes="(max-width: 512px) 100vw, 512px"
-                              alt="sale my home fast" />
-                            <p id="text_block-1305-106" class="ct-text-block">
-                                Fill out the form, and we will connect you with
-                                a local cash buyer.</p>
-                        </div>
-                    </div>
-                    <div id="div_block-1288-106" class="ct-div-block">
-                        <div id="div_block-1289-106"
-                          class="ct-div-block atomic-iconblock-15-wrapper">
-                            <div id="div_block-1290-106" class="ct-div-block">
-                                <p id="text_block-1295-106"
-                                  class="ct-text-block">Step 2</p>
-                            </div>
-                            <p id="text_block-1314-106" class="ct-text-block">
-                                GET OFFERS</p><img loading="lazy"
-                              id="image-1318-106" alt="sale my house fast"
-                              src="{{asset('assets/images/step2.webp')}}"
-                              class="ct-image"
-                              sizes="(max-width: 512px) 100vw, 512px"
-                              alt="sale my house fast" />
-                            <p id="text_block-1309-106" class="ct-text-block">
-                                Receive a CASH offer for your house from a local
-                                buyer. No obligations.</p>
-                        </div>
-                    </div>
-                    <div id="div_block-1284-106" class="ct-div-block">
-                        <div id="div_block-1285-106"
-                          class="ct-div-block atomic-iconblock-15-wrapper">
-                            <div id="div_block-1286-106" class="ct-div-block">
-                                <p id="text_block-1296-106"
-                                  class="ct-text-block">Step 3</p>
-                            </div>
-                            <p id="text_block-1319-106" class="ct-text-block">
-                                GET PAID</p><img loading="lazy"
-                              id="image-1323-106" alt="sale house fast"
-                              src="{{asset('assets/images/step3.webp')}}"
-                              class="ct-image"
-                              sizes="(max-width: 512px) 100vw, 512px"
-                              alt="sale house fast" />
-                            <p id="text_block-1321-106" class="ct-text-block">
-                                Get cash for your house! Close on your timeline.
-                                No hassles.</p>
-                        </div>
-                    </div>
-                </div>
+                  <div id="div_block-220-106" class="ct-div-block">
+                      <div id="div_block-221-106"
+                        class="ct-div-block atomic-iconblock-15-wrapper">
+                          <div id="div_block-1272-106" class="ct-div-block">
+                              <p id="text_block-1292-106"
+                                class="ct-text-block">Step 1</p>
+                          </div>
+                          <p id="text_block-1303-106" class="ct-text-block">
+                              FILL OUT FORM</p><img loading="lazy"
+                            id="image-1317-106" alt="sale my home fast"
+                            src="{{asset('assets/images/icons/fill_out_form.png')}}"
+                            class="ct-image"
+                            sizes="(max-width: 512px) 100vw, 512px"
+                            alt="sale my home fast" />
+                          <p id="text_block-1305-106" class="ct-text-block">
+                              Fill out the form, and we will connect you with
+                              a local cash buyer.</p>
+                      </div>
+                  </div>
+                  <div id="div_block-1288-106" class="ct-div-block">
+                      <div id="div_block-1289-106"
+                        class="ct-div-block atomic-iconblock-15-wrapper">
+                          <div id="div_block-1290-106" class="ct-div-block">
+                              <p id="text_block-1295-106"
+                                class="ct-text-block">Step 2</p>
+                          </div>
+                          <p id="text_block-1314-106" class="ct-text-block">
+                              GET OFFERS</p><img loading="lazy"
+                            id="image-1318-106" alt="sale my house fast"
+                            src="{{asset('assets/images/icons/get_offer.png')}}"
+                            class="ct-image"
+                            sizes="(max-width: 512px) 100vw, 512px"
+                            alt="sale my house fast" />
+                          <p id="text_block-1309-106" class="ct-text-block">
+                              Receive a CASH offer for your house from a local
+                              buyer. No obligations.</p>
+                      </div>
+                  </div>
+                  <div id="div_block-1284-106" class="ct-div-block">
+                      <div id="div_block-1285-106"
+                        class="ct-div-block atomic-iconblock-15-wrapper">
+                          <div id="div_block-1286-106" class="ct-div-block">
+                              <p id="text_block-1296-106"
+                                class="ct-text-block">Step 3</p>
+                          </div>
+                          <p id="text_block-1319-106" class="ct-text-block">
+                              GET PAID</p><img loading="lazy"
+                            id="image-1323-106" alt="sale house fast"
+                            src="{{asset('assets/images/icons/get_paid.png')}}"
+                            class="ct-image"
+                            sizes="(max-width: 512px) 100vw, 512px"
+                            alt="sale house fast" />
+                          <p id="text_block-1321-106" class="ct-text-block">
+                              Get cash for your house! Close on your timeline.
+                              No hassles.</p>
+                      </div>
+                  </div>
+              </div>
             <p id="text_block-1569-106"
               class="ct-text-block atomic-content-26-text">Sell My House Fast
                 makes the home sale process simple. Unlike big home buying
@@ -730,65 +730,66 @@
                 are tired of dealing with bad tenants, or just want to sell
                 fast without paying for a real estate agent, we can make you
                 a quick, all cash offer!<b></b><br></p>
-            <div id="new_columns-612-106" class="ct-new-columns">
-                <div id="div_block-613-106" class="ct-div-block"><img
-                      loading="lazy" id="image-1048-106"
-                      alt="want to sell my house fast"
-                      src="{{asset('assets/images/icon-1.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
-                      alt="want to sell my house fast" />
-                    <h4 id="headline-632-106"
-                      class="ct-headline atomic-iconblock-12-title">
-                        Inherited House</h4><img loading="lazy"
-                      id="image-1051-106" alt="want to sell my home fast"
-                      src="{{asset('assets/images/icon-4.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
-                      alt="want to sell my home fast" />
-                    <h4 id="headline-625-106"
-                      class="ct-headline atomic-iconblock-12-title">Damaged
-                        Property</h4>
-                </div>
-                <div id="div_block-616-106" class="ct-div-block"><img
-                      loading="lazy" id="image-1049-106"
-                      alt="want to sell house fast"
-                      src="{{asset('assets/images/icon-2.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
-                      alt="want to sell house fast" />
-                    <h4 id="headline-642-106"
-                      class="ct-headline atomic-iconblock-12-title">Divorce
-                    </h4><img loading="lazy" id="image-1052-106"
-                      alt="want to sell home fast"
-                      src="{{asset('assets/images/icon-5.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
-                      alt="want to sell home fast" />
-                    <h4 id="headline-648-106"
-                      class="ct-headline atomic-iconblock-12-title">
-                        Relocation</h4>
-                </div>
-                <div id="div_block-618-106" class="ct-div-block"><img
-                      loading="lazy" id="image-1050-106"
-                      alt="i want to sell my house fast"
-                      src="{{asset('assets/images/icon-3.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
-                      alt="i want to sell my house fast" />
-                    <h4 id="headline-654-106"
-                      class="ct-headline atomic-iconblock-12-title">Avoid
-                        Foreclosure</h4><img loading="lazy"
-                      id="image-1053-106" alt="i want to sell my home fast"
-                      src="{{asset('assets/images/icon-6.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
-                      alt="i want to sell my home fast" />
-                    <h4 id="headline-660-106"
-                      class="ct-headline atomic-iconblock-12-title">Bad Real
-                        Estate Agent</h4>
-                </div>
-            </div>
+                <div id="new_columns-612-106" class="ct-new-columns">
+                  <div id="div_block-613-106" class="ct-div-block"><img
+                        loading="lazy" id="image-1048-106"
+                        alt="want to sell my house fast"
+                        src="{{asset('assets/images/icons/inherited_house.png')}}"
+                        class="ct-image"
+                        sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
+                        alt="want to sell my house fast" />
+                      <h4 id="headline-632-106"
+                        class="ct-headline atomic-iconblock-12-title">
+                          Inherited House</h4><img loading="lazy"
+                        id="image-1051-106" alt="want to sell my home fast"
+                        src="{{asset('assets/images/icons/damage_proper.png')}}"
+                        class="ct-image"
+                        sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
+                        alt="want to sell my home fast" />
+                      <h4 id="headline-625-106"
+                        class="ct-headline atomic-iconblock-12-title">Damaged
+                          Property</h4>
+                  </div>
+                  <div id="div_block-616-106" class="ct-div-block"><img
+                        loading="lazy" id="image-1049-106"
+                        alt="want to sell house fast"
+                        src="{{asset('assets/images/icons/divorce.png')}}"
+                        class="ct-image"
+                        sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
+                        alt="want to sell house fast" />
+                      <h4 id="headline-642-106"
+                        class="ct-headline atomic-iconblock-12-title">Divorce
+                      </h4><img loading="lazy" id="image-1052-106"
+                        
+                        alt="want to sell home fast"
+                        src="{{asset('assets/images/icons/relocation.png')}}"
+                        class="ct-image"
+                        sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
+                        alt="want to sell home fast" />
+                      <h4 id="headline-648-106"
+                        class="ct-headline atomic-iconblock-12-title">
+                          Relocation</h4>
+                  </div>
+                  <div id="div_block-618-106" class="ct-div-block"><img
+                        loading="lazy" id="image-1050-106"
+                        alt="i want to sell my house fast"
+                        src="{{asset('assets/images/icons/avoid_foreclosure.png')}}"
+                        class="ct-image"
+                        sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
+                        alt="i want to sell my house fast" />
+                      <h4 id="headline-654-106"
+                        class="ct-headline atomic-iconblock-12-title">Avoid
+                          Foreclosure</h4><img loading="lazy"
+                        id="image-1053-106" alt="i want to sell my home fast"
+                        src="{{asset('assets/images/icons/bad_real_esta_agaenet.png')}}"
+                        class="ct-image"
+                        sizes="(max-width: 512px) 100vw, 512px" loading="lazy"
+                        alt="i want to sell my home fast" />
+                      <h4 id="headline-660-106"
+                        class="ct-headline atomic-iconblock-12-title">Bad Real
+                          Estate Agent</h4>
+                  </div>
+              </div>
             <p id="text_block-1852-106"
               class="ct-text-block atomic-content-26-text">We buy real
                 estate of all types including houses, <a
@@ -1186,135 +1187,128 @@
                               href="#sell-your-house-fast">fill out our form</a>
                             to get started!</b><b></b><br></p>
                 </div>
-                <div id="div_block-1642-106" class="ct-div-block"><img
-                    id="image-1358-106" alt="sell your house fast"
-                    src="{{asset('assets/images/profile-1.webp')}}"
-                    class="ct-image"
-                    srcset="//www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-house-fast-online-quote.webp 529w, //www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-house-fast-online-quote-300x296.webp 300w"
-                    sizes="(max-width: 529px) 100vw, 529px"
-                    alt="sell your house fast" loading="lazy" /></div>
             </div>
         </div>
     </section>
     <section id="section-1360-106" class=" ct-section">
-        <div class="ct-section-inner-wrap">
-            <h2 id="headline-1361-106"
-              class="ct-headline atomic-secondary-heading">Sell My House For Cash {{$heading}}
-            </h2>
-            <div id="new_columns-1363-106" class="ct-new-columns">
-                <div id="div_block-1364-106"
-                  class="ct-div-block atomic-iconblock-4-column"><img
-                      loading="lazy" id="image-1376-106"
-                      alt="sell my home fast"
-                      src="{{asset('assets/images/fair-cash-offer.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 256px) 100vw, 256px"
-                      alt="sell my home fast" />
-                    <h3 id="text_block-1377-106" class="ct-text-block">Fair
-                        Cash Offer</h3>
-                    <div id="text_block-1367-106"
-                      class="ct-text-block atomic-iconblock-4-text">
-                        <div style="text-align: center;">Sell your house
-                            fast for a fair cash offer! We can say this with
-                            confidence because our local investors have
-                            helped hundreds of homeowners.</div>
-                    </div>
-                </div>
-                <div id="div_block-1369-106"
-                  class="ct-div-block atomic-iconblock-4-column"><img
-                      loading="lazy" id="image-1380-106"
-                      alt="sell home fast"
-                      src="{{asset('assets/images/fast-closing.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 256px) 100vw, 256px"
-                      alt="sell home fast" />
-                    <h3 id="text_block-1381-106" class="ct-text-block">
-                        <i>Fast</i> Closing</h3>
-                    <div id="text_block-1372-106"
-                      class="ct-text-block atomic-iconblock-4-text">
-                        <div style="text-align: center;">Sell My House Fast
-                            does just that– we buy your house as fast as you
-                            need. As cash home buyers, we can close as
-                            quickly as 7 days!</div>
-                    </div>
-                </div>
-            </div>
-            <div id="new_columns-1385-106" class="ct-new-columns">
-                <div id="div_block-1386-106"
-                  class="ct-div-block atomic-iconblock-4-column"><img
-                      loading="lazy" id="image-1387-106"
-                      alt="sale homes fast"
-                      src="{{asset('assets/images/no-fees.webp')}}.webp"
-                      class="ct-image"
-                      sizes="(max-width: 256px) 100vw, 256px"
-                      alt="sale homes fast" />
-                    <h3 id="text_block-1388-106" class="ct-text-block">No
-                        Agent or iBuyer Fees</h3>
-                    <div id="text_block-1389-106"
-                      class="ct-text-block atomic-iconblock-4-text">
-                        <div style="text-align: center;">Our cash offer for
-                            your house is what you will receive at closing.
-                            We cover all closing costs. No real estate fees.
-                            No agent commission.</div>
-                    </div>
-                </div>
-                <div id="div_block-1390-106"
-                  class="ct-div-block atomic-iconblock-4-column"><img
-                      loading="lazy" id="image-1391-106"
-                      alt="selling my home"
-                      src="{{asset('assets/images/no-home-repairs.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 512px) 100vw, 512px"
-                      alt="selling my home" />
-                    <h3 id="text_block-1392-106" class="ct-text-block">
-                        <i></i>No Home Repairs</h3>
-                    <div id="text_block-1393-106"
-                      class="ct-text-block atomic-iconblock-4-text">
-                        <div style="text-align: center;">Sell your house
-                            without even picking up a paint brush. As cash
-                            buyers, we take care of all the renovations and
-                            cleaning.</div>
-                    </div>
-                </div>
-            </div>
-            <div id="new_columns-1394-106" class="ct-new-columns">
-                <div id="div_block-1395-106"
-                  class="ct-div-block atomic-iconblock-4-column"><img
-                      loading="lazy" id="image-1396-106" alt="sell my home"
-                      src="{{asset('assets/images/flexible-closing-time.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 256px) 100vw, 256px"
-                      alt="sell my home" />
-                    <h3 id="text_block-1397-106" class="ct-text-block">
-                        Flexible Closing Time<br></h3>
-                    <div id="text_block-1398-106"
-                      class="ct-text-block atomic-iconblock-4-text">
-                        <div style="text-align: center;">Sell My House Fast
-                            accommodates any timeline including homeowners
-                            on a tight schedule. You set the closing date!
-                        </div>
-                    </div>
-                </div>
-                <div id="div_block-1399-106"
-                  class="ct-div-block atomic-iconblock-4-column"><img
-                      loading="lazy" id="image-1400-106" alt="sell home"
-                      src="{{asset('assets/images/simple-sale-process.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 256px) 100vw, 256px"
-                      alt="sell home" />
-                    <h3 id="text_block-1401-106" class="ct-text-block">
-                        <i></i>Simple Sale Process</h3>
-                    <div id="text_block-1402-106"
-                      class="ct-text-block atomic-iconblock-4-text">
-                        <div style="text-align: center;">Sell My House Fast
-                            runs on our simple selling process. It’s the top
-                            reason sellers choose us over an agent or fsbo!
-                            No home listing. No headaches.</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+      <div class="ct-section-inner-wrap">
+          <h2 id="headline-1361-106"
+            class="ct-headline atomic-secondary-heading">Sell My House For Cash {{$heading}}
+          </h2>
+          <div id="new_columns-1363-106" class="ct-new-columns">
+              <div id="div_block-1364-106"
+                class="ct-div-block atomic-iconblock-4-column"><img
+                    loading="lazy" id="image-1376-106"
+                    alt="sell my home fast"
+                    src="{{asset('assets/images/icons/fair_cash_offer.png')}}"
+                    class="ct-image"
+                    sizes="(max-width: 256px) 100vw, 256px"
+                    alt="sell my home fast" />
+                  <h3 id="text_block-1377-106" class="ct-text-block">Fair
+                      Cash Offer</h3>
+                  <div id="text_block-1367-106"
+                    class="ct-text-block atomic-iconblock-4-text">
+                      <div style="text-align: center;">Sell your house
+                          fast for a fair cash offer! We can say this with
+                          confidence because our local investors have
+                          helped hundreds of homeowners.</div>
+                  </div>
+              </div>
+              <div id="div_block-1369-106"
+                class="ct-div-block atomic-iconblock-4-column"><img
+                    loading="lazy" id="image-1380-106"
+                    alt="sell home fast"
+                    src="{{asset('assets/images/fast-closing.webp')}}"
+                    class="ct-image"
+                    sizes="(max-width: 256px) 100vw, 256px"
+                    alt="sell home fast" />
+                  <h3 id="text_block-1381-106" class="ct-text-block">
+                      <i>Fast</i> Closing</h3>
+                  <div id="text_block-1372-106"
+                    class="ct-text-block atomic-iconblock-4-text">
+                      <div style="text-align: center;">Sell My House Fast
+                          does just that– we buy your house as fast as you
+                          need. As cash home buyers, we can close as
+                          quickly as 7 days!</div>
+                  </div>
+              </div>
+          </div>
+          <div id="new_columns-1385-106" class="ct-new-columns">
+              <div id="div_block-1386-106"
+                class="ct-div-block atomic-iconblock-4-column"><img
+                    loading="lazy" id="image-1387-106"
+                    alt="sale homes fast"
+                    src="{{asset('assets/images/icons/no_fee.png')}}"
+                    class="ct-image"
+                    sizes="(max-width: 256px) 100vw, 256px"
+                    alt="sale homes fast" />
+                  <h3 id="text_block-1388-106" class="ct-text-block">No
+                      Agent or iBuyer Fees</h3>
+                  <div id="text_block-1389-106"
+                    class="ct-text-block atomic-iconblock-4-text">
+                      <div style="text-align: center;">Our cash offer for
+                          your house is what you will receive at closing.
+                          We cover all closing costs. No real estate fees.
+                          No agent commission.</div>
+                  </div>
+              </div>
+              <div id="div_block-1390-106"
+                class="ct-div-block atomic-iconblock-4-column"><img
+                    loading="lazy" id="image-1391-106"
+                    alt="selling my home"
+                    src="{{asset('assets/images/icons/no_home_repairs.png')}}"
+                    class="ct-image"
+                    sizes="(max-width: 512px) 100vw, 512px"
+                    alt="selling my home" />
+                  <h3 id="text_block-1392-106" class="ct-text-block">
+                      <i></i>No Home Repairs</h3>
+                  <div id="text_block-1393-106"
+                    class="ct-text-block atomic-iconblock-4-text">
+                      <div style="text-align: center;">Sell your house
+                          without even picking up a paint brush. As cash
+                          buyers, we take care of all the renovations and
+                          cleaning.</div>
+                  </div>
+              </div>
+          </div>
+          <div id="new_columns-1394-106" class="ct-new-columns">
+              <div id="div_block-1395-106"
+                class="ct-div-block atomic-iconblock-4-column"><img
+                    loading="lazy" id="image-1396-106" alt="sell my home"
+                    src="{{asset('assets/images/icons/flexible_closing_time.png')}}"
+                    class="ct-image"
+                    sizes="(max-width: 256px) 100vw, 256px"
+                    alt="sell my home" />
+                  <h3 id="text_block-1397-106" class="ct-text-block">
+                      Flexible Closing Time<br></h3>
+                  <div id="text_block-1398-106"
+                    class="ct-text-block atomic-iconblock-4-text">
+                      <div style="text-align: center;">Sell My House Fast
+                          accommodates any timeline including homeowners
+                          on a tight schedule. You set the closing date!
+                      </div>
+                  </div>
+              </div>
+              <div id="div_block-1399-106"
+                class="ct-div-block atomic-iconblock-4-column"><img
+                    loading="lazy" id="image-1400-106" alt="sell home"
+                    src="{{asset('assets/images/icons/simiple_process.png')}}"
+                    class="ct-image"
+                    sizes="(max-width: 256px) 100vw, 256px"
+                    alt="sell home" />
+                  <h3 id="text_block-1401-106" class="ct-text-block">
+                      <i></i>Simple Sale Process</h3>
+                  <div id="text_block-1402-106"
+                    class="ct-text-block atomic-iconblock-4-text">
+                      <div style="text-align: center;">Sell My House Fast
+                          runs on our simple selling process. It’s the top
+                          reason sellers choose us over an agent or fsbo!
+                          No home listing. No headaches.</div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </section>
     <section id="section-1596-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <div id="div_block-1597-106" class="ct-div-block">
