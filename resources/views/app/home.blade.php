@@ -102,13 +102,12 @@
             </div>
         </div>
     </section>
-    <section id="section-353-106" class=" ct-section">
+    {{-- <section id="section-353-106" class=" ct-section">
       <div class="ct-section-inner-wrap">
         <div id="new_columns-1640-106" class="ct-new-columns">
           <div id="div_block-1641-106" class="ct-div-block">
             <div class="wp-block-column">
-                          <h3 id="headline-1599-106" class="ct-headline">Why Sell To a ASAP
-                            Cash Offer?</h3>
+                          <h3 id="headline-1599-106" class="ct-headline">Why Sell To a EZ Sell My House Fast?</h3>
 
               <ol id="block-f560c857-bcdb-40c6-a484-c36d8471aadd" class="is-style-default">
                   <li class="atomic-content-26-text ">You Pay <span style="text-decoration: underline"><strong>Zero
@@ -128,31 +127,15 @@
           </div>
           <div id="div_block-1642-106" class="ct-div-block">
  
-          <img decoding="async" class="yt-image" src="https://i.ytimg.com/vi/Q3ZE_bHPxBo/hqdefault.jpg" srcset="https://i.ytimg.com/vi/Q3ZE_bHPxBo/hqdefault.jpg 480w" alt="Sell My House Fast for Cash - ASAP Cash Offer" loading="lazy">
+          <img decoding="async" class="yt-image" src="{{asset('assets/images/hqdefault (1).jpg')}}" alt="Sell My House Fast for Cash - ASAP Cash Offer" loading="lazy">
       
           </div>
 
           </div>
       </div>
       </div>
-  </section>
-  <section id="section-353-106" class=" ct-section">
-    <div class="ct-section-inner-wrap">
-      <div class="ten-scoff-btn-wrapper max-flex-md-column mx-auto py-0 d-flex m-center ">
-        <div class="d-flex ">
-          <h4><strong>
-            Speak with Live
-            <br>
-             Agent Now
-            </strong></h4>
-        </div>
-        <a href="#" class="ten-scoff-btn mx-lg-4">
-          <svg fill="#ffffff" width="35" height="35" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 33.834 33.834" xml:space="preserve" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path d="M32.253,29.334v4.5H1.581v-4.501c0-2.125,1.832-4.741,4.07-5.804l4.98-2.366l3.457,7.204l1.77-4.799 c0.349,0.066,0.695,0.154,1.059,0.154s0.709-0.088,1.059-0.154l1.68,4.563l3.389-7.048l5.141,2.445 C30.421,24.591,32.253,27.207,32.253,29.334z M6.105,13.562v-3.25c0-0.551,0.287-1.034,0.72-1.312c0.581-5.058,4.883-9,10.094-9 s9.514,3.942,10.096,9c0.432,0.278,0.719,0.761,0.719,1.312v3.25c0,0.863-0.699,1.563-1.563,1.563s-1.563-0.7-1.563-1.563v-0.683 c-0.846,4.255-3.961,8.205-7.688,8.205c-3.727,0-6.842-3.95-7.688-8.205v0.683c0,0.7-0.465,1.286-1.1,1.485 c0.622,2.117,2.002,3.946,3.908,5.146c0.352-0.116,0.796-0.094,1.227,0.13c0.692,0.36,1.045,1.06,0.783,1.56 c-0.261,0.5-1.033,0.612-1.729,0.251c-0.508-0.265-0.83-0.71-0.864-1.126c-2.183-1.396-3.731-3.533-4.37-5.998 C6.513,14.78,6.105,14.22,6.105,13.562z M7.89,8.635c0.047,0.003,0.092,0.004,0.137,0.021C8.14,8.698,8.222,8.779,8.279,8.874 c0.339,0.144,0.609,0.407,0.775,0.733C9.515,5.286,12.855,3,16.917,3c4.062,0,7.402,2.286,7.863,6.607 c0.229-0.449,0.664-0.77,1.185-0.837c-0.676-4.393-4.47-7.771-9.048-7.771C12.386,1,8.622,4.309,7.89,8.635z"></path> </g> </g></svg>          {{-- <img src="https://real.whippdigital.com/assets/images/live_chat.png" width="180" height="180" alt=""> --}}
-        Live Agent
-        </a>
-        </div>          
-    </div>
-</section>
+  </section> --}}
+
     <section id="section-353-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <h2 id="headline-354-106"
@@ -189,7 +172,23 @@
                   sizes="(max-width: 1332px) 100vw, 1332px" /></div>
         </div>
     </section>
-
+    <section id="section-353-106" class=" ct-section bg-lightblue">
+      <div class="ct-section-inner-wrap ">
+        <div class="ten-scoff-btn-wrapper max-flex-md-column mx-auto py-0 d-flex m-center ">
+          <div class="d-flex ">
+            <h4><strong>
+              Speak with Live
+              <br>
+               Agent Now
+              </strong></h4>
+          </div>
+          <a href="#" class="ten-scoff-btn mx-lg-4">
+            <svg fill="#ffffff" width="35" height="35" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 33.834 33.834" xml:space="preserve" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path d="M32.253,29.334v4.5H1.581v-4.501c0-2.125,1.832-4.741,4.07-5.804l4.98-2.366l3.457,7.204l1.77-4.799 c0.349,0.066,0.695,0.154,1.059,0.154s0.709-0.088,1.059-0.154l1.68,4.563l3.389-7.048l5.141,2.445 C30.421,24.591,32.253,27.207,32.253,29.334z M6.105,13.562v-3.25c0-0.551,0.287-1.034,0.72-1.312c0.581-5.058,4.883-9,10.094-9 s9.514,3.942,10.096,9c0.432,0.278,0.719,0.761,0.719,1.312v3.25c0,0.863-0.699,1.563-1.563,1.563s-1.563-0.7-1.563-1.563v-0.683 c-0.846,4.255-3.961,8.205-7.688,8.205c-3.727,0-6.842-3.95-7.688-8.205v0.683c0,0.7-0.465,1.286-1.1,1.485 c0.622,2.117,2.002,3.946,3.908,5.146c0.352-0.116,0.796-0.094,1.227,0.13c0.692,0.36,1.045,1.06,0.783,1.56 c-0.261,0.5-1.033,0.612-1.729,0.251c-0.508-0.265-0.83-0.71-0.864-1.126c-2.183-1.396-3.731-3.533-4.37-5.998 C6.513,14.78,6.105,14.22,6.105,13.562z M7.89,8.635c0.047,0.003,0.092,0.004,0.137,0.021C8.14,8.698,8.222,8.779,8.279,8.874 c0.339,0.144,0.609,0.407,0.775,0.733C9.515,5.286,12.855,3,16.917,3c4.062,0,7.402,2.286,7.863,6.607 c0.229-0.449,0.664-0.77,1.185-0.837c-0.676-4.393-4.47-7.771-9.048-7.771C12.386,1,8.622,4.309,7.89,8.635z"></path> </g> </g></svg>          {{-- <img src="https://real.whippdigital.com/assets/images/live_chat.png" width="180" height="180" alt=""> --}}
+          Live Agent
+          </a>
+          </div>          
+      </div>
+  </section>
 
     <section id="section-1214-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
@@ -489,65 +488,79 @@
                     estate investors. </b>We want to enhance your selling
                 experience by giving you access to a cash home buyer who
                 operates exclusively in your market.<br></p>
-            <div id="new_columns-219-106" class="ct-new-columns">
-                <div id="div_block-220-106" class="ct-div-block">
-                    <div id="div_block-221-106"
-                      class="ct-div-block atomic-iconblock-15-wrapper">
-                        <div id="div_block-1272-106" class="ct-div-block">
-                            <p id="text_block-1292-106"
-                              class="ct-text-block">Step 1</p>
+                <div id="new_columns-219-106" class="ct-new-columns max-md-ps-20px">
+                  <div id="div_block-220-106" class="ct-div-block">
+                      {{-- <div id="div_block-221-106"
+                        class="ct-div-block atomic-iconblock-15-wrapper">
+                          <div id="div_block-1272-106" class="ct-div-block">
+                              <p id="text_block-1292-106"
+                                class="ct-text-block">Step 1</p>
+                          </div>
+                          <p id="text_block-1303-106" class="ct-text-block">
+                              FILL OUT FORM</p><img loading="lazy"
+                            id="image-1317-106" alt="sale my home fast"
+                            src="{{asset('assets/images/icons/fill_out_form.png')}}"
+                            class="ct-image"
+                            sizes="(max-width: 512px) 100vw, 512px"
+                            alt="sale my home fast" />
+                          <p id="text_block-1305-106" class="ct-text-block">
+                              Fill out the form, and we will connect you with
+                              a local cash buyer.</p>
+                      </div> --}}
+                      <div id="step1" class="step-rounded-wrapper">
+                        <div class="step-inse-sd">
+
+                          <div>
+                            <img width="90" src="{{asset('assets/images/icons/fill_out_form.png')}}" alt="">
                         </div>
-                        <p id="text_block-1303-106" class="ct-text-block">
-                            FILL OUT FORM</p><img loading="lazy"
-                          id="image-1317-106" alt="sale my home fast"
-                          src="{{asset('assets/images/icons/fill_out_form.png')}}"
-                          class="ct-image"
-                          sizes="(max-width: 512px) 100vw, 512px"
-                          alt="sale my home fast" />
-                        <p id="text_block-1305-106" class="ct-text-block">
-                            Fill out the form, and we will connect you with
-                            a local cash buyer.</p>
+                        <p class="step-heading-sde">
+                          FILL OUT
+                          <br>
+                          FORM
+                        </p>
+                        <p class="step-para-eas">
+                          Fill out the form, and we will connect you with a local cash buyer.
+                        </p>
+                      </div>
                     </div>
-                </div>
-                <div id="div_block-1288-106" class="ct-div-block">
-                    <div id="div_block-1289-106"
-                      class="ct-div-block atomic-iconblock-15-wrapper">
-                        <div id="div_block-1290-106" class="ct-div-block">
-                            <p id="text_block-1295-106"
-                              class="ct-text-block">Step 2</p>
-                        </div>
-                        <p id="text_block-1314-106" class="ct-text-block">
-                            GET OFFERS</p><img loading="lazy"
-                          id="image-1318-106" alt="sale my house fast"
-                          src="{{asset('assets/images/icons/get_offer.png')}}"
-                          class="ct-image"
-                          sizes="(max-width: 512px) 100vw, 512px"
-                          alt="sale my house fast" />
-                        <p id="text_block-1309-106" class="ct-text-block">
-                            Receive a CASH offer for your house from a local
-                            buyer. No obligations.</p>
+                  </div>
+                  <div id="div_block-1288-106" class="ct-div-block">
+                    <div id="step2" class="step-rounded-wrapper">
+                      <div class="step-inse-sd">
+
+                        <div>
+                          <img width="90" src="{{asset('assets/images/icons/get_offer.png')}}" alt="">
+                      </div>
+                      <p class="step-heading-sde">
+                        GET 
+                        <br>
+                        OFFERS
+                      </p>
+                      <p class="step-para-eas">
+                        Receive a CASH offer for your house from a local buyer. No obligations.
+                      </p>
                     </div>
-                </div>
-                <div id="div_block-1284-106" class="ct-div-block">
-                    <div id="div_block-1285-106"
-                      class="ct-div-block atomic-iconblock-15-wrapper">
-                        <div id="div_block-1286-106" class="ct-div-block">
-                            <p id="text_block-1296-106"
-                              class="ct-text-block">Step 3</p>
-                        </div>
-                        <p id="text_block-1319-106" class="ct-text-block">
-                            GET PAID</p><img loading="lazy"
-                          id="image-1323-106" alt="sale house fast"
-                          src="{{asset('assets/images/icons/get_paid.png')}}"
-                          class="ct-image"
-                          sizes="(max-width: 512px) 100vw, 512px"
-                          alt="sale house fast" />
-                        <p id="text_block-1321-106" class="ct-text-block">
-                            Get cash for your house! Close on your timeline.
-                            No hassles.</p>
+                  </div>
+                  </div>
+                  <div id="div_block-1284-106" class="ct-div-block">
+                    <div id="step3" class="step-rounded-wrapper">
+                      <div class="step-inse-sd">
+
+                        <div>
+                          <img width="90" src="{{asset('assets/images/icons/get_paid.png')}}" alt="">
+                      </div>
+                      <p class="step-heading-sde">
+                        GET 
+                        <br>
+                        PAID
+                      </p>
+                      <p class="step-para-eas">
+                        Get cash for your house! Close on your timeline. No hassles.
+                      </p>
                     </div>
-                </div>
-            </div>
+                  </div>
+                  </div>
+              </div>
             <p id="text_block-1569-106"
               class="ct-text-block atomic-content-26-text">Our home sale
                 process is simple. Unlike a big home buying corporation or
@@ -638,38 +651,21 @@
                 closing date that you choose.<br></p>
         </div>
     </section>
-    <section id="section-353-106" class=" ct-section">
-      <div class="ct-section-inner-wrap">
-        <div id="new_columns-1640-106" class="ct-new-columns">
-          <div id="div_block-1641-106" class="ct-div-block">
-            <div class="wp-block-column">
-                          <h3 id="headline-1599-106" class="ct-headline">Why Sell To a ASAP
-                            Cash Offer?</h3>
-
-              <ol id="block-f560c857-bcdb-40c6-a484-c36d8471aadd" class="is-style-default">
-                  <li class="atomic-content-26-text ">You Pay <span style="text-decoration: underline"><strong>Zero
-                              Fees</strong></span> or Closing Costs</li>
-                  <li class="atomic-content-26-text "><span style="text-decoration: underline"><strong>Close
-                              quickly</strong></span> <strong><span class="has-inline-color has-c-link-color">7-28</span></strong>
-                      days or anytime.</li>
-                  <li class="atomic-content-26-text ">Guaranteed Offer, <span style="text-decoration: underline"><strong>no
-                              waiting months</strong></span>.</li>
-                  <li class="atomic-content-26-text "><span style="text-decoration: underline"><strong>No
-                              repairs</strong></span> are needed, sell
-                      fast “AS IS”</li>
-                  <li class="atomic-content-26-text ">No Showings or endless walkthroughs.</li>
-                  <li class="atomic-content-26-text ">No appraisals or approval delays.</li>
-              </ol>
+    <section id="section-353-106" class=" ct-section bg-lightblue">
+      <div class="ct-section-inner-wrap ">
+        <div class="ten-scoff-btn-wrapper max-flex-md-column mx-auto py-0 d-flex m-center ">
+          <div class="d-flex ">
+            <h4><strong>
+              Speak with Live
+              <br>
+               Agent Now
+              </strong></h4>
           </div>
-          </div>
-          <div id="div_block-1642-106" class="ct-div-block">
- 
-          <img decoding="async" class="yt-image" src="https://i.ytimg.com/vi/Q3ZE_bHPxBo/hqdefault.jpg" srcset="https://i.ytimg.com/vi/Q3ZE_bHPxBo/hqdefault.jpg 480w" alt="Sell My House Fast for Cash - ASAP Cash Offer" loading="lazy">
-      
-          </div>
-
-          </div>
-      </div>
+          <a href="#" class="ten-scoff-btn mx-lg-4">
+            <svg fill="#ffffff" width="35" height="35" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 33.834 33.834" xml:space="preserve" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path d="M32.253,29.334v4.5H1.581v-4.501c0-2.125,1.832-4.741,4.07-5.804l4.98-2.366l3.457,7.204l1.77-4.799 c0.349,0.066,0.695,0.154,1.059,0.154s0.709-0.088,1.059-0.154l1.68,4.563l3.389-7.048l5.141,2.445 C30.421,24.591,32.253,27.207,32.253,29.334z M6.105,13.562v-3.25c0-0.551,0.287-1.034,0.72-1.312c0.581-5.058,4.883-9,10.094-9 s9.514,3.942,10.096,9c0.432,0.278,0.719,0.761,0.719,1.312v3.25c0,0.863-0.699,1.563-1.563,1.563s-1.563-0.7-1.563-1.563v-0.683 c-0.846,4.255-3.961,8.205-7.688,8.205c-3.727,0-6.842-3.95-7.688-8.205v0.683c0,0.7-0.465,1.286-1.1,1.485 c0.622,2.117,2.002,3.946,3.908,5.146c0.352-0.116,0.796-0.094,1.227,0.13c0.692,0.36,1.045,1.06,0.783,1.56 c-0.261,0.5-1.033,0.612-1.729,0.251c-0.508-0.265-0.83-0.71-0.864-1.126c-2.183-1.396-3.731-3.533-4.37-5.998 C6.513,14.78,6.105,14.22,6.105,13.562z M7.89,8.635c0.047,0.003,0.092,0.004,0.137,0.021C8.14,8.698,8.222,8.779,8.279,8.874 c0.339,0.144,0.609,0.407,0.775,0.733C9.515,5.286,12.855,3,16.917,3c4.062,0,7.402,2.286,7.863,6.607 c0.229-0.449,0.664-0.77,1.185-0.837c-0.676-4.393-4.47-7.771-9.048-7.771C12.386,1,8.622,4.309,7.89,8.635z"></path> </g> </g></svg>          {{-- <img src="https://real.whippdigital.com/assets/images/live_chat.png" width="180" height="180" alt=""> --}}
+          Live Agent
+          </a>
+          </div>          
       </div>
   </section>
     <section id="section-1327-106" class=" ct-section">
@@ -1476,8 +1472,8 @@
             <h2 id="headline-1451-106"
               class="ct-headline atomic-secondary-heading">Sell My House
                 Fast FAQ</h2>
-            <div id="div_block-1497-106" class="ct-div-block">
-                <div id="div_block-1853-106" class="ct-div-block">
+            <div id="div_block-1497-106" class="ct-div-block m-0">
+                <div id="div_block-1853-106" class="ct-div-block m-0">
                     <div id="fancy_icon-1854-106" class="ct-fancy-icon"><svg
                           id="svg-fancy_icon-1854-106">
                             <use xlink:href="#FontAwesomeicon-home"></use>
@@ -1499,8 +1495,8 @@
                     (we only need the property address and
                     email)!<b></b><br></p>
             </div>
-            <div id="div_block-1501-106" class="ct-div-block">
-                <div id="div_block-1856-106" class="ct-div-block">
+            <div id="div_block-1501-106" class="ct-div-block m-0">
+                <div id="div_block-1856-106" class="ct-div-block m-0">
                     <div id="fancy_icon-1857-106" class="ct-fancy-icon"><svg
                           id="svg-fancy_icon-1857-106">
                             <use xlink:href="#FontAwesomeicon-home"></use>
@@ -1523,8 +1519,8 @@
                     buyer who specializes in your market and will give you a
                     thoughtful cash offer!<b></b><br></p>
             </div>
-            <div id="div_block-1506-106" class="ct-div-block">
-                <div id="div_block-1859-106" class="ct-div-block">
+            <div id="div_block-1506-106" class="ct-div-block m-0">
+                <div id="div_block-1859-106" class="ct-div-block m-0">
                     <div id="fancy_icon-1860-106" class="ct-fancy-icon"><svg
                           id="svg-fancy_icon-1860-106">
                             <use xlink:href="#FontAwesomeicon-home"></use>
@@ -1553,8 +1549,8 @@
                     estate documents, run a title search, and facilitate a
                     notary.<b></b><br></p>
             </div>
-            <div id="div_block-1511-106" class="ct-div-block">
-                <div id="div_block-1862-106" class="ct-div-block">
+            <div id="div_block-1511-106" class="ct-div-block m-0">
+                <div id="div_block-1862-106" class="ct-div-block m-0">
                     <div id="fancy_icon-1863-106" class="ct-fancy-icon"><svg
                           id="svg-fancy_icon-1863-106">
                             <use xlink:href="#FontAwesomeicon-home"></use>

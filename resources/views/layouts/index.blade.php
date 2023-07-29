@@ -94,9 +94,7 @@
           width: 150px;
           height: 150px;
           background-size: 150px 150px;
-          transform: rotate(-29deg);
-          top: -230%;
-          right: -65%;
+          right: -70%;
       }
       @media (max-width:767px){
         .ten-scoff-btn::before {
@@ -121,9 +119,9 @@
         font-weight: 700;
         padding: 9px 25px;
         width: 100%;
-        border: 3px solid #34496642;
+        border: 3px solid #34496636;
         border-radius: 5px !important;
-        background: #52a9dc !important;
+        background: #e65e49 !important;
         color: #f7f7f7;
         letter-spacing: 1px;
         text-shadow: -2px 2px 6px #00000063;
@@ -155,9 +153,9 @@
         font-weight: 700;
         padding: 9px 25px;
         width: 100%;
-        border: 3px solid #34496642;
+        border: 3px solid #34496636;
         border-radius: 5px !important;
-        background: #52a9dc !important;
+        background: #e65e49 !important;
         color: #f7f7f7;
         letter-spacing: 1px;
         text-shadow: -2px 2px 6px #00000063;
@@ -167,12 +165,102 @@
         transition: .3s all ease-in-out;
         background: rgba(15, 48, 67, 0.632) !important;
       }
+      .bg-lightblue{
+        background: #52a9dc5e !important;
+      }
+      .m-0{
+        margin:0px !important; 
+        align-items: unset !important;
+      }
       @media (max-width: 568px){
 
         .xash-buton {
           font-size: 26px;
         }
       }
+      #-shape-divider-152-91 .oxy_shape_divider svg{
+        height: 35px!important;
+      }
+
+      #section-151-91 {
+        margin-top: -6px !important;
+      }
+      .step-rounded-wrapper{
+        scale: .9;
+        width: 280px;
+        height: 280px;
+        background: #ff6851;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        position: relative;
+        margin: 20px auto;
+      }
+      @media (max-width:1100px)  and (min-width:987px){
+        .step-rounded-wrapper{
+          scale: .8;
+        }
+      }
+      @media (max-width:350px){
+        .step-rounded-wrapper{
+        scale: .8;
+        }
+   
+      }
+      @media (max-width:786px) and (min-width:350px) {
+        .max-md-ps-20px{
+          padding-left: 29px !important;
+        }
+      }
+      .step-rounded-wrapper::before{
+        content: "";
+        position: absolute;
+        color: #4887bf;
+        width: 90px;
+        height: ;
+        : 90px;
+        font-size: 250px;
+        font-weight: 600;
+        right: 98%;
+        font-family: cursive;
+      }
+      #step1::before{
+        content: "1";
+      }
+      #step2::before{
+        content: "2";
+        right: 100%;
+      }
+      #step3::before{
+        right: 102%;
+        content: "3";
+      }
+      .step-inse-sd{
+        padding: 0 40px 18px 42px;
+      }
+      .step-heading-sde{
+        padding: 0px;
+        margin: 0px;
+        font-size: 30px;
+        font-weight: 800;
+        line-height: 25px;
+        padding-right: auto !;
+        text-align: justify;
+        margin-right: auto;
+        margin-left: 12px;
+        color: #fff;
+      }
+      .step-para-eas{
+        color: #fff;
+        padding: 0px !important;
+        margin: 0px;
+        max-width: 100%;
+        font-size: 15px;
+        font-weight: 500;
+      }
+
       </style>
 
     @yield('schema')

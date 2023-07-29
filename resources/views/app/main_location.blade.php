@@ -638,7 +638,7 @@
         </div>
     </section>
     <section id="section-216-106" class=" ct-section">
-        <div class="ct-section-inner-wrap">
+        <div class="ct-section-inner-wrap ">
             <h2 id="headline-217-106"
               class="ct-headline atomic-secondary-heading">How Do I Sell My
                 House Fast {{ $heading }}?</h2>
@@ -651,9 +651,9 @@
                     national real estate investors.</b> We want to enhance your
                 selling experience by giving you access to a cash home buyer who
                 operates exclusively in your market.<br></p>
-                <div id="new_columns-219-106" class="ct-new-columns">
+                <div id="new_columns-219-106" class="ct-new-columns max-md-ps-20px">
                   <div id="div_block-220-106" class="ct-div-block">
-                      <div id="div_block-221-106"
+                      {{-- <div id="div_block-221-106"
                         class="ct-div-block atomic-iconblock-15-wrapper">
                           <div id="div_block-1272-106" class="ct-div-block">
                               <p id="text_block-1292-106"
@@ -669,45 +669,59 @@
                           <p id="text_block-1305-106" class="ct-text-block">
                               Fill out the form, and we will connect you with
                               a local cash buyer.</p>
+                      </div> --}}
+                      <div id="step1" class="step-rounded-wrapper">
+                        <div class="step-inse-sd">
+
+                          <div>
+                            <img width="90" src="{{asset('assets/images/icons/fill_out_form.png')}}" alt="">
+                        </div>
+                        <p class="step-heading-sde">
+                          FILL OUT
+                          <br>
+                          FORM
+                        </p>
+                        <p class="step-para-eas">
+                          Fill out the form, and we will connect you with a local cash buyer.
+                        </p>
                       </div>
+                    </div>
                   </div>
                   <div id="div_block-1288-106" class="ct-div-block">
-                      <div id="div_block-1289-106"
-                        class="ct-div-block atomic-iconblock-15-wrapper">
-                          <div id="div_block-1290-106" class="ct-div-block">
-                              <p id="text_block-1295-106"
-                                class="ct-text-block">Step 2</p>
-                          </div>
-                          <p id="text_block-1314-106" class="ct-text-block">
-                              GET OFFERS</p><img loading="lazy"
-                            id="image-1318-106" alt="sale my house fast"
-                            src="{{asset('assets/images/icons/get_offer.png')}}"
-                            class="ct-image"
-                            sizes="(max-width: 512px) 100vw, 512px"
-                            alt="sale my house fast" />
-                          <p id="text_block-1309-106" class="ct-text-block">
-                              Receive a CASH offer for your house from a local
-                              buyer. No obligations.</p>
+                    <div id="step2" class="step-rounded-wrapper">
+                      <div class="step-inse-sd">
+
+                        <div>
+                          <img width="90" src="{{asset('assets/images/icons/get_offer.png')}}" alt="">
                       </div>
+                      <p class="step-heading-sde">
+                        GET 
+                        <br>
+                        OFFERS
+                      </p>
+                      <p class="step-para-eas">
+                        Receive a CASH offer for your house from a local buyer. No obligations.
+                      </p>
+                    </div>
+                  </div>
                   </div>
                   <div id="div_block-1284-106" class="ct-div-block">
-                      <div id="div_block-1285-106"
-                        class="ct-div-block atomic-iconblock-15-wrapper">
-                          <div id="div_block-1286-106" class="ct-div-block">
-                              <p id="text_block-1296-106"
-                                class="ct-text-block">Step 3</p>
-                          </div>
-                          <p id="text_block-1319-106" class="ct-text-block">
-                              GET PAID</p><img loading="lazy"
-                            id="image-1323-106" alt="sale house fast"
-                            src="{{asset('assets/images/icons/get_paid.png')}}"
-                            class="ct-image"
-                            sizes="(max-width: 512px) 100vw, 512px"
-                            alt="sale house fast" />
-                          <p id="text_block-1321-106" class="ct-text-block">
-                              Get cash for your house! Close on your timeline.
-                              No hassles.</p>
+                    <div id="step3" class="step-rounded-wrapper">
+                      <div class="step-inse-sd">
+
+                        <div>
+                          <img width="90" src="{{asset('assets/images/icons/get_paid.png')}}" alt="">
                       </div>
+                      <p class="step-heading-sde">
+                        GET 
+                        <br>
+                        PAID
+                      </p>
+                      <p class="step-para-eas">
+                        Get cash for your house! Close on your timeline. No hassles.
+                      </p>
+                    </div>
+                  </div>
                   </div>
               </div>
             <p id="text_block-1569-106"

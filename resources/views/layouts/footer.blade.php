@@ -23,20 +23,19 @@
                     sell your house for cash, fill out our short form to get
                     fair all cash offers for your house!</p>
                 <p id="text_block-124-91" class="ct-text-block"><b>Contact
-                        Us!</b><br>Sell My House Fast</p><a id="link-129-91"
-                  class="ct-link" href="tel:844-207-0788" target="_self">
-                    <div id="text_block-130-91" class="ct-text-block">(844)
-                        207-0788</div>
+                        Us!</b><br>
+                        EZ Sell My House Fast
+                      </p><a id="link-129-91"
+                  class="ct-link" href="#" target="_self">
+                    <div id="text_block-130-91" class="ct-text-block">(xxx) xxx-xxxx</div>
                 </a><a id="link-131-91" class="ct-link"
                   href="mailto:team@sellmyhousefast.com" target="_self">
                     <div id="text_block-132-91" class="ct-text-block">
-                        team@sellmyhousefast.com</div>
+                      offer@ezsellmyhousefast.com</div>
                 </a>
-                <p id="text_block-159-91" class="ct-text-block"><b>SEO Generated
-                        by SEO Meets REI:</b></p>
+            
                 <p id="text_block-79-91" class="ct-text-block">©&nbsp;<span
-                      id="span-81-91" class="ct-span">2023</span> Sell My House
-                    Fast</p>
+                      id="span-81-91" class="ct-span">2023</span></p>
             </div>
             <div id="div_block-121-91" class="ct-div-block">
                 <div id="div_block-108-91" class="ct-div-block">
