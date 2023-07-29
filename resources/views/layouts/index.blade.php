@@ -224,7 +224,6 @@
         font-size: 250px;
         font-weight: 600;
         right: 98%;
-        font-family: cursive;
       }
       #step1::before{
         content: "1";
