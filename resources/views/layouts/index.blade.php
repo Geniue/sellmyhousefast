@@ -213,6 +213,9 @@
         .max-md-ps-20px{
           padding-left: 29px !important;
         }
+        .step-rounded-wrapper{
+        scale: .8;
+        }
       }
       .step-rounded-wrapper::before{
         content: "";
@@ -223,7 +226,7 @@
         : 90px;
         font-size: 250px;
         font-weight: 600;
-        right: 98%;
+        right: 90%;
       }
       #step1::before{
         content: "1";
