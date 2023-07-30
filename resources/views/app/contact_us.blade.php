@@ -24,7 +24,7 @@
     }
     
     #section-55-24 {
-        background-image: linear-gradient(rgba(72,135,191,0.4),rgba(72,135,191,0.4)),url('{{asset('assets/images/bg-banner.webp')}}');
+        background-image: linear-gradient(rgba(72,135,191,0.4),rgba(72,135,191,0.4)),url('{{asset('assets/images/home.jpg')}}');
         background-size: auto,cover;
         text-align: center
     }
@@ -4449,7 +4449,7 @@
             <div id="div_block-86-24" class="ct-div-block">
                 <h2 id="headline-78-24" class="ct-headline">Have some questions
                     you want to ask us?</h2>
-                <div id="new_columns-110-24" class="ct-new-columns">
+                <div id="new_columns-110-24"style="justify-content:start!important;" class="ct-new-columns">
                     <div id="div_block-111-24" class="ct-div-block">
                         <div id="div_block-95-24" class="ct-div-block">
                             <p id="text_block-94-24"
@@ -4487,11 +4487,6 @@
                             </ul>
                         </div>
                     </div>
-                    <div id="div_block-112-24" class="ct-div-block"><img
-                          id="image-114-24" alt="contact us sell my house fast"
-                          src="{{asset('assets/images/profile-1.webp')}}"
-                          class="ct-image"
-                          sizes="(max-width: 512px) 100vw, 512px"></div>
                 </div>
                 <p id="text_block-116-24"
                   class="ct-text-block atomic-content-4-text"><b>Just give us a

@@ -23,7 +23,7 @@
     }
     
     #section-2-6066 {
-        background-image: linear-gradient(rgba(72,135,191,0.4),rgba(72,135,191,0.4)),url('{{asset('assets/images/bg-banner.webp')}}');
+        background-image: linear-gradient(rgba(72,135,191,0.4),rgba(72,135,191,0.4)),url('{{asset('assets/images/home.jpg')}}');
         text-align: left;
         height: 300px
     }

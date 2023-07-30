@@ -25,7 +25,7 @@
     }
     
     #section-442-13 {
-    background-image: linear-gradient(rgba(72,135,191,0.4),rgba(72,135,191,0.4)),url('{{asset('assets/images/bg-banner.webp')}}');
+    background-image: linear-gradient(rgba(72,135,191,0.4),rgba(72,135,191,0.4)),url('{{asset('assets/images/home.jpg')}}');
     background-size: auto,cover;
     text-align: center
     }

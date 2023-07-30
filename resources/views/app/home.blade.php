@@ -34,13 +34,7 @@
             <h2 id="headline-4-224"
               class="ct-headline atomic-primary-heading">Sell My House For
                 Cash!</h2>
-            <div id="div_block-1194-106" class="ct-div-block"><img
-                  id="image-1195-106" alt="sell house fast"
-                  src="{{asset('assets/images/google-rating.webp')}}"
-                  class="ct-image alignleft"
-                  srcset="{{asset('assets/images/google-rating.webp')}} 386w, {{asset('assets/images/google-rating.webp')}} 300w, {{asset('assets/images/google-rating.webp')}} 150w"
-                  sizes="(max-width: 386px) 100vw, 386px"
-                  alt="sell house fast" />
+            <div id="div_block-1194-106" class="ct-div-block">
                 <p id="text_block-1626-106"
                   class="ct-text-block atomic-content-26-text">
                 <div style="text-align: center;"><span
@@ -163,13 +157,6 @@
                 <i>specializes</i> in your local real estate market. <b>Come
                     check us out and see if our cash offer fits your home
                     sale best!</b></p>
-            <div id="div_block-1846-106" class="ct-div-block"><img
-                  loading="lazy" id="image-1845-106"
-                  alt="sell my house fast brand"
-                  src="{{asset('assets/images/sell-my-house-fast-brand-text-only.webp')}}"
-                  class="ct-image"
-                  srcset="{{asset('assets/images/sell-my-house-fast-brand-text-only.webp')}} 1332w, {{asset('assets/images/sell-my-house-fast-brand-text-only.webp')}} 300w, {{asset('assets/images/sell-my-house-fast-brand-text-only.webp')}} 1024w"
-                  sizes="(max-width: 1332px) 100vw, 1332px" /></div>
         </div>
     </section>
     <section id="section-353-106" class=" ct-section bg-lightblue">
@@ -190,7 +177,7 @@
       </div>
   </section>
 
-    <section id="section-1214-106" class=" ct-section">
+    {{-- <section id="section-1214-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <div id="new_columns-1217-106" class="ct-new-columns">
                 <div id="div_block-1218-106" class="ct-div-block  p-4"><img
@@ -473,7 +460,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <section id="section-216-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <h2 id="headline-217-106"
@@ -511,7 +498,7 @@
                         <div class="step-inse-sd">
 
                           <div>
-                            <img width="90" src="{{asset('assets/images/icons/fill_out_form.png')}}" alt="">
+                            <img width="60" src="{{asset('assets/images/icons/fill_out_form.png')}}" alt="">
                         </div>
                         <p class="step-heading-sde">
                           FILL OUT
@@ -529,7 +516,7 @@
                       <div class="step-inse-sd">
 
                         <div>
-                          <img width="90" src="{{asset('assets/images/icons/get_offer.png')}}" alt="">
+                          <img width="60" src="{{asset('assets/images/icons/get_offer.png')}}" alt="">
                       </div>
                       <p class="step-heading-sde">
                         GET 
@@ -547,7 +534,7 @@
                       <div class="step-inse-sd">
 
                         <div>
-                          <img width="90" src="{{asset('assets/images/icons/get_paid.png')}}" alt="">
+                          <img width="60" src="{{asset('assets/images/icons/get_paid.png')}}" alt="">
                       </div>
                       <p class="step-heading-sde">
                         GET 
@@ -1825,15 +1812,6 @@
                 your market when you fill out our form! Sell My House Fast
                 is all about making your home sale fair and simple!
                 🙂<b></b><br></p>
-        </div>
-    </section>
-    <section id="section-700-106" class=" ct-section">
-        <div class="ct-section-inner-wrap">
-            <div id="div_block-1582-106" class="ct-div-block"></div>
-            <h1 id="headline-722-106" class="ct-headline">Sell My House Fast
-                | Need To Sell My House Fast | Sell My Home Fast</h1>
-            <h5 id="headline-1521-106" class="ct-headline">Sell My House
-                Fast | Need To Sell My House Fast | Sell My Home Fast</h5>
         </div>
     </section>
 </div>

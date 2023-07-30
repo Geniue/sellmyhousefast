@@ -27,7 +27,7 @@
     }
     
     #section-2-224 {
-    background-image: linear-gradient(rgba(72,135,191,0.4),rgba(72,135,191,0.4)),url('{{asset('assets/images/bg-banner.webp')}}');
+    background-image: linear-gradient(rgba(72,135,191,0.4),rgba(72,135,191,0.4)),url('{{asset('assets/images/home.jpg')}}');
     text-align: center;
     border-top-width: 1px;
     border-top-color: rgba(0,0,0,0.1);

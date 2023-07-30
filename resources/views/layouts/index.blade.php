@@ -85,33 +85,16 @@
       .m-center{
         justify-content: center;
         align-items: center;
-        gap: 18px;
-      }
-      .ten-scoff-btn::before {
-          position: absolute;
-          content: "";
-          background: url('{{asset('assets/images/arrow.png')}}') no-repeat;
-          width: 150px;
-          height: 150px;
-          background-size: 150px 150px;
-          right: -70%;
+        gap: 45px;
       }
       @media (max-width:767px){
-        .ten-scoff-btn::before {
-          position: absolute;
-          content: "";
-          display: none !important;
-          background: ;
-          width: 150px;
-          height: 150px;
-          background-size: 150px 150px;
-          transform: rotate(-29deg);
-          top: -230%;
-          right: -65%;
-      }
       .max-flex-md-column{
         flex-direction: column
       }
+    }
+      #section-353-106 > .ct-section-inner-wrap{
+        padding-top:30px !important; 
+        padding-bottom:30px !important; 
       }
       .ten-scoff-btn {
           /* border: 1px solid red; */
@@ -186,9 +169,8 @@
         margin-top: -6px !important;
       }
       .step-rounded-wrapper{
-        scale: .9;
-        width: 280px;
-        height: 280px;
+        width: 245px;
+        height: 245px;
         background: #ff6851;
         display: flex;
         flex-direction: column;
@@ -198,23 +180,9 @@
         position: relative;
         margin: 20px auto;
       }
-      @media (max-width:1100px)  and (min-width:987px){
-        .step-rounded-wrapper{
-          scale: .8;
-        }
-      }
-      @media (max-width:350px){
-        .step-rounded-wrapper{
-        scale: .8;
-        }
-   
-      }
       @media (max-width:786px) and (min-width:350px) {
         .max-md-ps-20px{
           padding-left: 29px !important;
-        }
-        .step-rounded-wrapper{
-        scale: .8;
         }
       }
       .step-rounded-wrapper::before{
@@ -222,36 +190,34 @@
         position: absolute;
         color: #4887bf;
         width: 90px;
-        height: ;
-        : 90px;
-        font-size: 250px;
+        font-size: 178px;
         font-weight: 600;
-        right: 90%;
+        right: 83%;
       }
       #step1::before{
         content: "1";
       }
       #step2::before{
         content: "2";
-        right: 100%;
+        right: 90%;
       }
       #step3::before{
-        right: 102%;
+        right: 92%;
         content: "3";
       }
       .step-inse-sd{
-        padding: 0 40px 18px 42px;
+        padding: 0 40px 18px 40px;
       }
       .step-heading-sde{
         padding: 0px;
         margin: 0px;
-        font-size: 30px;
+        font-size: 22px;
         font-weight: 800;
         line-height: 25px;
         padding-right: auto !;
         text-align: justify;
         margin-right: auto;
-        margin-left: 12px;
+        margin-left: 6px;
         color: #fff;
       }
       .step-para-eas{
@@ -259,9 +225,47 @@
         padding: 0px !important;
         margin: 0px;
         max-width: 100%;
-        font-size: 15px;
+        font-size: 13px;
         font-weight: 500;
       }
+      #-shape-divider-1647-106 .oxy_shape_divider svg{
+        height: 36px !important;
+      }
+      #-shape-divider-125-24 .oxy_shape_divider svg {
+        height: 30px !important;
+      }
+      #-shape-divider-913-13 .oxy_shape_divider svg {
+          height: 33px !important;
+      }
+      #-shape-divider-402-17 .oxy_shape_divider svg {
+          height: 33px!important;
+      }
+      #-shape-divider-93-6066 .oxy_shape_divider svg {
+          height: 32px!important;
+      }
+      #-shape-divider-517-21 .oxy_shape_divider svg {
+          height: 30px!important;
+      }
+      #image-1358-106{
+        height: 470px !important;
+        width: 470px !important;
+        object-fit: cover !important;
+        /* max-width: 100%; */
+      }
+      @media(max-width:786px){
+        #image-1358-106{  
+          border-radius: 0% !important;
+        }
+      }
+
+      #section-2-224{
+        background-image:linear-gradient(rgba(75,116,147,0.4),rgba(75,116,147,0.4)), url('{{asset('assets/images/home.jpg')}}');
+      text-align:center;
+      border-top-width:1px;
+      border-top-color:rgba(0,0,0,0.1);
+      color:#ffffff
+    }
+
 
       </style>
 

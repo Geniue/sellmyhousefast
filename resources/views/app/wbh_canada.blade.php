@@ -8,12 +8,7 @@
         <div class="ct-section-inner-wrap">
             <h2 id="headline-4-224" class="ct-headline atomic-primary-heading">
                 Sell My House Fast Canada!</h2>
-            <div id="div_block-1194-106" class="ct-div-block"><img
-                  id="image-1195-106" alt="sell my house fast Canada"
-                  src="//www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast.webp"
-                  class="ct-image alignleft"
-                  srcset="//www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast.webp 386w, //www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast-300x300.webp 300w, //www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast-150x150.webp 150w"
-                  sizes="(max-width: 386px) 100vw, 386px">
+            <div id="div_block-1194-106" class="ct-div-block">
                 <p id="text_block-1626-106"
                   class="ct-text-block atomic-content-26-text"></p>
                 <div style="text-align: center;"><span
