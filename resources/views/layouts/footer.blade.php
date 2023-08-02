@@ -40,7 +40,7 @@
             <div id="div_block-121-91" class="ct-div-block">
                 <div id="div_block-108-91" class="ct-div-block">
                     <div id="_social_icons-98-91" class="oxy-social-icons"><a
-                          href="https://www.facebook.com/sellmyhousefastcom/"
+                          href="#"
                           target="_blank"
                           class="oxy-social-icons-facebook"><svg>
                                 <title>Visit our Facebook</title>
@@ -48,7 +48,7 @@
                                   xlink:href="#oxy-social-icons-icon-facebook">
                                 </use>
                             </svg></a><a
-                          href="https://www.instagram.com/sellmyhousefastcom/"
+                          href="#"
                           target="_blank"
                           class="oxy-social-icons-instagram"><svg>
                                 <title>Visit our Instagram</title>
@@ -56,14 +56,14 @@
                                   xlink:href="#oxy-social-icons-icon-instagram">
                                 </use>
                             </svg></a><a
-                          href="https://twitter.com/sellhousefast0"
+                          href="#"
                           target="_blank" class="oxy-social-icons-twitter"><svg>
                                 <title>Visit our Twitter</title>
                                 <use
                                   xlink:href="#oxy-social-icons-icon-twitter">
                                 </use>
                             </svg></a><a
-                          href="https://www.linkedin.com/company/sell-my-house-fast-com/"
+                          href="#"
                           target="_blank"
                           class="oxy-social-icons-linkedin"><svg>
                                 <title>Visit our LinkedIn</title>

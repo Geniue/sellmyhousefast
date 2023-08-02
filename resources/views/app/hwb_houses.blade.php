@@ -11872,7 +11872,7 @@
                                         <input name="input_7" id="input_4_7"
                                           type="hidden" class="gform_hidden"
                                           aria-invalid="false"
-                                          value="https://www.sellmyhousefast.com/how-we-buy-houses/">
+                                          value="{{asset('hwb_houses')}}/">
                                     </div>
                                 </div>
                                 <div id="field_4_8"
@@ -12104,7 +12104,7 @@
                         a tiny deposit that doesn’t get delivered to escrow for
                         30 days (Sell My House Fast deposits within 48 hours).
                         Many scammers use “<a
-                          href="https://activerain.com/blogsview/653525/clauses---the-weasel-clause-">weasel
+                          href="#">weasel
                             clauses</a>” to leave a backdoor open for
                         themselves. These are signs a buyer is not serious about
                         closing.</p>
@@ -12352,7 +12352,7 @@
                                         <input name="input_7" id="input_5_7"
                                           type="hidden" class="gform_hidden"
                                           aria-invalid="false"
-                                          value="https://www.sellmyhousefast.com/how-we-buy-houses/">
+                                          value="{{route('hwb_houses')}}">
                                     </div>
                                 </div>
                                 <div id="field_5_8"

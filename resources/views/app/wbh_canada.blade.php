@@ -595,7 +595,7 @@
                                                       type='hidden'
                                                       class='gform_hidden'
                                                       aria-invalid="false"
-                                                      value='https://www.sellmyhousefast.com/' />
+                                                      value='/' />
                                                 </div>
                                             </div>
                                             <div id="field_4_8"

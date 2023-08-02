@@ -4755,7 +4755,7 @@
                                         <input name="input_7" id="input_1_7"
                                           type="hidden" class="gform_hidden"
                                           aria-invalid="false"
-                                          value="https://www.sellmyhousefast.com/contact-us/">
+                                          value="{{asset('contact-us')}}">
                                     </div>
                                 </div>
                                 <div id="field_1_8"

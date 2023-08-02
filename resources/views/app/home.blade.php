@@ -74,7 +74,9 @@
                 <div class="gf_clear gf_clear_complex"></div>
                 </div><input type="hidden" name="gpaa_coords_4" class="gform_hidden" value=""></fieldset><div id="field_1_2" class="gfield gfield--width-half field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_2"><label class="gfield_label" for="input_1_2">Phone</label><div class="ginput_container ginput_container_phone"><div class="iti iti--allow-dropdown iti--separate-dial-code"><div class="iti__flag-container"><div class="iti__selected-flag" role="combobox" aria-controls="iti-0__country-listbox" aria-owns="iti-0__country-listbox" aria-expanded="false" tabindex="0" title="United States: +1" aria-activedescendant="iti-0__item-us-preferred"><div class="iti__flag iti__us"></div><div class="iti__selected-dial-code">+1</div><div class="iti__arrow"></div></div><ul class="iti__country-list iti__hide" id="iti-0__country-listbox" role="listbox" aria-label="List of countries"><li class="iti__country iti__preferred iti__active" tabindex="-1" id="iti-0__item-us-preferred" role="option" data-dial-code="1" data-country-code="us" aria-selected="true"><div class="iti__flag-box"><div class="iti__flag iti__us"></div></div><span class="iti__country-name">United States</span><span class="iti__dial-code">+1</span></li><li class="iti__divider" role="separator" aria-disabled="true"></li><li class="iti__country iti__standard" tabindex="-1" id="iti-0__item-ca" role="option" data-dial-code="1" data-country-code="ca" aria-selected="false"><div class="iti__flag-box"><div class="iti__flag iti__ca"></div></div><span class="iti__country-name">Canada</span><span class="iti__dial-code">+1</span></li><li class="iti__country iti__standard" tabindex="-1" id="iti-0__item-us" role="option" data-dial-code="1" data-country-code="us" aria-selected="false"><div class="iti__flag-box"><div class="iti__flag iti__us"></div></div><span class="iti__country-name">United States</span><span class="iti__dial-code">+1</span></li></ul></div><input name="" id="input_1_2_raw" type="tel" value="" class="large" placeholder="###-###-####" aria-invalid="false" autocomplete="off" data-intl-tel-input-id="0" style="padding-left: 73px;"><input type="hidden" name="input_2" id="input_1_2"></div></div></div><div id="field_1_3" class="gfield gfield--width-half gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_3"><label class="gfield_label" for="input_1_3">Email<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class="ginput_container ginput_container_email">
                 <input name="input_3" id="input_1_3" type="email" value="" class="large" aria-required="true" aria-invalid="false">
-                </div></div><div id="field_1_7" class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_7"><div class="ginput_container ginput_container_text"><input name="input_7" id="input_1_7" type="hidden" class="gform_hidden" aria-invalid="false" value="https://www.sellmyhousefast.com/"></div></div><div id="field_1_8" class="gfield gfield--width-full gform_hidden field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_8"><div class="ginput_container ginput_container_text"><input name="input_8" id="input_1_8" type="hidden" class="gform_hidden" aria-invalid="false" value="FBAFB097-3B97-5E90-E9FD-DFAECD72774E"></div></div><div id="field_1_9" class="gfield gfield--width-full gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below gfield_visibility_hidden" data-js-reload="field_1_9"><input id="input_8" name="input_1_8" type="hidden" value=""></div><div id="field_1_10" class="gfield gform_validation_container field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_10"><label class="gfield_label" for="input_1_10">Comments</label><div class="ginput_container"><input name="input_10" id="input_1_10" type="text" value="" autocomplete="new-password"></div><div class="gfield_description" id="gfield_description_1_10">This field is for validation purposes and should be left unchanged.</div></div></div></div>
+                </div></div>
+                <div id="field_1_7" class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_7"><div class="ginput_container ginput_container_text">
+                </div></div><div id="field_1_8" class="gfield gfield--width-full gform_hidden field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_8"><div class="ginput_container ginput_container_text"><input name="input_8" id="input_1_8" type="hidden" class="gform_hidden" aria-invalid="false" value="FBAFB097-3B97-5E90-E9FD-DFAECD72774E"></div></div><div id="field_1_9" class="gfield gfield--width-full gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below gfield_visibility_hidden" data-js-reload="field_1_9"><input id="input_8" name="input_1_8" type="hidden" value=""></div><div id="field_1_10" class="gfield gform_validation_container field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_10"><label class="gfield_label" for="input_1_10">Comments</label><div class="ginput_container"><input name="input_10" id="input_1_10" type="text" value="" autocomplete="new-password"></div><div class="gfield_description" id="gfield_description_1_10">This field is for validation purposes and should be left unchanged.</div></div></div></div>
                 <div class="gform_footer top_label"> 
                   <button class="xash-buton">Get My Cash Offer!</button>               
                 </div>
@@ -875,7 +877,7 @@
                                                       type='hidden'
                                                       class='gform_hidden'
                                                       aria-invalid="false"
-                                                      value='https://www.sellmyhousefast.com/' />
+                                                      value='/' />
                                                 </div>
                                             </div>
                                             <div id="field_5_8"
@@ -1254,7 +1256,7 @@
                                         <input name='input_7' id='input_6_7'
                                           type='hidden' class='gform_hidden'
                                           aria-invalid="false"
-                                          value='https://www.sellmyhousefast.com/' />
+                                          value='/' />
                                     </div>
                                 </div>
                                 <div id="field_6_8"
@@ -1727,7 +1729,7 @@
                                         <input name='input_7' id='input_7_7'
                                           type='hidden' class='gform_hidden'
                                           aria-invalid="false"
-                                          value='https://www.sellmyhousefast.com/' />
+                                          value='/' />
                                     </div>
                                 </div>
                                 <div id="field_7_8"
@@ -1798,7 +1800,7 @@
                         <div
                           class="oxygen-vsb-responsive-video-wrapper oxygen-vsb-responsive-video-wrapper-custom">
                             <iframe loading="lazy" width="560" height="315"
-                              src="https://www.youtube.com/embed/EVkUpWiPUx0"
+                              src="#"
                               title="YouTube video player" frameborder="0"
                               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                               allowfullscreen></iframe></div>
