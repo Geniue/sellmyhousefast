@@ -266,7 +266,6 @@
       color:#ffffff
     }
 
-
       </style>
 
     @yield('schema')

@@ -38,11 +38,11 @@ class="oxy-header-wrapper oxy-overlay-header oxy-header">
                                   <a
                                     href="{{route('hwb_houses')}}">How
                                       It Works</a></li>
-                              <li id="menu-item-288"
+                              {{-- <li id="menu-item-288"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288">
                                   <a
                                     href="{{route('reviews')}}">Reviews</a>
-                              </li>
+                              </li> --}}
                               <li id="menu-item-6071"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6071">
                                   <a
