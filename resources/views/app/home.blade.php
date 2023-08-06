@@ -20,6 +20,44 @@
     margin-left:auto; 
     margin-right:auto; 
   }
+  .et_pb_text_7.et_pb_text {
+    color: #131a4a!important;
+  }
+  .nas-adslasd{
+    text-align: center;
+    padding:20px 0px;
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+  }
+  .nas-adslasd div{
+    text-align: start;
+    display: flex;
+    gap: 5px;
+    flex-direction: row;
+  }
+
+  @media (min-width:741px){
+
+    .nas-adslasd{
+      padding-left: 18px !important;
+    }
+    
+    .nas-adslasd.green-list-wett{
+      align-items: flex-end !important;
+      padding-right: 18px !important;
+  }
+  
+}
+  @media (max-width:740px){
+    .nas-adslasd .green-list{
+        flex-direction:row-reverse !important; 
+  }
+  .nas-adslasd.green-list-wett{
+    align-items: flex-start !important;
+  }
+  }
+  
 </style>
     
 @endsection
@@ -98,39 +136,7 @@
             </div>
         </div>
     </section>
-    {{-- <section id="section-353-106" class=" ct-section">
-      <div class="ct-section-inner-wrap">
-        <div id="new_columns-1640-106" class="ct-new-columns">
-          <div id="div_block-1641-106" class="ct-div-block">
-            <div class="wp-block-column">
-                          <h3 id="headline-1599-106" class="ct-headline">Why Sell To a EZ Sell My House Fast?</h3>
 
-              <ol id="block-f560c857-bcdb-40c6-a484-c36d8471aadd" class="is-style-default">
-                  <li class="atomic-content-26-text ">You Pay <span style="text-decoration: underline"><strong>Zero
-                              Fees</strong></span> or Closing Costs</li>
-                  <li class="atomic-content-26-text "><span style="text-decoration: underline"><strong>Close
-                              quickly</strong></span> <strong><span class="has-inline-color has-c-link-color">7-28</span></strong>
-                      days or anytime.</li>
-                  <li class="atomic-content-26-text ">Guaranteed Offer, <span style="text-decoration: underline"><strong>no
-                              waiting months</strong></span>.</li>
-                  <li class="atomic-content-26-text "><span style="text-decoration: underline"><strong>No
-                              repairs</strong></span> are needed, sell
-                      fast “AS IS”</li>
-                  <li class="atomic-content-26-text ">No Showings or endless walkthroughs.</li>
-                  <li class="atomic-content-26-text ">No appraisals or approval delays.</li>
-              </ol>
-          </div>
-          </div>
-          <div id="div_block-1642-106" class="ct-div-block">
- 
-          <img decoding="async" class="yt-image" src="{{asset('assets/images/hqdefault (1).jpg')}}" alt="Sell My House Fast for Cash - ASAP Cash Offer" loading="lazy">
-      
-          </div>
-
-          </div>
-      </div>
-      </div>
-  </section> --}}
 
     <section id="section-353-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
@@ -145,23 +151,20 @@
                 Costs!</p>
             <div id="div_block-1594-106" class="ct-div-block"></div>
             <p id="text_block-361-106"
-              class="ct-text-block atomic-content-26-text">At <a
-                  href="/our-company/">Sell My House Fast</a>, we buy houses
-                for cash to make your home sale simple. As a company that
-                buys homes, we understand the importance of a fast cash
-                sale. That’s why we remove the drawbacks of working with
-                real estate agents.</p>
+              class="ct-text-block atomic-content-26-text">
+              Sell My House Fast is your go-to platform when you're looking to sell your house for cash and want a straightforward process.
+              As a business that specializes in purchasing homes, we appreciate the value of a swift, cash-based transaction.
+              Our aim is to bypass the potential hindrances often associated with dealing with real estate agents.
+            </p>
             <p id="text_block-1203-106"
-              class="ct-text-block atomic-content-26-text">How would you
-                like to be connected with a <i>local</i> investor in your
-                market who offers cash for houses? By filling out our form,
-                you will receive an offer from an active cash buyer who
-                <i>specializes</i> in your local real estate market. <b>Come
-                    check us out and see if our cash offer fits your home
-                    sale best!</b></p>
+              class="ct-text-block atomic-content-26-text">
+              Would you appreciate the opportunity to engage with an investor from your region who is willing to pay cash for
+               properties? Once you complete our form, a committed cash buyer familiar with your specific real estate market will make you an offer.
+               We invite you to visit us and determine if our cash proposition is the most suitable for your home-selling needs!
+            </b></p>
         </div>
     </section>
-    <section id="section-353-106" class=" ct-section bg-lightblue">
+    {{-- <section id="section-353-106" class=" ct-section bg-lightblue">
       <div class="ct-section-inner-wrap ">
         <div class="ten-scoff-btn-wrapper max-flex-md-column mx-auto py-0 d-flex m-center ">
           <div class="d-flex ">
@@ -172,330 +175,25 @@
               </strong></h4>
           </div>
           <a href="#" class="ten-scoff-btn mx-lg-4">
-            <svg fill="#ffffff" width="35" height="35" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 33.834 33.834" xml:space="preserve" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path d="M32.253,29.334v4.5H1.581v-4.501c0-2.125,1.832-4.741,4.07-5.804l4.98-2.366l3.457,7.204l1.77-4.799 c0.349,0.066,0.695,0.154,1.059,0.154s0.709-0.088,1.059-0.154l1.68,4.563l3.389-7.048l5.141,2.445 C30.421,24.591,32.253,27.207,32.253,29.334z M6.105,13.562v-3.25c0-0.551,0.287-1.034,0.72-1.312c0.581-5.058,4.883-9,10.094-9 s9.514,3.942,10.096,9c0.432,0.278,0.719,0.761,0.719,1.312v3.25c0,0.863-0.699,1.563-1.563,1.563s-1.563-0.7-1.563-1.563v-0.683 c-0.846,4.255-3.961,8.205-7.688,8.205c-3.727,0-6.842-3.95-7.688-8.205v0.683c0,0.7-0.465,1.286-1.1,1.485 c0.622,2.117,2.002,3.946,3.908,5.146c0.352-0.116,0.796-0.094,1.227,0.13c0.692,0.36,1.045,1.06,0.783,1.56 c-0.261,0.5-1.033,0.612-1.729,0.251c-0.508-0.265-0.83-0.71-0.864-1.126c-2.183-1.396-3.731-3.533-4.37-5.998 C6.513,14.78,6.105,14.22,6.105,13.562z M7.89,8.635c0.047,0.003,0.092,0.004,0.137,0.021C8.14,8.698,8.222,8.779,8.279,8.874 c0.339,0.144,0.609,0.407,0.775,0.733C9.515,5.286,12.855,3,16.917,3c4.062,0,7.402,2.286,7.863,6.607 c0.229-0.449,0.664-0.77,1.185-0.837c-0.676-4.393-4.47-7.771-9.048-7.771C12.386,1,8.622,4.309,7.89,8.635z"></path> </g> </g></svg>          {{-- <img src="https://real.whippdigital.com/assets/images/live_chat.png" width="180" height="180" alt=""> --}}
+            <svg fill="#ffffff" width="35" height="35" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 33.834 33.834" xml:space="preserve" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path d="M32.253,29.334v4.5H1.581v-4.501c0-2.125,1.832-4.741,4.07-5.804l4.98-2.366l3.457,7.204l1.77-4.799 c0.349,0.066,0.695,0.154,1.059,0.154s0.709-0.088,1.059-0.154l1.68,4.563l3.389-7.048l5.141,2.445 C30.421,24.591,32.253,27.207,32.253,29.334z M6.105,13.562v-3.25c0-0.551,0.287-1.034,0.72-1.312c0.581-5.058,4.883-9,10.094-9 s9.514,3.942,10.096,9c0.432,0.278,0.719,0.761,0.719,1.312v3.25c0,0.863-0.699,1.563-1.563,1.563s-1.563-0.7-1.563-1.563v-0.683 c-0.846,4.255-3.961,8.205-7.688,8.205c-3.727,0-6.842-3.95-7.688-8.205v0.683c0,0.7-0.465,1.286-1.1,1.485 c0.622,2.117,2.002,3.946,3.908,5.146c0.352-0.116,0.796-0.094,1.227,0.13c0.692,0.36,1.045,1.06,0.783,1.56 c-0.261,0.5-1.033,0.612-1.729,0.251c-0.508-0.265-0.83-0.71-0.864-1.126c-2.183-1.396-3.731-3.533-4.37-5.998 C6.513,14.78,6.105,14.22,6.105,13.562z M7.89,8.635c0.047,0.003,0.092,0.004,0.137,0.021C8.14,8.698,8.222,8.779,8.279,8.874 c0.339,0.144,0.609,0.407,0.775,0.733C9.515,5.286,12.855,3,16.917,3c4.062,0,7.402,2.286,7.863,6.607 c0.229-0.449,0.664-0.77,1.185-0.837c-0.676-4.393-4.47-7.771-9.048-7.771C12.386,1,8.622,4.309,7.89,8.635z"></path> </g> </g></svg>          <img src="https://real.whippdigital.com/assets/images/live_chat.png" width="180" height="180" alt="">
           Live Agent
           </a>
           </div>          
       </div>
-  </section>
+  </section> --}}
 
-    {{-- <section id="section-1214-106" class=" ct-section">
-        <div class="ct-section-inner-wrap">
-            <div id="new_columns-1217-106" class="ct-new-columns">
-                <div id="div_block-1218-106" class="ct-div-block  p-4"><img
-                      loading="lazy" id="image-1219-106"
-                      alt="need to sell my home fast"
-                      src="{{asset('assets/images/selling_cart.jpg')}}"
-                      class="ct-image" /></div>
-                <div id="div_block-1221-106" class="ct-div-block">
-                    <div id="div_block-1238-106" class="ct-div-block">
-                        <h2 id="headline-1215-106"
-                          class="ct-headline atomic-secondary-heading">
-                            <div style="text-align: center;">Need To Sell My
-                                House Fast!</div>
-                        </h2>
-                        <p id="text_block-1531-106"
-                          class="ct-text-block atomic-content-26-text">If
-                            you need to sell your house fast, you can avoid
-                            the hassles of a traditional sale! Imagine
-                            having to find a real estate agent, make
-                            repairs, clean, deal with open houses and
-                            showings, and pay commission and fees on top of
-                            all the work and stress in your already busy
-                            life…<b></b></p>
-                        <p id="text_block-1534-106"
-                          class="ct-text-block atomic-content-26-text">
-                            <b><i>Sell My House Fast</i> eliminates these
-                                hassles.</b> We take the stress out of
-                            selling your home, so you can keep on living
-                            your life. Our goal is to make your home sale as
-                            simple as possible.<b></b></p>
-                    </div>
-                    <div id="div_block-1649-106" class="ct-div-block">
-                        <div id="shortcode-1237-106" class="ct-shortcode">
-                            <div
-                              class='gf_browser_gecko gform_wrapper gravity-theme'
-                              id='gform_wrapper_4'>
-                                <div id='gf_4' class='gform_anchor'
-                                  tabindex='-1'></div>
-                                <div class='gform_heading'>
-                                    <p class='gform_required_legend'></p>
-                                </div>
-                                <form method='post'
-                                  enctype='multipart/form-data'
-                                  target='gform_ajax_frame_4' id='gform_4'
-                                  action='/#gf_4' novalidate><input
-                                      id=partial_entry_id_4
-                                      class="partial_entry_id" type=hidden
-                                      name="partial_entry_id"
-                                      value="pending" data-form_id="4" />
-                                    <div class='gform_body gform-body'>
-                                        <div id='gform_fields_4'
-                                          class='gform_fields top_label form_sublabel_below description_below'>
-                                            <div id="field_4_6"
-                                              class="gfield gfield--width-full gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"
-                                              data-js-reload="field_4_6">
-                                                <label class='gfield_label'
-                                                  for='input_4_6'>Property
-                                                    Address<span
-                                                      class="gfield_required"><span
-                                                          class="gfield_required gfield_required_asterisk">*</span></span></label>
-                                                <div
-                                                  class='ginput_container ginput_container_text'>
-                                                    <input name='input_6'
-                                                      id='input_4_6'
-                                                      type='text' value=''
-                                                      class='large'
-                                                      aria-required="true"
-                                                      aria-invalid="false" />
-                                                </div>
-                                            </div>
-                                            <fieldset id="field_4_4"
-                                              class="gfield gfield--width-full field_sublabel_below field_description_below gfield_visibility_hidden"
-                                              data-js-reload="field_4_4">
-                                                <div
-                                                  class='admin-hidden-markup'>
-                                                    <i
-                                                      class='gform-icon gform-icon--hidden'></i><span>Hidden</span>
-                                                </div>
-                                                <legend
-                                                  class='gfield_label gfield_label_before_complex'>
-                                                    Address Autofill
-                                                </legend>
-                                                <div
-                                                  class='ginput_complex ginput_container has_street has_street2 has_city has_state has_zip has_country ginput_container_address'
-                                                  id='input_4_4'>
-                                                    <span
-                                                      class='ginput_full address_line_1 ginput_address_line_1'
-                                                      id='input_4_4_1_container'>
-                                                        <input type='text'
-                                                          name='input_4.1'
-                                                          id='input_4_4_1'
-                                                          value=''
-                                                          aria-required='false' />
-                                                        <label
-                                                          for='input_4_4_1'
-                                                          id='input_4_4_1_label'>Street
-                                                            Address</label>
-                                                    </span><span
-                                                      class='ginput_full address_line_2 ginput_address_line_2'
-                                                      id='input_4_4_2_container'>
-                                                        <input type='text'
-                                                          name='input_4.2'
-                                                          id='input_4_4_2'
-                                                          value=''
-                                                          aria-required='false' />
-                                                        <label
-                                                          for='input_4_4_2'
-                                                          id='input_4_4_2_label'>Address
-                                                            Line 2</label>
-                                                    </span><span
-                                                      class='ginput_left address_city ginput_address_city'
-                                                      id='input_4_4_3_container'>
-                                                        <input type='text'
-                                                          name='input_4.3'
-                                                          id='input_4_4_3'
-                                                          value=''
-                                                          aria-required='false' />
-                                                        <label
-                                                          for='input_4_4_3'
-                                                          id='input_4_4_3_label'>City</label>
-                                                    </span><span
-                                                      class='ginput_right address_state ginput_address_state'
-                                                      id='input_4_4_4_container'>
-                                                        <input type='text'
-                                                          name='input_4.4'
-                                                          id='input_4_4_4'
-                                                          value=''
-                                                          aria-required='false' />
-                                                        <label
-                                                          for='input_4_4_4'
-                                                          id='input_4_4_4_label'>State
-                                                            / Province /
-                                                            Region</label>
-                                                    </span><span
-                                                      class='ginput_left address_zip ginput_address_zip'
-                                                      id='input_4_4_5_container'>
-                                                        <input type='text'
-                                                          name='input_4.5'
-                                                          id='input_4_4_5'
-                                                          value=''
-                                                          aria-required='false' />
-                                                        <label
-                                                          for='input_4_4_5'
-                                                          id='input_4_4_5_label'>ZIP
-                                                            / Postal
-                                                            Code</label>
-                                                    </span><span
-                                                      class='ginput_right address_country ginput_address_country'
-                                                      id='input_4_4_6_container'>
-                                                        <select
-                                                          name='input_4.6'
-                                                          id='input_4_4_6'
-                                                          aria-required='false'>
-                                                            <option value=''
-                                                              selected='selected'>
-                                                            </option>
-                                                            <option
-                                                              value='United States'>
-                                                                United
-                                                                States
-                                                            </option>
-                                                            <option
-                                                              value='Canada'>
-                                                                Canada
-                                                            </option>
-                                                        </select>
-                                                        <label
-                                                          for='input_4_4_6'
-                                                          id='input_4_4_6_label'>Country</label>
-                                                    </span>
-                                                    <div
-                                                      class='gf_clear gf_clear_complex'>
-                                                    </div>
-                                                </div><input type="hidden"
-                                                  name="gpaa_coords_4"
-                                                  class="gform_hidden"
-                                                  value="">
-                                            </fieldset>
-                                            <div id="field_4_2"
-                                              class="gfield gfield--width-half field_sublabel_below field_description_below gfield_visibility_visible"
-                                              data-js-reload="field_4_2">
-                                                <label class='gfield_label'
-                                                  for='input_4_2'>Phone</label>
-                                                <div
-                                                  class='ginput_container ginput_container_phone'>
-                                                    <input name='input_2'
-                                                      id='input_4_2'
-                                                      type='tel' value=''
-                                                      class='large'
-                                                      placeholder='###-###-####'
-                                                      aria-invalid="false" />
-                                                </div>
-                                            </div>
-                                            <div id="field_4_3"
-                                              class="gfield gfield--width-half gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"
-                                              data-js-reload="field_4_3">
-                                                <label class='gfield_label'
-                                                  for='input_4_3'>Email<span
-                                                      class="gfield_required"><span
-                                                          class="gfield_required gfield_required_asterisk">*</span></span></label>
-                                                <div
-                                                  class='ginput_container ginput_container_email'>
-                                                    <input name='input_3'
-                                                      id='input_4_3'
-                                                      type='email' value=''
-                                                      class='large'
-                                                      aria-required="true"
-                                                      aria-invalid="false" />
-                                                </div>
-                                            </div>
-                                            <div id="field_4_7"
-                                              class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible"
-                                              data-js-reload="field_4_7">
-                                                <div
-                                                  class='ginput_container ginput_container_text'>
-                                                    <input name='input_7'
-                                                      id='input_4_7'
-                                                      type='hidden'
-                                                      class='gform_hidden'
-                                                      aria-invalid="false"
-                                                      value='https://www.sellmyhousefast.com/' />
-                                                </div>
-                                            </div>
-                                            <div id="field_4_8"
-                                              class="gfield gfield--width-full gform_hidden field_sublabel_below field_description_below gfield_visibility_visible"
-                                              data-js-reload="field_4_8">
-                                                <div
-                                                  class='ginput_container ginput_container_text'>
-                                                    <input name='input_8'
-                                                      id='input_4_8'
-                                                      type='hidden'
-                                                      class='gform_hidden'
-                                                      aria-invalid="false"
-                                                      value='' /></div>
-                                            </div>
-                                            <div id="field_4_9"
-                                              class="gfield gfield--width-full gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below gfield_visibility_hidden"
-                                              data-js-reload="field_4_9">
-                                                <input id="input_8"
-                                                  name="input_4_8"
-                                                  type="hidden" value="">
-                                            </div>
-                                            <div id="field_4_10"
-                                              class="gfield gform_validation_container field_sublabel_below field_description_below gfield_visibility_visible"
-                                              data-js-reload="field_4_10">
-                                                <label class='gfield_label'
-                                                  for='input_4_10'>Phone</label>
-                                                <div
-                                                  class='ginput_container'>
-                                                    <input name='input_10'
-                                                      id='input_4_10'
-                                                      type='text' value=''
-                                                      autocomplete='new-password' />
-                                                </div>
-                                                <div
-                                                  class='gfield_description'
-                                                  id='gfield_description_4_10'>
-                                                    This field is for
-                                                    validation purposes and
-                                                    should be left
-                                                    unchanged.</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="gform_footer top_label"> 
-                                      <button class="xash-buton">Get My Cash Offer!</button>               
-                                    </div>
-                                </form>
-                            </div>
-                            <iframe
-                              style='display:none;width:0px;height:0px;'
-                              src='about:blank' name='gform_ajax_frame_4'
-                              id='gform_ajax_frame_4'
-                              title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
-                            <script>
-                                gform.initializeOnLoaded( function() {gformInitSpinner( 4, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_4').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_4');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_4').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_4').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_4').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_4').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_4').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_4').val();gformInitSpinner( 4, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [4, current_page]);window['gf_submitting_4'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_4').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_4').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [4]);window['gf_submitting_4'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_4').text());}, 50);}else{jQuery('#gform_4').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [4, current_page]);} );} );
-                            </script>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> --}}
     <section id="section-216-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <h2 id="headline-217-106"
-              class="ct-headline atomic-secondary-heading">How Do I Sell My
-                House Fast?</h2>
+              class="ct-headline atomic-secondary-heading">How Can I Quickly Sell My Home?</h2>
             <p id="text_block-1565-106"
-              class="ct-text-block atomic-content-26-text">At Sell My House
-                Fast, we buy homes for cash, <i style="">and</i> we connect
-                you with a local cash buyer! <b>This allows sellers to work
-                    with a house buyer who can offer <i style="">more</i>
-                    because they know the area better than national real
-                    estate investors. </b>We want to enhance your selling
-                experience by giving you access to a cash home buyer who
-                operates exclusively in your market.<br></p>
+              class="ct-text-block atomic-content-26-text">
+              Sell My House Fast is here to facilitate cash transactions for your home while linking you up with a local cash purchaser! 
+              This approach provides sellers an opportunity to cooperate with a house buyer who, due to their familiarity with the locality, can potentially offer more compared to nationwide real estate investors. Our aim is to refine your
+               selling journey by introducing you to a cash home buyer who is specifically invested in your local market.
+              <br></p>
                 <div id="new_columns-219-106" class="ct-new-columns max-md-ps-20px">
                   <div id="div_block-220-106" class="ct-div-block">
-                      {{-- <div id="div_block-221-106"
-                        class="ct-div-block atomic-iconblock-15-wrapper">
-                          <div id="div_block-1272-106" class="ct-div-block">
-                              <p id="text_block-1292-106"
-                                class="ct-text-block">Step 1</p>
-                          </div>
-                          <p id="text_block-1303-106" class="ct-text-block">
-                              FILL OUT FORM</p><img loading="lazy"
-                            id="image-1317-106" alt="sale my home fast"
-                            src="{{asset('assets/images/icons/fill_out_form.png')}}"
-                            class="ct-image"
-                            sizes="(max-width: 512px) 100vw, 512px"
-                            alt="sale my home fast" />
-                          <p id="text_block-1305-106" class="ct-text-block">
-                              Fill out the form, and we will connect you with
-                              a local cash buyer.</p>
-                      </div> --}}
                       <div id="step1" class="step-rounded-wrapper">
                         <div class="step-inse-sd">
 
@@ -551,26 +249,23 @@
                   </div>
               </div>
             <p id="text_block-1569-106"
-              class="ct-text-block atomic-content-26-text">Our home sale
-                process is simple. Unlike a big home buying corporation or
-                ibuyer, you will work with a local real estate buyer who
-                specializes in your market. This leads to higher cash
-                offers, faster home sales, and happier home
-                sellers!<b></b><br></p>
+              class="ct-text-block atomic-content-26-text">
+              Our method for selling homes is straightforward. Instead of dealing with a large property-buying firm or an ibuyer, 
+              you'll be cooperating with a local property purchaser who has expertise in your specific market. Such a setup results 
+              in increased cash proposals, quicker home transactions, and more satisfied home sellers!
+              <b></b><br></p>
         </div>
     </section>
     <section id="section-609-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <h2 id="headline-610-106"
-              class="ct-headline atomic-secondary-heading">I Want To Sell My
-                House Fast, But...</h2>
+              class="ct-headline atomic-secondary-heading"> I'm Eager To Sell My Home Quickly, However... </h2>
             <p id="text_block-1848-106"
-              class="ct-text-block atomic-content-26-text">Sell My House
-                Fast works with homeowners no matter the real estate
-                troubles. Whether you owe more on your home than it’s worth,
-                are tired of dealing with bad tenants, or just want to sell
-                fast without paying for a real estate agent, we can make you
-                a quick, all cash offer!<b></b><br></p>
+              class="ct-text-block atomic-content-26-text">
+              No matter the challenges your property presents, Sell My House Fast stands ready to assist all homeowners.
+               Be it a situation where your home's debt exceeds its value, you're weary from managing difficult tenants, or you simply wish to accelerate the selling process without 
+              engaging a real estate agent, we're prepared to present you with a speedy, all-cash proposal!
+              <b></b><br></p>
             <div id="new_columns-612-106" class="ct-new-columns">
                 <div id="div_block-613-106" class="ct-div-block"><img
                       loading="lazy" id="image-1048-106"
@@ -632,15 +327,12 @@
                 </div>
             </div>
             <p id="text_block-1852-106"
-              class="ct-text-block atomic-content-26-text">We buy real
-                estate of all types including houses, 
-                townhomes, apartments, buildings, duplexes, multi-family
-                homes… you name it. If you need to sell your home fast, we
-                will give you a free, no obligation, cash offer and set a
-                closing date that you choose.<br></p>
+              class="ct-text-block atomic-content-26-text">
+              We acquire various forms of real estate encompassing houses, townhouses, apartments, buildings, duplexes, multi-family residences... anything you can think of. If a speedy home sale is your objective, we'll present you with a complimentary, non-binding, cash proposal, and set a closing date according to your preference.
+              <br></p>
         </div>
     </section>
-    <section id="section-353-106" class=" ct-section bg-lightblue">
+    {{-- <section id="section-353-106" class=" ct-section bg-lightblue">
       <div class="ct-section-inner-wrap ">
         <div class="ten-scoff-btn-wrapper max-flex-md-column mx-auto py-0 d-flex m-center ">
           <div class="d-flex ">
@@ -651,12 +343,12 @@
               </strong></h4>
           </div>
           <a href="#" class="ten-scoff-btn mx-lg-4">
-            <svg fill="#ffffff" width="35" height="35" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 33.834 33.834" xml:space="preserve" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path d="M32.253,29.334v4.5H1.581v-4.501c0-2.125,1.832-4.741,4.07-5.804l4.98-2.366l3.457,7.204l1.77-4.799 c0.349,0.066,0.695,0.154,1.059,0.154s0.709-0.088,1.059-0.154l1.68,4.563l3.389-7.048l5.141,2.445 C30.421,24.591,32.253,27.207,32.253,29.334z M6.105,13.562v-3.25c0-0.551,0.287-1.034,0.72-1.312c0.581-5.058,4.883-9,10.094-9 s9.514,3.942,10.096,9c0.432,0.278,0.719,0.761,0.719,1.312v3.25c0,0.863-0.699,1.563-1.563,1.563s-1.563-0.7-1.563-1.563v-0.683 c-0.846,4.255-3.961,8.205-7.688,8.205c-3.727,0-6.842-3.95-7.688-8.205v0.683c0,0.7-0.465,1.286-1.1,1.485 c0.622,2.117,2.002,3.946,3.908,5.146c0.352-0.116,0.796-0.094,1.227,0.13c0.692,0.36,1.045,1.06,0.783,1.56 c-0.261,0.5-1.033,0.612-1.729,0.251c-0.508-0.265-0.83-0.71-0.864-1.126c-2.183-1.396-3.731-3.533-4.37-5.998 C6.513,14.78,6.105,14.22,6.105,13.562z M7.89,8.635c0.047,0.003,0.092,0.004,0.137,0.021C8.14,8.698,8.222,8.779,8.279,8.874 c0.339,0.144,0.609,0.407,0.775,0.733C9.515,5.286,12.855,3,16.917,3c4.062,0,7.402,2.286,7.863,6.607 c0.229-0.449,0.664-0.77,1.185-0.837c-0.676-4.393-4.47-7.771-9.048-7.771C12.386,1,8.622,4.309,7.89,8.635z"></path> </g> </g></svg>          {{-- <img src="https://real.whippdigital.com/assets/images/live_chat.png" width="180" height="180" alt=""> --}}
+            <svg fill="#ffffff" width="35" height="35" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 33.834 33.834" xml:space="preserve" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path d="M32.253,29.334v4.5H1.581v-4.501c0-2.125,1.832-4.741,4.07-5.804l4.98-2.366l3.457,7.204l1.77-4.799 c0.349,0.066,0.695,0.154,1.059,0.154s0.709-0.088,1.059-0.154l1.68,4.563l3.389-7.048l5.141,2.445 C30.421,24.591,32.253,27.207,32.253,29.334z M6.105,13.562v-3.25c0-0.551,0.287-1.034,0.72-1.312c0.581-5.058,4.883-9,10.094-9 s9.514,3.942,10.096,9c0.432,0.278,0.719,0.761,0.719,1.312v3.25c0,0.863-0.699,1.563-1.563,1.563s-1.563-0.7-1.563-1.563v-0.683 c-0.846,4.255-3.961,8.205-7.688,8.205c-3.727,0-6.842-3.95-7.688-8.205v0.683c0,0.7-0.465,1.286-1.1,1.485 c0.622,2.117,2.002,3.946,3.908,5.146c0.352-0.116,0.796-0.094,1.227,0.13c0.692,0.36,1.045,1.06,0.783,1.56 c-0.261,0.5-1.033,0.612-1.729,0.251c-0.508-0.265-0.83-0.71-0.864-1.126c-2.183-1.396-3.731-3.533-4.37-5.998 C6.513,14.78,6.105,14.22,6.105,13.562z M7.89,8.635c0.047,0.003,0.092,0.004,0.137,0.021C8.14,8.698,8.222,8.779,8.279,8.874 c0.339,0.144,0.609,0.407,0.775,0.733C9.515,5.286,12.855,3,16.917,3c4.062,0,7.402,2.286,7.863,6.607 c0.229-0.449,0.664-0.77,1.185-0.837c-0.676-4.393-4.47-7.771-9.048-7.771C12.386,1,8.622,4.309,7.89,8.635z"></path> </g> </g></svg>         
           Live Agent
           </a>
           </div>          
       </div>
-  </section>
+  </section> --}}
     <section id="section-1327-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <div id="new_columns-1328-106" class="ct-new-columns">
@@ -664,29 +356,27 @@
                     <div id="div_block-1332-106" class="ct-div-block">
                         <h2 id="headline-1333-106"
                           class="ct-headline atomic-secondary-heading">
-                            <div style="text-align: center;">Sell Your Home
-                                Without Listing</div>
+                            <div style="text-align: center;">
+                              Dispose of Your Property Without Listing
+                            </div>
                         </h2>
                     </div>
                     <div id="div_block-1656-106" class="ct-div-block">
                         <div id="text_block-1343-106" class="ct-text-block">
-                            <u style="">NO AGENT FEES</u></div>
+                            <u style="">ZERO AGENT CHARGES</u></div>
                         <p id="text_block-1334-106"
                           class="ct-text-block atomic-iconblock-8-text">
-                            Selling your house without an agent means you
-                            don’t have to list your home or pay fees. There
-                            is <b>no waiting for banks and lenders</b> when
-                            you get a cash offer from us. We cover
+                          The advantage of selling your house without an agent is that there's no need for a home listing or payment of fees. 
+                          Receiving a cash proposal from us eliminates the waiting time for banks and lenders. Plus, all closing costs are on us!
                             <i>all</i> closing costs! </p>
                         <div id="text_block-1345-106" class="ct-text-block">
-                            <u style="">NO HASSLES</u></div>
+                            <u style="">NO INCONVENIENCES</u></div>
                         <p id="text_block-1335-106"
                           class="ct-text-block atomic-iconblock-8-text">
-                            <b><i></i></b>Sell My House Fast offers cash for
-                            your home over the phone. We don’t autogenerate
-                            our offers. We actually spend time researching
-                            your home to create a <b>fair cash offer</b> in
-                            the current market. </p>
+                            <b><i></i></b>
+                            Sell My House Fast delivers cash offers for your property directly over the phone. We refrain from autogenerating our proposals. Instead, we 
+                            dedicate time to investigate your property in order to generate a fair cash offer reflective of the current market.
+                           </p>
                     </div>
                     <div id="div_block-1653-106" class="ct-div-block">
                         <div id="shortcode-1336-106" class="ct-shortcode">
@@ -947,24 +637,20 @@
     <section id="section-236-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <h2 id="headline-237-106"
-              class="ct-headline atomic-secondary-heading">Sell Your House
-                Fast!</h2>
+              class="ct-headline atomic-secondary-heading">Accelerate Your Home Sale!</h2>
             <div id="new_columns-1640-106" class="ct-new-columns">
                 <div id="div_block-1641-106" class="ct-div-block">
                     <p id="text_block-1646-106"
-                      class="ct-text-block atomic-content-26-text">Sell My
-                        House Fast is able to help homeowners across the
-                        U.S. through our network of local real estate
-                        investors. We don’t operate out of one office. Our
-                        investors work on the ground in every market to make
-                        you the best possible offer!<br></p>
+                      class="ct-text-block atomic-content-26-text">
+                      Sell My House Fast extends assistance to homeowners nationwide via our network of
+                       local real estate investors. We're not confined to a single office. 
+                      Our investors are on-site in every market, striving to present you with the most attractive offer!
+                      <br></p>
                     <p id="text_block-1882-106"
-                      class="ct-text-block atomic-content-26-text">If you
-                        want all of the benefits that come with a fast, cash
-                        home sale and a high cash offer from a local real
-                        estate buyer in your market, <a
-                          href="#sell-your-house-fast" style="">fill out our
-                            form</a> to get started!<br></p>
+                      class="ct-text-block atomic-content-26-text">
+                      If you're interested in reaping the advantages of a swift, cash-based home sale and an elevated cash
+                       proposal from a local real estate purchaser in your market, begin by completing our form!
+                      <br></p>
                 </div>
                 <div id="div_block-1642-106" class="ct-div-block"><img
                       id="image-1358-106" alt="sell your house fast"
@@ -990,32 +676,32 @@
                       class="ct-image"
                       sizes="(max-width: 256px) 100vw, 256px"
                       alt="sell my home fast" />
-                    <h3 id="text_block-1377-106" class="ct-text-block">Fair
-                        Cash Offer</h3>
+                    <h3 id="text_block-1377-106" class="ct-text-block">
+                      Equitable Cash Proposal
+                    </h3>
                     <div id="text_block-1367-106"
                       class="ct-text-block atomic-iconblock-4-text">
-                        <div style="text-align: center;">Sell your house
-                            fast for a fair cash offer! We can say this with
-                            confidence because our local investors have
-                            helped hundreds of homeowners.</div>
+                        <div style="text-align: center;">
+                          Swiftly sell your home in exchange for a just cash offer! We voice this assurance based on the experience of our local investors who have aided hundreds of homeowners.
+                        </div>
                     </div>
                 </div>
                 <div id="div_block-1369-106"
                   class="ct-div-block atomic-iconblock-4-column"><img
                       loading="lazy" id="image-1380-106"
                       alt="sell home fast"
-                      src="{{asset('assets/images/fast-closing.webp')}}"
+                      src="{{asset('assets/images/icons/fast-closing.png')}}"
                       class="ct-image"
                       sizes="(max-width: 256px) 100vw, 256px"
                       alt="sell home fast" />
                     <h3 id="text_block-1381-106" class="ct-text-block">
-                        <i>Fast</i> Closing</h3>
+                      Rapid Closing</h3>
                     <div id="text_block-1372-106"
                       class="ct-text-block atomic-iconblock-4-text">
-                        <div style="text-align: center;">Sell My House Fast
-                            does just that– we buy your house as fast as you
-                            need. As cash home buyers, we can close as
-                            quickly as 7 days!</div>
+                        <div style="text-align: center;">
+                          Sell My House Fast lives up to its name – we acquire your house at your desired pace. Being cash home buyers, we have the capacity to conclude transactions as quickly as within a week!
+
+                        </div>
                     </div>
                 </div>
             </div>
@@ -1028,14 +714,14 @@
                       class="ct-image"
                       sizes="(max-width: 256px) 100vw, 256px"
                       alt="sale homes fast" />
-                    <h3 id="text_block-1388-106" class="ct-text-block">No
-                        Agent or iBuyer Fees</h3>
+                    <h3 id="text_block-1388-106" class="ct-text-block">
+                      No Agent or iBuyer Expenses
+                    </h3>
                     <div id="text_block-1389-106"
-                      class="ct-text-block atomic-iconblock-4-text">
-                        <div style="text-align: center;">Our cash offer for
-                            your house is what you will receive at closing.
-                            We cover all closing costs. No real estate fees.
-                            No agent commission.</div>
+                      class="ct-text-block atomic-iconblock-4-text">  
+                      <div style="text-align: center;">
+                        The cash proposition for your house that we provide is precisely what you'll get at the closing. We absorb all closing expenses. No hidden real estate charges. No agent's commission.
+                        </div>
                     </div>
                 </div>
                 <div id="div_block-1390-106"
@@ -1047,13 +733,12 @@
                       sizes="(max-width: 512px) 100vw, 512px"
                       alt="selling my home" />
                     <h3 id="text_block-1392-106" class="ct-text-block">
-                        <i></i>No Home Repairs</h3>
+                        <i></i>No Home Repair Obligations</h3>
                     <div id="text_block-1393-106"
                       class="ct-text-block atomic-iconblock-4-text">
-                        <div style="text-align: center;">Sell your house
-                            without even picking up a paint brush. As cash
-                            buyers, we take care of all the renovations and
-                            cleaning.</div>
+                        <div style="text-align: center;">
+                          Put your home on the market without the need to even lift a paintbrush. As cash purchasers, we undertake all renovation and cleaning tasks.
+                        </div>
                     </div>
                 </div>
             </div>
@@ -1066,12 +751,11 @@
                       sizes="(max-width: 256px) 100vw, 256px"
                       alt="sell my home" />
                     <h3 id="text_block-1397-106" class="ct-text-block">
-                        Flexible Closing Time<br></h3>
+                      Adjustable Closing Schedule<br></h3>
                     <div id="text_block-1398-106"
                       class="ct-text-block atomic-iconblock-4-text">
-                        <div style="text-align: center;">Sell My House Fast
-                            accommodates any timeline including homeowners
-                            on a tight schedule. You set the closing date!
+                        <div style="text-align: center;">
+                          Sell My House Fast adapts to any timeline, including those set by homeowners with a tight schedule. You're in charge of determining the closing date!
                         </div>
                     </div>
                 </div>
@@ -1082,14 +766,13 @@
                       class="ct-image"
                       sizes="(max-width: 256px) 100vw, 256px"
                       alt="sell home" />
-                    <h3 id="text_block-1401-106" class="ct-text-block">
-                        <i></i>Simple Sale Process</h3>
+                    <h3 id="text_block-1401-106" style="text-align: center" class="ct-text-block">
+                        <i></i>Uncomplicated Sale Procedure</h3>
                     <div id="text_block-1402-106"
                       class="ct-text-block atomic-iconblock-4-text">
-                        <div style="text-align: center;">Sell My House Fast
-                            runs on our simple selling process. It’s the top
-                            reason sellers choose us over an agent or fsbo!
-                            No home listing. No headaches.</div>
+                        <div style="text-align: center;">
+                          The operation of Sell My House Fast is built upon our straightforward selling process. This is the primary reason sellers opt for us over an agent or FSBO (For Sale By Owner)! There's no need for a home listing. No headaches.
+                        </div>
                     </div>
                 </div>
             </div>
@@ -1310,6 +993,84 @@
                     207-0788</a><br></p>
         </div>
     </section>
+
+    <section id="section-1360-106" class=" ct-section" style="margin-top: 20px;">
+      <div class="ct-section-inner-wrap">
+          <h2 id="headline-1361-106" class="ct-headline atomic-secondary-heading">Why Leave The Key is Better
+          </h2>
+          <div id="new_columns-1363-106" class="ct-new-columns">
+              <div id="div_block-1364-106" class="ct-div-block atomic-iconblock-4-column" style="align-items:flex-end !important;">
+                  <h4 id="text_block-1377-106" class="ct-text-block">
+                    Selling to Leave The Key
+                  </h4>
+                  <div id="text_block-1367-106" class="ct-text-block atomic-iconblock-4-text" >
+                      <div class="py-5 nas-adslasd green-list-wett" >
+                        <div class="green-list" >Competitive cash offer in 24 hours 
+                          <span>
+                            <img style="padding-left: 4px;" src="{{asset('assets/images/tick.png')}}" alt="">
+                          </span>
+                        </div>
+                        <div class="green-list" >No listing, prep work, or showings
+                          <span>
+                            <img style="padding-left: 4px;" src="{{asset('assets/images/tick.png')}}" alt="">
+                          </span>
+                        </div>
+                        <div class="green-list" >
+                          Skip the repair work and deduct the costs 
+                          <span>
+                            <img  style="padding-left: 4px;" src="{{asset('assets/images/tick.png')}}" alt="">
+                          </span>
+                        </div>
+                        <div class="green-list" >
+                          Sell on your schedule
+                          <span>
+                            <img style="padding-left: 4px;" src="{{asset('assets/images/tick.png')}}" alt="">
+                          </span>
+                        </div>
+                      </div>
+                  </div>
+              </div>
+              <div id="div_block-1369-106" class="ct-div-block ">
+                  <h4 id="text_block-1381-106" class="ct-text-block" style="text-align: start">
+                    Traditional Home Sale</h4>
+                  <div id="text_block-1372-106" class="ct-text-block atomic-iconblock-4-text">
+                      <div class="nas-adslasd">
+                        <div class="red-list">
+                          <span>
+                            <img src="{{asset('assets/images/warning.png')}}" alt=""> 
+                          </span>
+                            Risk of buyer financing fall-through
+                          </div>
+
+                        <div class="red-list">
+                          <span>
+
+                            <img src="{{asset('assets/images/warning.png')}}" alt="">
+                          </span>
+                          Hours of prep work and home showings
+                        </div class="red-list">
+
+                        <div class="red-list">
+                          <span>
+                            <img src="{{asset('assets/images/warning.png')}}" alt="">
+                          </span>
+                           Manage repairs yourself</div>
+
+                        <div class="red-list">
+                          <span>
+                            <img src="{{asset('assets/images/warning.png')}}" alt="">
+                          </span>
+                          Uncertain closing timeline</div>
+
+                      </div>
+                  </div>
+              </div>
+          </div>
+         
+      </div>
+  </section>
+
+
     <section id="section-530-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
           <div id="div_block-1594-106" class="ct-div-block"></div>
@@ -1364,8 +1125,9 @@
     
         </div>
             <h2 id="headline-531-106"
-              class="ct-headline atomic-secondary-heading">Sell Your Home
-                Fast Without An Agent</h2>
+              class="ct-headline atomic-secondary-heading">
+              Accelerate Your Home Sale Without Involving an Agent
+            </h2>
             <div id="new_columns-533-106"
               class="ct-new-columns atomic-content-26-columns">
                 <div id="div_block-534-106" class="ct-div-block">
@@ -1376,24 +1138,17 @@
                 </div>
                 <div id="div_block-536-106" class="ct-div-block ">
                     <p id="text_block-1603-106"
-                      class="ct-text-block atomic-content-26-text">We buy
-                        homes in every state and  with our
-                        network of local real estate buyers in each market.
-                        We work with a local title company or real estate
-                        attorney in every state who handles escrow and
-                        settlement.<br></p>
+                      class="ct-text-block atomic-content-26-text">
+                      We purchase properties across every state, leveraging our network of local real estate buyers in each market. In every state, we collaborate with a local title company or real estate attorney who oversees escrow and settlement.
+                      <br></p>
                     <p id="text_block-1180-106"
-                      class="ct-text-block atomic-content-26-text"><b>We
-                            have a real estate buyer in every market who’s
-                            ready to help.</b> With years of buying homes,
-                        we’ve worked with so many cash home buyers who are
-                        ready to purchase your home fast for cash.<br></p>
+                      class="ct-text-block atomic-content-26-text">
+                        There's a real estate buyer ready to assist in every market. With our years of experience in buying homes, we've established connections with numerous cash home buyers eager to promptly buy your property for cash.
+                        <br></p>
                     <p id="text_block-1181-106"
-                      class="ct-text-block atomic-content-26-text">Open
-                        yourself up to a competitive cash offer when you
-                        work with Sell My House Fast! We don’t want any
-                        sellers remorse. <b>We want you to choose the best
-                            offer when selling your home!</b><br></p>
+                      class="ct-text-block atomic-content-26-text">
+                      Embrace the opportunity of a competitive cash offer with Sell My House Fast! We aim for zero seller regrets. We want you to select the optimum offer when it's time to sell your home!
+                      <br></p>
                 </div>
             </div>
             <div id="new_columns-1672-106" class="ct-new-columns">
@@ -1468,21 +1223,15 @@
                             <use xlink:href="#FontAwesomeicon-home"></use>
                         </svg></div>
                     <h3 id="headline-1495-106" class="ct-headline">
-                        <div style="text-align: left;">How Can I Sell My
-                            House Quickly?</div>
+                        <div style="text-align: left;">
+                          How Can I Expedite the Sale of My House?
+                        </div>
                     </h3>
                 </div>
                 <p id="text_block-1549-106"
-                  class="ct-text-block atomic-content-26-text">Sell your
-                    house quickly by selling to a cash buyer. You don’t have
-                    to wait for financing or pay for lender required
-                    repairs. Unlike working with a real estate agent, there
-                    are no open houses. What we offer is what you receive at
-                    closing. Sell My House Fast buys homes in as little as 7
-                    days! You can get started now by <a
-                      href="#sell-my-house-fast">filling out our form</a>
-                    (we only need the property address and
-                    email)!<b></b><br></p>
+                  class="ct-text-block atomic-content-26-text">
+                  Accelerate your house sale by opting for a cash purchaser. There's no need to wait for financing or cover the cost of lender-mandated repairs. Unlike dealing with a real estate agent, open houses are a non-issue. Our proposed amount is exactly what you get at the closing. Sell My House Fast can procure homes in a mere 7 days! Start now by completing our form (we just need the property address and your email)!
+                  <br></p>
             </div>
             <div id="div_block-1501-106" class="ct-div-block m-0">
                 <div id="div_block-1856-106" class="ct-div-block m-0">
@@ -1491,22 +1240,11 @@
                             <use xlink:href="#FontAwesomeicon-home"></use>
                         </svg></div>
                     <h3 id="headline-1502-106" class="ct-headline">
-                        <div style="text-align: left;">What Is The Best
-                            Website To Sell Your House?</div>
+                        <div style="text-align: left;">Which is the Ideal Website to Sell Your House?</div>
                     </h3>
                 </div>
                 <p id="text_block-1551-106"
-                  class="ct-text-block atomic-content-26-text">The best
-                    website to sell your house is personal preference! There
-                    are several big real estate companies who have moved
-                    into the “We buy houses” space. There are also tons of
-                    local real estate investors. Typically when you visit a
-                    website to sell your home, you <a
-                      href="#sell-my-house-fast">fill out a form</a> to
-                    receive a generic cash offer. At Sell My House Fast,
-                    when you fill out our form, we connect you with a local
-                    buyer who specializes in your market and will give you a
-                    thoughtful cash offer!<b></b><br></p>
+                  class="ct-text-block atomic-content-26-text">Choosing the best website to sell your house boils down to personal preference! Several large real estate entities have ventured into the "We buy houses" domain. Plus, there's a multitude of local real estate investors. Normally, you'd fill out a form on a website selling your home to receive a generic cash offer. However, at Sell My House Fast, when you complete our form, we link you with a local buyer who has expertise in your market and will provide you with a considerate cash offer!<br></p>
             </div>
             <div id="div_block-1506-106" class="ct-div-block m-0">
                 <div id="div_block-1859-106" class="ct-div-block m-0">
@@ -1515,28 +1253,19 @@
                             <use xlink:href="#FontAwesomeicon-home"></use>
                         </svg></div>
                     <h3 id="headline-1507-106" class="ct-headline">
-                        <div style="text-align: left;">How Do I Sell My
-                            House In One Day?</div>
+                        <div style="text-align: left;">
+                          How Do I Manage to Sell My House in a Single Day?
+                        </div>
                     </h3>
                 </div>
                 <p id="text_block-1555-106"
-                  class="ct-text-block atomic-content-26-text">Selling your
-                    house in one day is nearly impossible (even with a cash
-                    <a href="/sell-my-house-fast-online-quote/">online
-                        quote</a>). On average, home sales take anywhere
-                    from 30 to 90 days with a real estate agent. Selling
-                    your house the traditional way involves a listing agent,
-                    and title companies or real estate attorneys to handle
-                    the closing process. A real estate closing requires a
-                    title search and settling any liens against the property
-                    such as mortgages, HOA liens or tax liens.<br></p>
+                  class="ct-text-block atomic-content-26-text">
+                  Achieving a house sale in one day is virtually unfeasible (even with a cash quote online). Typically, home sales, when handled by a real estate agent, span from 30 to 90 days. The conventional method of selling your house involves a listing agent, and title companies or real estate lawyers to oversee the closing procedure. A real estate closing necessitates a title search and resolution of any liens against the property such as mortgages, HOA liens, or tax liens.
+                  <br></p>
                 <p id="text_block-1890-106"
-                  class="ct-text-block atomic-content-26-text">The fastest
-                    way to sell your house is with a cash buyer like us! At
-                    Sell My House Fast, we can close in as short as 7 days!
-                    This gives title time to create the necessary real
-                    estate documents, run a title search, and facilitate a
-                    notary.<b></b><br></p>
+                  class="ct-text-block atomic-content-26-text">
+                  The quickest route to sell your house is through a cash buyer like us! At Sell My House Fast, we can finalize the deal in as little as 7 days! This allows sufficient time for the title to produce the requisite real estate documents, conduct a title search, and arrange a notary.
+                  <br></p>
             </div>
             <div id="div_block-1511-106" class="ct-div-block m-0">
                 <div id="div_block-1862-106" class="ct-div-block m-0">
@@ -1545,27 +1274,19 @@
                             <use xlink:href="#FontAwesomeicon-home"></use>
                         </svg></div>
                     <h3 id="headline-1512-106" class="ct-headline">
-                        <div style="text-align: left;">How Can I Increase My
-                            Chances Of Selling My House?</div>
+                        <div style="text-align: left;">
+                          How Can I Boost My Possibility of Selling My House?
+                        </div>
                     </h3>
                 </div>
                 <p id="text_block-1561-106"
-                  class="ct-text-block atomic-content-26-text">Increase your
-                    chances of selling your house by working with a cash
-                    buyer! Sell My House Fast sells homes fast! We make
-                    offers on real estate of all shapes and sizes. Whether
-                    your house requires a full gut or is just outdated, we
-                    will buy your home. Can’t beat that, huh?<br><br>You
-                    could also increase your chances of selling by making
-                    home repairs and updating the home to appeal to retail
-                    buyers. Changing your agent to a more expensive, top
-                    real estate agent, could help. Cleaning and showing your
-                    house to more potential buyers may help, too. Of course
-                    this will take time and cost money, so if it sounds like
-                    too much, see what we can offer for your home as-is by
-                    <a href="#sell-my-house-fast">filling out our online
-                        form</a>! It’s completely free and comes with no
-                    obligations.<b></b><br></p>
+                  class="ct-text-block atomic-content-26-text">
+                  Boost your probability of selling your house by partnering with a cash buyer! Sell My House Fast excels at quick home sales! We propose offers for properties of all types and sizes. Whether your house necessitates extensive renovation or is simply dated, we're ready to purchase it. Sounds unbeatable, right?
+                  <br></p>
+                  <p id="text_block-1890-106"
+                  class="ct-text-block atomic-content-26-text">
+                  You could also enhance your chances of selling by undertaking home repairs and modernizing the property to attract retail buyers. Shifting to a pricier, top-tier real estate agent could be beneficial. Cleaning up and presenting your house to a wider audience of potential buyers might also help. Of course, these measures will consume time and money, so if they seem overwhelming, check what we can offer for your property in its current condition by completing our online form! It's totally free and carries no obligations.
+                  <br></p>
             </div>
         </div>
     </section>
@@ -1782,18 +1503,15 @@
     <section id="section-1524-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <div id="div_block-1589-106" class="ct-div-block"></div>
-            <h2 id="headline-1529-106" class="ct-headline">I Need To Sell My
-                House Fast!</h2>
+            <h2 id="headline-1529-106" class="ct-headline">
+              I Must Accelerate My Home Sale!
+               </h2>
             <div id="new_columns-1883-106" class="ct-new-columns">
                 <div id="div_block-1884-106" class="ct-div-block">
                     <p id="text_block-1893-106"
-                      class="ct-text-block atomic-content-26-text">If you’re
-                        thinking, “I need to sell my house fast!”, we are
-                        ready to make you a fair cash offer. As real estate
-                        experts and problem solvers, we can help you with
-                        any real estate situation. From tax liens on your
-                        condo to a probate property or death in the family,
-                        we buy homes fast and hassle free.<b></b><br></p>
+                      class="ct-text-block atomic-content-26-text">
+                      If the thought, "I need to expedite my house sale!" crosses your mind, we stand ready to provide you with a just cash offer. With our expertise in real estate and problem-solving, we can assist you in navigating any real estate scenario. Whether you're dealing with tax liens on your condo, a property in probate, or a family bereavement, we specialize in quick, stress-free home purchases.
+                    </p>
                 </div>
                 <div id="div_block-1885-106" class="ct-div-block">
                     <div id="video-1886-106" class="ct-video">
@@ -1808,12 +1526,9 @@
                 </div>
             </div>
             <p id="text_block-1897-106"
-              class="ct-text-block atomic-content-26-text">At Sell My House
-                Fast, you don’t get an auto-generated offer from us… you
-                will receive a competitive cash offer from a local buyer in
-                your market when you fill out our form! Sell My House Fast
-                is all about making your home sale fair and simple!
-                🙂<b></b><br></p>
+              class="ct-text-block atomic-content-26-text">
+              With Sell My House Fast, don't expect an auto-generated offer... when you complete our form, you'll receive a competitive cash offer from a local buyer in your market! Our aim at Sell My House Fast is to ensure your home sale is equitable and uncomplicated! 🙂
+              <br></p>
         </div>
     </section>
 </div>

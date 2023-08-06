@@ -1271,7 +1271,7 @@
                   class="ct-div-block atomic-iconblock-4-column"><img
                       loading="lazy" id="image-1380-106"
                       alt="sell home fast"
-                      src="{{asset('assets/images/fast-closing.webp')}}"
+                      src="{{asset('assets/images/icons/fast-closing.png')}}"
                       class="ct-image"
                       sizes="(max-width: 256px) 100vw, 256px"
                       alt="sell home fast" />
