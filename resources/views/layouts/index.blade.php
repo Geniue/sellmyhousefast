@@ -258,14 +258,6 @@
         }
       }
 
-      #section-2-224{
-        background-image: linear-gradient(90deg,rgba(51,51,51,0.65) 0%,rgba(51,51,51,0.3) 100%),
-        url(https://leavethekey.com/wp-content/uploads/2020/04/get-a-fair-cash-offer-on-your-house.jpg)!important ;
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: bottom;
-        padding:24px;
-    }
 
       </style>
 
@@ -288,6 +280,11 @@
   }
   .widks-wo-50{
       width: 50%;
+  }
+  .sfls-rllofoor{
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
   }
   .jasdl-jus-between {
     justify-content: space-between;
@@ -327,6 +324,15 @@
     .asfsd-rehe-40{
       font-size: 18px !important;
     }
+    .lisd-lis{
+      margin-bottom: 0px !important;
+    }
+    .sfld-glr-glrc{
+      flex-direction: column !important;
+    }
+    .widks-wo-50{
+      width: 100% !important;
+  }
   }
 </style>
 

@@ -69,6 +69,22 @@
 .my-suc-reur label{
   color: #fff !important;
 }
+
+.hjovers-neww:hover{
+  transition: .3s all ease-in-out;
+  background: rgba(15, 48, 67, 0.952) !important;
+}
+
+#section-2-224{
+        background-image: linear-gradient(90deg,rgba(51,51,51,0.65) 0%,rgba(51,51,51,0.3) 100%),
+        url('{{asset('assets/images/home23.jpg')}}')!important ;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: bottom;
+        padding:24px;
+    }
+
+
 </style>
     
 @endsection
@@ -127,7 +143,7 @@
                 <div id="field_1_7" class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_7"><div class="ginput_container ginput_container_text">
                 </div></div><div id="field_1_8" class="gfield gfield--width-full gform_hidden field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_8"><div class="ginput_container ginput_container_text"><input name="input_8" id="input_1_8" type="hidden" class="gform_hidden" aria-invalid="false" value="FBAFB097-3B97-5E90-E9FD-DFAECD72774E"></div></div><div id="field_1_9" class="gfield gfield--width-full gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below gfield_visibility_hidden" data-js-reload="field_1_9"><input id="input_8" name="input_1_8" type="hidden" value=""></div><div id="field_1_10" class="gfield gform_validation_container field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_10"><label class="gfield_label" for="input_1_10">Comments</label><div class="ginput_container"><input name="input_10" id="input_1_10" type="text" value="" autocomplete="new-password"></div><div class="gfield_description" id="gfield_description_1_10">This field is for validation purposes and should be left unchanged.</div></div></div></div>
                 <div class="gform_footer top_label"> 
-                  <button class="xash-buton">Get My Cash Offer!</button>               
+                  <button class="xash-buton hjovers-neww">Get My Cash Offer!</button>               
                 </div>
                 </form>
                 </div>
@@ -625,14 +641,7 @@
                                     </div>
                                 </form>
                             </div>
-                            <iframe
-                              style='display:none;width:0px;height:0px;'
-                              src='about:blank' name='gform_ajax_frame_5'
-                              id='gform_ajax_frame_5'
-                              title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
-                            <script>
-                                gform.initializeOnLoaded( function() {gformInitSpinner( 5, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_5').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_5');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_5').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_5').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_5').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_5').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_5').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_5').val();gformInitSpinner( 5, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [5, current_page]);window['gf_submitting_5'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_5').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_5').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [5]);window['gf_submitting_5'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_5').text());}, 50);}else{jQuery('#gform_5').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [5, current_page]);} );} );
-                            </script>
+                           
                         </div>
                     </div>
                 </div>
@@ -1499,13 +1508,7 @@
                         </div>
                     </form>
                 </div>
-                <iframe style='display:none;width:0px;height:0px;'
-                  src='about:blank' name='gform_ajax_frame_7'
-                  id='gform_ajax_frame_7'
-                  title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
-                <script>
-                    gform.initializeOnLoaded( function() {gformInitSpinner( 7, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_7').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_7');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_7').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_7').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_7').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_7').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_7').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_7').val();gformInitSpinner( 7, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [7, current_page]);window['gf_submitting_7'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_7').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_7').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [7]);window['gf_submitting_7'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_7').text());}, 50);}else{jQuery('#gform_7').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [7, current_page]);} );} );
-                </script>
+               
             </div>
         </div>
     </section>
@@ -1526,11 +1529,8 @@
                     <div id="video-1886-106" class="ct-video">
                         <div
                           class="oxygen-vsb-responsive-video-wrapper oxygen-vsb-responsive-video-wrapper-custom">
-                            <iframe loading="lazy" width="560" height="315"
-                              src="#"
-                              title="YouTube video player" frameborder="0"
-                              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                              allowfullscreen></iframe></div>
+                        
+                            </div>
                     </div>
                 </div>
             </div>
