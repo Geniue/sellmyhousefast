@@ -56,8 +56,19 @@
   .nas-adslasd.green-list-wett{
     align-items: flex-start !important;
   }
-  }
+}
   
+
+  
+.sms-esud-ebp{
+  align-items: flex-start !important;
+}
+.my-suc-reur{
+  background: #ffffff1e !important;
+}
+.my-suc-reur label{
+  color: #fff !important;
+}
 </style>
     
 @endsection
@@ -68,11 +79,11 @@
     <section id="section-2-224"
       class=" ct-section ct-section-with-shape-divider">
       
-        <div class="ct-section-inner-wrap">
+        <div class="ct-section-inner-wrap sms-esud-ebp">
             <h2 id="headline-4-224"
               class="ct-headline atomic-primary-heading">Sell My House For
                 Cash!</h2>
-            <div id="div_block-1194-106" class="ct-div-block">
+            <div id="div_block-1194-106" class="">
                 <p id="text_block-1626-106"
                   class="ct-text-block atomic-content-26-text">
                 <div style="text-align: center;"><span
@@ -83,8 +94,8 @@
                             Today!</b></span></div>
                 </p>
             </div>
-            <div id="shortcode-678-106" class="ct-shortcode"><script type="text/javascript"></script>
-                <div class="gf_browser_unknown gform_wrapper gravity-theme" id="gform_wrapper_1"><div id="gf_1" class="gform_anchor" tabindex="-1"></div>
+            <div id="shortcode-678-106" class="ct-shortcode">
+                <div class="gf_browser_unknown gform_wrapper gravity-theme my-suc-reur" id="gform_wrapper_1"><div id="gf_1" class="gform_anchor" tabindex="-1"></div>
                 <div class="gform_heading">
                 <p class="gform_required_legend"></p>
                  </div><div class="partial_entry_warning" style="margin-bottom: 10px;">.</div><form method="post" enctype="multipart/form-data" target="gform_ajax_frame_1" id="gform_1" action="/#gf_1" novalidate=""><input id="partial_entry_id_1" class="partial_entry_id" type="hidden" name="partial_entry_id" value="pending" data-form_id="1">
@@ -121,13 +132,11 @@
                 </form>
                 </div>
                 <iframe style="display:none;width:0px;height:0px;" src="about:blank" name="gform_ajax_frame_1" id="gform_ajax_frame_1" title="This iframe contains the logic required to handle Ajax powered Gravity Forms."></iframe>
-                <script>
-                gform.initializeOnLoaded( function() {gformInitSpinner( 1, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} );
-                </script>
+            
                 </div>
             <div id="-shape-divider-1647-106" class="oxy-shape-divider ">
                 <div class="oxy_shape_divider">
-                    <svg style="transform: scaleX(-1)" xmlns="http://www.w3.org/2000/svg"
+                    <svg style="transform: scaleX(-1);color:#fff!important;"  xmlns="http://www.w3.org/2000/svg"
                       viewBox="0 0 1440 320" preserveAspectRatio="none">
                         <path fill="currentColor" fill-opacity="1"
                           d="M0,288L1440,0L1440,320L0,320Z"></path>
@@ -139,7 +148,7 @@
 
 
     <section id="section-353-106" class=" ct-section">
-        <div class="ct-section-inner-wrap">
+        <div class="ct-section-inner-wrap ">
             <h2 id="headline-354-106"
               class="ct-headline atomic-secondary-heading">Sell My House
                 Fast!</h2>

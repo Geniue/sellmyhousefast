@@ -259,14 +259,77 @@
       }
 
       #section-2-224{
-        background-image:linear-gradient(rgba(75,116,147,0.4),rgba(75,116,147,0.4)), url('{{asset('assets/images/home.jpg')}}');
-      text-align:center;
-      border-top-width:1px;
-      border-top-color:rgba(0,0,0,0.1);
-      color:#ffffff
+        background-image: linear-gradient(90deg,rgba(51,51,51,0.65) 0%,rgba(51,51,51,0.3) 100%),
+        url(https://leavethekey.com/wp-content/uploads/2020/04/get-a-fair-cash-offer-on-your-house.jpg)!important ;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: bottom;
+        padding:24px;
     }
 
       </style>
+
+
+{{-- FOOTER --}}
+<style>
+  .fooer-main-col{
+      background-color: #f7f8fa!important;
+  }
+  .sfld-glr-glrc {
+    display: flex;
+    width: 100%;
+  }
+  .sfld-glr-glrc .lisd-lis {
+    list-style: none;
+    padding: 0px;
+  }
+  .asd-fasoo-fooer {
+    padding: 32px 12px;
+  }
+  .widks-wo-50{
+      width: 50%;
+  }
+  .jasdl-jus-between {
+    justify-content: space-between;
+  }
+  .af-flen-14px{
+      font-size: 14px !important;
+  }
+  .as0e-de {
+    max-width: 1260px !important;
+    margin: auto;
+  }
+  .sfld-glr-glrc .lisd-lis a {
+    text-decoration: none;
+    color: #000;
+  }
+  .sfld-glr-glrc .lisd-lis a:hover {
+    opacity: 0.8;
+  }
+  .sfld-glr-glrc .lisd-lis li {
+    text-decoration: none;
+    color: #000;
+    padding: 5px 12px;
+    font-size: 16px !important;
+  }
+  .asfsd-rehe-40  {
+    font-weight: 700;
+    margin-bottom:0px !important; 
+    font-size: 20px;
+  }
+  .reas-moreP {
+    color: rgb(46, 74, 185) !important;
+  }
+  @media (max-width: 780px) {
+    .asds-flow-column {
+      flex-direction: column !important;
+    }
+    .asfsd-rehe-40{
+      font-size: 18px !important;
+    }
+  }
+</style>
+
 
     @yield('schema')
 
@@ -285,7 +348,7 @@
 
     @yield('content')
 
-    @include('layouts.footer')
+    @include('layouts.new_footer')
     
 
 <script>

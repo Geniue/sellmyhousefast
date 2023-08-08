@@ -43,9 +43,9 @@ Route::get('/we-buy-houses-canada', function () {
     return view('app.wbh_canada');
 })->name("wbh_canada");
 
-// Route::get('/reviews', function () {
-//     return view('app.reviews');
-// })->name("reviews");
+Route::get('/real-estate-wholesalers', function () {
+    return view('app.re_wholesalers');
+})->name("re_wholesalers");
 
 Route::get('/faq', function () {
     return view('app.faq');
