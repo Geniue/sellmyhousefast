@@ -1238,7 +1238,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
                 data-ll-status="loaded"
               />
             </div>
-            <div class="et_pb_team_member_description">
+            <div class="et_pb_team_member_description" style="padding-bottom:60px; ">
                 <p class="et_pb_member_position">STEP 5</p>
               <h5 class="ad-upe-ckas">You’ll Sell the Property Again</h5>
               <div>
