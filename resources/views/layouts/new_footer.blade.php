@@ -3,10 +3,17 @@
       <div class="sfld-glr-glrc jasdl-jus-between asds-flow-column">
         <div class="sfld-glr-glrc jasdl-jus-between jasdl-jus-between" style="align-items: center;">
           <ul class="lisd-lis widks-wo-50">
-            <li>230 A Broadway</li>
-            <li>Amityville, NY 11701</li>
-            <li>Phone: (631) 856-7300</li>
-            <li>Email: info@leavethekey.com</li>
+            <li>
+              <strong>
+                EZ Sell My House Fast
+              </strong>
+            </li>
+            <li>Phone: (xxx) xxx-xxxx</li>
+            <li>
+              <a href="mail:offer@ezsellmyhousefast.com">
+                offer@ezsellmyhousefast.com
+              </a>
+            </li>
           </ul>
           <ul class="lisd-lis widks-wo-50">
             <li>

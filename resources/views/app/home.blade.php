@@ -57,7 +57,10 @@
     align-items: flex-start !important;
   }
 }
-  
+
+.sf-efon-a span:first-child{
+  color: #e65e49 !important
+}
 
   
 .sms-esud-ebp{
@@ -84,6 +87,26 @@
         padding:24px;
     }
 
+
+    
+.sf-efon-a{
+  font-size: 32px;
+  font-weight: 600;
+}
+#text_block-1402-106 img{
+max-width: 100%;
+}
+@media(min-width:986px){
+  #div_block-1399-106{
+    width: 40% !important;
+  }
+  #text_block-1397-106{
+    text-wrap: nowrap;
+  }
+  #div_block-1395-106{
+    align-items: flex-start !important;
+  }
+}
 
 </style>
     
@@ -161,6 +184,45 @@
             </div>
         </div>
     </section>
+
+    <section id="section-1360-106" class=" ct-section" style="margin-top: 35px;">
+      <div class="ct-section-inner-wrap">
+          <div id="new_columns-1394-106" class="ct-new-columns">
+              <div id="div_block-1395-106" class="ct-div-block atomic-iconblock-4-column">
+                  <h4 id="text_block-1397-106" class="ct-text-block">
+                    Why Sell To  EZ Sell My House Fast?
+                    <br></h4>
+                  <div id="text_block-1398-106" class="ct-text-block atomic-iconblock-4-text">
+                    <ol id="block-f560c857-bcdb-40c6-a484-c36d8471aadd" class="is-style-default">
+                      <li>You Pay <span style="text-decoration: underline"><strong>Zero
+                                  Fees</strong></span> or Closing Costs</li>
+                      <li><span style="text-decoration: underline"><strong>Close
+                                  quickly</strong></span> <strong><span class="has-inline-color has-c-link-color">7-28</span></strong>
+                          days or anytime.</li>
+                      <li>Guaranteed Offer, <span style="text-decoration: underline"><strong>no
+                                  waiting months</strong></span>.</li>
+                      <li><span style="text-decoration: underline"><strong>No
+                                  repairs</strong></span> are needed, sell
+                          fast “AS IS”</li>
+                      <li>No Showings or endless walkthroughs.</li>
+                      <li>No appraisals or approval delays.</li>
+                  </ol>
+                  </div>
+              </div>
+              <div id="div_block-1399-106" class="ct-div-block atomic-iconblock-4-column">
+                <div id="text_block-1402-106" class="ct-text-block atomic-iconblock-4-text">
+                  <img src="{{asset('assets/images/hqdefault.jpg')}}" alt="">
+                </div>
+                <div id="text_block-1402-106" class="ct-text-block atomic-iconblock-4-text">
+
+                  <a href="tel:000-000-000" class="sf-efon-a"><span>Call Now</span> <span>
+                    (818) 651-8166
+                    </span></a>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </section>
 
 
     <section id="section-353-106" class=" ct-section">
