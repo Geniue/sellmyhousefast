@@ -83,7 +83,7 @@
         url('{{asset('assets/images/home23.jpg')}}')!important ;
         background-size: cover;
         background-repeat: no-repeat;
-        background-position: bottom;
+        background-position: center;
         padding:24px;
     }
 
