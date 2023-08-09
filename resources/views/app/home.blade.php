@@ -108,7 +108,445 @@ max-width: 100%;
   }
 }
 
+
+
+
+
+
+
+
+
+
 </style>
+
+
+
+<style>
+
+
+  h5{
+      font-size: 20px !important;
+  }
+
+  div.et_pb_section.et_pb_section_0 {
+    background-blend-mode: multiply;
+    background-image: linear-gradient(
+        180deg,
+        rgba(51, 51, 51, 0.4) 0%,
+        rgba(51, 51, 51, 0.4) 100%
+      ),
+      url('{{asset('assets/images/Locations-We-Buy-Houses.jpg')}}') !important;
+  }
+  .et_pb_section_0.et_pb_section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: inherit !important;
+  }
+  @media only screen and (min-width: 1500px) {
+    .et_pb_section {
+      padding: 60px 0;
+    }
+    .amfemc-se{
+      padding: 60px 14px;
+    }
+  }
+  .et_pb_all_tabs,
+  .et_pb_module,
+  .et_pb_posts_nav a,
+  .et_pb_tab,
+  .et_pb_with_background {
+    position: relative;
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+  }
+  .et_pb_text_0 {
+    line-height: 56px;
+    font-family: "Lato", Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 56px;
+    margin-bottom: 11px !important;
+    color: #ffffff !important;
+  }
+
+  .et_pb_text_0 h1 {
+    font-family: "Lato", Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 900;
+    font-size: 45px;
+    color: #ffffff !important;
+    line-height: 56px;
+  }
+  .et_pb_text_1 {
+    font-size: 18px;
+  }
+  .ks-dewsse {
+    background-color: #ecf4ff !important;
+  }
+
+  .text-who-se-white {
+    color: #ffffff;
+  }
+
+  .con-tss-e,
+  .con-tss-e a {
+    font-size: 32px;
+    font-weight: 600;
+    color: #131a4a !important;
+    text-decoration: none;
+  }
+  .ks-dewsse {
+    padding: 35px;
+  }
+  .name_field {
+    background-position: left 15px center !important;
+    background-image: url('{{asset('assets/images/person.png')}}') !important;
+    background-repeat: no-repeat !important;
+    margin-bottom: 14px !important;
+    padding: 0px !important;
+
+  }
+  .sse-et2-sd-binp {
+    width: 100%;
+    box-shadow: 0px 0px 20px 0px rgba(54, 141, 254, 0.15);
+    min-height: 55px;
+    line-height: 55px;
+    font-size: 16px;
+    color: #656776 !important;
+    text-indent: 40px;
+    margin-bottom: 0px !important;
+  }
+  .fasd-flex-folex {
+    display: flex;
+    gap: 16px;
+    margin-top: 18px;
+  }
+  .fasd-flex-folex div {
+    width: 100%;
+  }
+
+  .md-res-flex {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+    max-width: 1200px;
+    padding: 30px;
+  }
+  @media (max-width: 768px) {
+    .md-res-flex {
+      flex-direction: column;
+    }
+    .md-res-flex .aid-flex-ares {
+      width: 100% !important;
+      margin: auto;
+    }
+  }
+  .md-res-flex .aid-flex-ares {
+    width: 50%;
+    margin: auto;
+  }
+
+  .h1-www3s-s {
+    font-family: "Lato", Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 900;
+    font-size: 45px;
+    color: #ffffff !important;
+    line-height: 56px;
+  }
+
+  @media (max-width: 786px) {
+    .fasd-flex-folex {
+      flex-direction: column !important;
+      margin-top: 0px;
+      gap: 8px;
+    }
+    .d-flex-es-ese {
+      flex-direction: column;
+      gap: 10px !important;
+    }
+  }
+  .fore-maeomain p {
+    margin: 0px !important;
+  }
+  .email_field {
+    background-position: left 15px center !important ;
+    background-image: url('{{asset('assets/images/email.png')}}') !important;
+    background-repeat: no-repeat !important;
+    padding: 0px !important;
+
+  }
+  .phone_field {
+    background-position: left 15px center !important;
+    background-image: url('{{asset('assets/images/phone.png')}}') !important;
+    background-repeat: no-repeat !important;
+    padding: 0px !important;
+  }
+  .btu-submit-3s {
+    margin-top: 0px;
+    min-height: 55px;
+    border: 0px;
+    width: 100%;
+    background: #ff5100;
+    color: #fff !important;
+    font-size: 20px;
+    margin: auto;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .fore-maeomain {
+    display: flex;
+    flex-direction: column;
+    max-width: 700px;
+    justify-content: center;
+    gap: 8px;
+  }
+  .sunb-bms-head {
+    color: #131a4a !important;
+    line-height: 38px;
+    font-family: "Lato", Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 38px;
+  }
+  .new-scor-colr {
+    color: #131a4a !important;
+  }
+  .ms-hehlae-e {
+    padding: 60px 20px;
+    max-width: 1020px;
+    text-align: center;
+    margin: auto;
+  }
+  .d-flex-es-ese {
+    display: flex;
+    gap: 40px;
+  }
+  .d-flex-es-ese div {
+    width: 100%;
+    text-align: start;
+  }
+  .ul-sl-ex-e {
+    margin: 0px;
+    padding: 0px;
+    list-style-position: inside;
+    color: #656776 !important;
+  }
+
+  @media (min-width: 981px) {
+    .new-container {
+      max-width: 76%;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 60px 20px
+    }
+
+    .et_pb_module {
+      margin-bottom: 2.75% !important;
+    }
+    et_pb_gutters3 .et_pb_column_4_4 .et_pb_module,
+    .et_pb_gutters3.et_pb_row .et_pb_column_4_4 .et_pb_module {
+      margin-bottom: 2.75%;
+    }
+  }
+
+  .et_pb_module {
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+    -webkit-animation-duration: 0.2s;
+    animation-duration: 0.2s;
+  }
+  .et_pb_toggle_close {
+    background-color: #f4f4f4;
+    padding: 12px 20px;
+  }
+  .et_pb_toggle_close h5 {
+    margin: 0px;
+  }
+  .et_pb_toggle {
+    border: 1px solid #d9d9d9;
+  }
+
+  .tog-cles-sc {
+    width: 27px;
+    height: 27px;
+    border-radius: 50%;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+  }
+
+  .ks-sd-plus,
+  .ks-sd-minus {
+    width: 12px;
+    height: 0px;
+    background-color: #707070;
+    position: absolute;
+  }
+
+  .ks-sd-plus::before,
+  .ks-sd-plus::after,
+  .ks-sd-minus::before {
+    content: "";
+    width: 12px;
+    height: 2px;
+    background-color: #707070;
+    position: absolute;
+    top: 45%;
+    left: 0;
+  }
+
+  .ks-sd-plus::before {
+    transform: rotate(90deg);
+  }
+  .se-c-e2c {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .sms-cacorind-nd {
+    max-height: 0px;
+    overflow: hidden;
+    transition: max-height 0.6s ease-in-out;
+  }
+  .sld-toglle-acc {
+    max-height: 600px !important;
+    overflow: visible !important;
+    transition: max-height 0.6s ease-in-out;
+  }
+  .mb-ad-3 {
+    padding-bottom: 30px !important;
+  }
+
+
+
+  #new_columns-1363-106{
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    gap: 52px;
+    padding: 40px 0;
+  }
+  @media (max-width:768px){
+    #new_columns-1363-106{
+    flex-direction: column;
+    }
+    #text_block-1377-106{
+    text-align: start !important;
+  }
+  }
+  #new_columns-1363-106 div{
+    margin: unset !important;
+  }
+  #text_block-1377-106{
+    text-align: end;
+  }
+  #div_block-1194-106{
+    padding: 0px !important;
+  }
+
+</style>
+<style>
+  .yt-image {
+    width: 460px !important;
+    max-width: 100%;
+  }
+  #div_block-1642-106 {
+    width: 50% !important;
+  }
+  #div_block-1641-106 {
+    width: 50% !important;
+  }
+  .nw-dose-wews {
+    margin-bottom: 30px !important;
+  }
+  .ct-div-block {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .et_pb_text_7.et_pb_text {
+    color: #131a4a !important;
+  }
+  .nas-adslasd {
+    text-align: center;
+    padding: 20px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .nas-adslasd div {
+    text-align: start;
+    display: flex;
+    gap: 5px;
+    flex-direction: row;
+  }
+
+  @media (min-width: 741px) {
+    .nas-adslasd {
+      padding-left: 18px !important;
+    }
+
+    .nas-adslasd.green-list-wett {
+      align-items: flex-end !important;
+      padding-right: 18px !important;
+    }
+    .ct-section-inner-wrap.sms-esud-ebp{
+      padding-left:0px !important; 
+    }
+  }
+  @media (max-width: 740px) {
+    .nas-adslasd .green-list {
+      flex-direction: row-reverse !important;
+    }
+    .nas-adslasd.green-list-wett {
+      align-items: flex-start !important;
+    }
+  }
+
+  .new_columns-1363-106 {
+    display: flex;
+  }
+  .sse-et2-sd-binp{
+    border: none !important;
+    outline: none !important;
+  }
+  #headline-4-224{
+    font-weight: 700 !important;
+    font-size: 45px;
+  }
+  .he-mda0ned-esx{
+    font-family: 'Lato',Helvetica,Arial,Lucida,sans-serif;
+    font-size: 17px;
+    background-color: #cecece;
+    border-radius: 6px;
+    overflow: hidden;
+    padding: 7px 10px !important;
+    max-width: 400px;
+    margin-top:10px;
+  }
+  .ex0xtoopsmain-banner{
+    padding-top:100px !important;  
+    padding-bottom:70px !important; 
+  }
+  .ez-feac-ute-form-ban{
+    display: flex;
+    gap: 18px;
+    margin-top: 24px;
+  }
+  .ez-feac-ute-form-ban img{
+    max-width: 100%;
+  }
+  #headline-4-224{
+    margin-left: 0px !important; 
+  }
+</style>
+
+
+
     
 @endsection
 
@@ -118,59 +556,60 @@ max-width: 100%;
     <section id="section-2-224"
       class=" ct-section ct-section-with-shape-divider">
       
-        <div class="ct-section-inner-wrap sms-esud-ebp">
+        <div class="ct-section-inner-wrap sms-esud-ebp ex0xtoopsmain-banner">
             <h2 id="headline-4-224"
-              class="ct-headline atomic-primary-heading">Sell My House For
-                Cash!</h2>
+              class="ct-headline atomic-primary-heading">Get A Cash Offer From The Comfort Of Home</h2>
             <div id="div_block-1194-106" class="">
-                <p id="text_block-1626-106"
-                  class="ct-text-block atomic-content-26-text">
-                <div style="text-align: center;"><span
-                      style="font-size: 1.25rem;"><b>At <i style="">Sell My
-                                House Fast</i>, We Buy Houses For Cash
-                            Nationwide! No Repairs. No Commission. Fill Out
-                            The Form To Get Started On Your FREE CASH OFFER
-                            Today!</b></span></div>
-                </p>
-            </div>
+                <div class="he-mda0ned-esx">
+                  No Repairs | No Agents | No Waiting | No Worries
+                  </div>
+                </div>
+
+                  <div style="margin: 16px 0">
+                    <p style="font-size:20px;color: #fff">
+                      Just 
+                      <em>
+                        Leave The Key
+                        to us
+                      </em>
+                    </p>
+                  </div>
+            
             <div id="shortcode-678-106" class="ct-shortcode">
-                <div class="gf_browser_unknown gform_wrapper gravity-theme my-suc-reur" id="gform_wrapper_1"><div id="gf_1" class="gform_anchor" tabindex="-1"></div>
-                <div class="gform_heading">
-                <p class="gform_required_legend"></p>
-                 </div><div class="partial_entry_warning" style="margin-bottom: 10px;">.</div><form method="post" enctype="multipart/form-data" target="gform_ajax_frame_1" id="gform_1" action="/#gf_1" novalidate=""><input id="partial_entry_id_1" class="partial_entry_id" type="hidden" name="partial_entry_id" value="pending" data-form_id="1">
-                <div class="gform_body gform-body"><div id="gform_fields_1" class="gform_fields top_label form_sublabel_below description_below"><div id="field_1_6" class="gfield gfield--width-full gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_6"><label class="gfield_label" for="input_1_6">Property Address<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class="ginput_container ginput_container_text"><input name="input_6" id="input_1_6" type="text" value="" class="large pac-target-input" aria-required="true" aria-invalid="false" placeholder="Enter a location" autocomplete="password"> </div></div><fieldset id="field_1_4" class="gfield gfield--width-full field_sublabel_below field_description_below gfield_visibility_hidden" data-js-reload="field_1_4"><div class="admin-hidden-markup"><i class="gform-icon gform-icon--hidden"></i><span>Hidden</span></div><legend class="gfield_label gfield_label_before_complex">Address Autofill</legend>
-                <div class="ginput_complex ginput_container has_street has_street2 has_city has_state has_zip has_country ginput_container_address" id="input_1_4">
-                <span class="ginput_full address_line_1 ginput_address_line_1" id="input_1_4_1_container">
-                <input type="text" name="input_4.1" id="input_1_4_1" value="" aria-required="false">
-                <label for="input_1_4_1" id="input_1_4_1_label">Street Address</label>
-                </span><span class="ginput_full address_line_2 ginput_address_line_2" id="input_1_4_2_container">
-                <input type="text" name="input_4.2" id="input_1_4_2" value="" aria-required="false">
-                <label for="input_1_4_2" id="input_1_4_2_label">Address Line 2</label>
-                </span><span class="ginput_left address_city ginput_address_city" id="input_1_4_3_container">
-                <input type="text" name="input_4.3" id="input_1_4_3" value="" aria-required="false">
-                <label for="input_1_4_3" id="input_1_4_3_label">City</label>
-                </span><span class="ginput_right address_state ginput_address_state" id="input_1_4_4_container">
-                <input type="text" name="input_4.4" id="input_1_4_4" value="" aria-required="false">
-                <label for="input_1_4_4" id="input_1_4_4_label">State / Province / Region</label>
-                </span><span class="ginput_left address_zip ginput_address_zip" id="input_1_4_5_container">
-                <input type="text" name="input_4.5" id="input_1_4_5" value="" aria-required="false">
-                <label for="input_1_4_5" id="input_1_4_5_label">ZIP / Postal Code</label>
-                </span><span class="ginput_right address_country ginput_address_country" id="input_1_4_6_container">
-                <select name="input_4.6" id="input_1_4_6" aria-required="false"><option value="" selected="selected"></option><option value="United States">United States</option><option value="Canada">Canada</option></select>
-                <label for="input_1_4_6" id="input_1_4_6_label">Country</label>
-                </span>
-                <div class="gf_clear gf_clear_complex"></div>
-                </div><input type="hidden" name="gpaa_coords_4" class="gform_hidden" value=""></fieldset><div id="field_1_2" class="gfield gfield--width-half field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_2"><label class="gfield_label" for="input_1_2">Phone</label><div class="ginput_container ginput_container_phone"><div class="iti iti--allow-dropdown iti--separate-dial-code"><div class="iti__flag-container"><div class="iti__selected-flag" role="combobox" aria-controls="iti-0__country-listbox" aria-owns="iti-0__country-listbox" aria-expanded="false" tabindex="0" title="United States: +1" aria-activedescendant="iti-0__item-us-preferred"><div class="iti__flag iti__us"></div><div class="iti__selected-dial-code">+1</div><div class="iti__arrow"></div></div><ul class="iti__country-list iti__hide" id="iti-0__country-listbox" role="listbox" aria-label="List of countries"><li class="iti__country iti__preferred iti__active" tabindex="-1" id="iti-0__item-us-preferred" role="option" data-dial-code="1" data-country-code="us" aria-selected="true"><div class="iti__flag-box"><div class="iti__flag iti__us"></div></div><span class="iti__country-name">United States</span><span class="iti__dial-code">+1</span></li><li class="iti__divider" role="separator" aria-disabled="true"></li><li class="iti__country iti__standard" tabindex="-1" id="iti-0__item-ca" role="option" data-dial-code="1" data-country-code="ca" aria-selected="false"><div class="iti__flag-box"><div class="iti__flag iti__ca"></div></div><span class="iti__country-name">Canada</span><span class="iti__dial-code">+1</span></li><li class="iti__country iti__standard" tabindex="-1" id="iti-0__item-us" role="option" data-dial-code="1" data-country-code="us" aria-selected="false"><div class="iti__flag-box"><div class="iti__flag iti__us"></div></div><span class="iti__country-name">United States</span><span class="iti__dial-code">+1</span></li></ul></div><input name="" id="input_1_2_raw" type="tel" value="" class="large" placeholder="###-###-####" aria-invalid="false" autocomplete="off" data-intl-tel-input-id="0" style="padding-left: 73px;"><input type="hidden" name="input_2" id="input_1_2"></div></div></div><div id="field_1_3" class="gfield gfield--width-half gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_3"><label class="gfield_label" for="input_1_3">Email<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class="ginput_container ginput_container_email">
-                <input name="input_3" id="input_1_3" type="email" value="" class="large" aria-required="true" aria-invalid="false">
-                </div></div>
-                <div id="field_1_7" class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_7"><div class="ginput_container ginput_container_text">
-                </div></div><div id="field_1_8" class="gfield gfield--width-full gform_hidden field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_8"><div class="ginput_container ginput_container_text"><input name="input_8" id="input_1_8" type="hidden" class="gform_hidden" aria-invalid="false" value="FBAFB097-3B97-5E90-E9FD-DFAECD72774E"></div></div><div id="field_1_9" class="gfield gfield--width-full gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below gfield_visibility_hidden" data-js-reload="field_1_9"><input id="input_8" name="input_1_8" type="hidden" value=""></div><div id="field_1_10" class="gfield gform_validation_container field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_10"><label class="gfield_label" for="input_1_10">Comments</label><div class="ginput_container"><input name="input_10" id="input_1_10" type="text" value="" autocomplete="new-password"></div><div class="gfield_description" id="gfield_description_1_10">This field is for validation purposes and should be left unchanged.</div></div></div></div>
-                <div class="gform_footer top_label"> 
-                  <button class="xash-buton hjovers-neww">Get My Cash Offer!</button>               
-                </div>
+                <div class="" id="gform_wrapper_1">
+                 <form action="/" class="fore-maeomain" aria-label="Contact form" novalidate="novalidate" data-status="init">
+                  <p>
+                    <span class="" data-name="full_name"><input size="40" class="sse-et2-sd-binp name_field" aria-required="true" aria-invalid="false" placeholder="Name *" value="" type="text" name="full_name"></span>
+                  </p>
+                  <div class="fasd-flex-folex">
+                    <div class="">
+                      <p>
+                        <span class="" data-name="real_email"><input size="40" class="sse-et2-sd-binp email_field" aria-required="true" aria-invalid="false" placeholder="Email *" value="" type="email" name="real_email"></span>
+                      </p>
+                    </div>
+                    <div class="">
+                      <p>
+                        <span class="" data-name="phone"><input size="40" class="sse-et2-sd-binp phone_field" aria-required="true" aria-invalid="false" placeholder="Phone Number *" value="" type="text" name="phone"></span>
+                      </p>
+                    </div>
+                  </div>
+                  <div class="full_col">
+                      <button class="sse-et2-sd-binp btu-submit-3s" type="submit" style="text-indent:0px !important;" >
+                        Let's Work Together
+                      </button>
+                  </div>
                 </form>
+                <div class="ez-feac-ute-form-ban">
+                  <div class="">
+                  <span class=" ">
+                    <img decoding="async" width="162" height="81" src="https://leavethekey.com/wp-content/uploads/2020/06/5-star-google-reviews-leave-the-key-e1596144504723.png" alt="5 star google reviews leave the key home buyers" title="5 star google reviews leave the key" class="wp-image-3589 entered lazyloaded" data-lazy-src="https://leavethekey.com/wp-content/uploads/2020/06/5-star-google-reviews-leave-the-key-e1596144504723.png" data-ll-status="loaded"><noscript><img decoding="async" width="162" height="81" src="https://leavethekey.com/wp-content/uploads/2020/06/5-star-google-reviews-leave-the-key-e1596144504723.png" alt="5 star google reviews leave the key home buyers" title="5 star google reviews leave the key" class="wp-image-3589" /></noscript></span>
+                  </div>
+                  <div class="">
+                  <span class="">
+                    <img decoding="async" width="162" height="74" src="https://leavethekey.com/wp-content/uploads/2020/06/facebook-reviews-Leave-The-Key-e1596144521896.png" alt="Leave The Key Home Buyers facebook reviews" title="facebook-reviews Leave The Key" class="wp-image-3587 entered lazyloaded" data-lazy-src="https://leavethekey.com/wp-content/uploads/2020/06/facebook-reviews-Leave-The-Key-e1596144521896.png" data-ll-status="loaded"><noscript><img decoding="async" width="162" height="74" src="https://leavethekey.com/wp-content/uploads/2020/06/facebook-reviews-Leave-The-Key-e1596144521896.png" alt="Leave The Key Home Buyers facebook reviews" title="facebook-reviews Leave The Key" class="wp-image-3587" /></noscript></span>
+                  </div>
+                  </div>
                 </div>
-                <iframe style="display:none;width:0px;height:0px;" src="about:blank" name="gform_ajax_frame_1" id="gform_ajax_frame_1" title="This iframe contains the logic required to handle Ajax powered Gravity Forms."></iframe>
             
                 </div>
             <div id="-shape-divider-1647-106" class="oxy-shape-divider ">
