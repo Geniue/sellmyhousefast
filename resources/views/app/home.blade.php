@@ -103,9 +103,9 @@ max-width: 100%;
   #text_block-1397-106{
     text-wrap: nowrap;
   }
-  #div_block-1395-106{
+  /* #div_block-1395-106{
     align-items: flex-start !important;
-  }
+  } */
 }
 
 
@@ -424,23 +424,12 @@ max-width: 100%;
 
 
 
-  #new_columns-1363-106{
-    display: flex !important;
-    align-items: center;
-    justify-content: center;
-    gap: 52px;
-    padding: 40px 0;
-  }
+
   @media (max-width:768px){
-    #new_columns-1363-106{
-    flex-direction: column;
-    }
+ 
     #text_block-1377-106{
     text-align: start !important;
   }
-  }
-  #new_columns-1363-106 div{
-    margin: unset !important;
   }
   #text_block-1377-106{
     text-align: end;

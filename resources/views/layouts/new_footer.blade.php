@@ -32,15 +32,14 @@
               <p class="asfsd-rehe-40">Let’s Work Together</p>
             </li>
             <li>
-              <a href="{{route("leads")}}"> Are You an Agent? </a>
+              <a href="{{route("re_agents")}}"> Are You an Agent? </a>
             </li>
-            <li><a href="{{route("leads")}}"> Are you a Wholesaler / Bird Dog? </a></li>
+            <li><a href="{{route("re_wholesalers")}}"> Are you a Wholesaler / Bird Dog? </a></li>
           </ul>
         </div>
         <div class="sfld-glr-glrc jasdl-jus-between">
           <ul class="lisd-lis widks-wo-50">
             <li><p class="asfsd-rehe-40">Sell Your House</p></li>
-            <li><a href="{{route("re_wholesalers")}}">Real Estate Wholesalers</a></li>
             <li><a href="{{route('our_company')}}">Our Company</a></li>
             <li><a href="{{route("smhf_online_quote")}}">Request An Offer</a></li>
             <li><a href="{{route("hwb_houses")}}">How It Works</a></li>

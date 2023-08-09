@@ -6,9 +6,9 @@
     <style>
 
 
-h5{
-    font-size: 20px !important;
-}
+        h5{
+            font-size: 20px !important;
+        }
 
       div.et_pb_section.et_pb_section_0 {
         background-blend-mode: multiply;
@@ -476,6 +476,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
             <div class="full_col">
               <p>
                 <input
+                style="text-indent: 0px !important;"
                   class="sse-et2-sd-binp btu-submit-3s"
                   type="submit"
                   value="Let's Work Together"

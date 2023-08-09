@@ -47,6 +47,15 @@ Route::get('/real-estate-wholesalers', function () {
     return view('app.re_wholesalers');
 })->name("re_wholesalers");
 
+
+Route::get('/real-estate-agents', function () {
+    return view('app.re_agents');
+})->name("re_agents");
+
+
+
+
+
 Route::get('/faq', function () {
     return view('app.faq');
 })->name("faq");
