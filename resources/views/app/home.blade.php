@@ -23,6 +23,9 @@
   .et_pb_text_7.et_pb_text {
     color: #131a4a!important;
   }
+  .custom-blu-nbum{
+    color: #4887bf !important
+  }
   .nas-adslasd{
     text-align: center;
     padding:20px 0px;
@@ -616,25 +619,39 @@ max-width: 100%;
     <section id="section-1360-106" class=" ct-section" style="margin-top: 35px;">
       <div class="ct-section-inner-wrap">
           <div id="new_columns-1394-106" class="ct-new-columns">
-              <div id="div_block-1395-106" class="ct-div-block atomic-iconblock-4-column">
-                  <h4 id="text_block-1397-106" class="ct-text-block">
+              <div id="div_block-1395-106" class="ct-div-block atomic-iconblock-4-column" style="justify-content: start !important;padding-top: 0px !important;">
+                  <h4 id="text_block-1397-106" class="ct-text-block custom-blu-nbum">
                     Why Sell To  EZ Sell My House Fast?
                     <br></h4>
-                  <div id="text_block-1398-106" class="ct-text-block atomic-iconblock-4-text">
-                    <ol id="block-f560c857-bcdb-40c6-a484-c36d8471aadd" class="is-style-default">
-                      <li>You Pay <span style="text-decoration: underline"><strong>Zero
-                                  Fees</strong></span> or Closing Costs</li>
-                      <li><span style="text-decoration: underline"><strong>Close
-                                  quickly</strong></span> <strong><span class="has-inline-color has-c-link-color">7-28</span></strong>
-                          days or anytime.</li>
-                      <li>Guaranteed Offer, <span style="text-decoration: underline"><strong>no
-                                  waiting months</strong></span>.</li>
-                      <li><span style="text-decoration: underline"><strong>No
-                                  repairs</strong></span> are needed, sell
-                          fast “AS IS”</li>
-                      <li>No Showings or endless walkthroughs.</li>
-                      <li>No appraisals or approval delays.</li>
-                  </ol>
+                  <div id="text_block-1398-106" class="ct-text-block atomic-iconblock-4-text" style="margin-right: auto">
+                    <div class="nas-adslasd">
+                      <div class="red-list">
+                        <span>
+                        <img style="padding-left: 12px;" src="{{asset('assets/images/tick.png')}}" alt="">
+                        </span>
+                          Risk of buyer financing fall-through
+                        </div>
+
+                      <div class="red-list">
+                        <span>
+                        <img style="padding-left: 12px;" src="{{asset('assets/images/tick.png')}}" alt="">
+                        </span>
+                        Hours of prep work and home showings
+                      </div>
+
+                      <div class="red-list">
+                        <span>
+                        <img style="padding-left: 12px;" src="{{asset('assets/images/tick.png')}}" alt="">
+                        </span>
+                         Manage repairs yourself</div>
+
+                      <div class="red-list">
+                        <span>
+                        <img style="padding-left: 12px;" src="{{asset('assets/images/tick.png')}}" alt="">
+                        </span>
+                        Uncertain closing timeline</div>
+
+                    </div>
                   </div>
               </div>
               <div id="div_block-1399-106" class="ct-div-block atomic-iconblock-4-column">
@@ -656,7 +673,7 @@ max-width: 100%;
     <section id="section-353-106" class=" ct-section">
         <div class="ct-section-inner-wrap ">
             <h2 id="headline-354-106"
-              class="ct-headline atomic-secondary-heading">Sell My House
+              class="ct-headline atomic-secondary-heading custom-blu-nbum">Sell My House
                 Fast!</h2>
             <p id="text_block-1616-106"
               class="ct-text-block atomic-content-26-text">Need To Sell Your
