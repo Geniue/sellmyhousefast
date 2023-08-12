@@ -1,11 +1,13 @@
 <footer class="fooer-main-col">
     <div class="asd-fasoo-fooer as0e-de ">
       <div class="sfld-glr-glrc jasdl-jus-between asds-flow-column">
-        <div class="sfld-glr-glrc jasdl-jus-between jasdl-jus-between" style="align-items: center;">
+        <div class="sfld-glr-glrc jasdl-jus-between jasdl-jus-between">
           <ul class="lisd-lis widks-wo-50">
             <li>
               <strong>
-                EZ Sell My House Fast
+                <p class="asfsd-rehe-40" style="font-weight: 600">
+                  EZ Sell My House Fast
+                </p>
               </strong>
             </li>
             <li>Phone: (xxx) xxx-xxxx</li>

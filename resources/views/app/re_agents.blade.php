@@ -22,7 +22,7 @@ h5{
             rgba(51, 51, 51, 0.4) 0%,
             rgba(51, 51, 51, 0.4) 100%
           ),
-          url('{{asset('assets/images/Leave-The-Key-Homebuyers-Buys-Houses-For-Cash.jpg')}}') !important;
+          url('{{asset('assets/images/real-estate-autumn-home.jpg')}}') !important;
 
       }
       .et_pb_section_0.et_pb_section {
@@ -419,6 +419,7 @@ h5{
       }
       input[type=text], textarea, input[type=password], [type="search"], [type="date"], [type="email"]{
         padding: 0px !important;
+        padding-right: 9px !important;
         outline: none;
       }
       .atomic-iconblock-4-text{
