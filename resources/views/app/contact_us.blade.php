@@ -4421,6 +4421,9 @@
     margin-right: 0
         }
     }
+    .sfld-glr-glrc .lisd-lis li{
+        font-weight: 400;
+    }
     
 </style>
 @endsection
@@ -4447,62 +4450,47 @@
     <section id="section-2-233" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <div id="div_block-86-24" class="ct-div-block">
-                <h2 id="headline-78-24" class="ct-headline">Have some questions
-                    you want to ask us?</h2>
+                <h2 id="headline-78-24" class="ct-headline">Curious to learn more about us?</h2>
                 <div id="new_columns-110-24"style="justify-content:start!important;" class="ct-new-columns">
                     <div id="div_block-111-24" class="ct-div-block">
                         <div id="div_block-95-24" class="ct-div-block">
                             <p id="text_block-94-24"
                               class="ct-text-block atomic-content-4-text">
-                                Excellent! We love talking with people to see
-                                how we can <b>help you reach your goals</b>. We
-                                recognize many people are skeptical. There are
-                                scammers and dishonest companies, so we
-                                understand the importance of credibility.<br>
+                              Fantastic! We genuinely enjoy engaging in conversations to understand how our expertise can propel you towards your aspirations. We're well aware of the skepticism that exists due to the presence of unscrupulous entities, which emphasizes the significance of trustworthiness.
+                                <br>
                             </p>
                             <p id="text_block-134-24"
-                              class="ct-text-block atomic-content-4-text">If you
-                                have questions about:</p>
+                              class="ct-text-block atomic-content-4-text">Should inquiries arise about:</p>
                             <ul id="div_block-98-24" class="ct-div-block">
                                 <li id="text_block-101-24"
                                   class="ct-text-block atomic-content-4-text">
-                                    The history of <a href="/our-company/">our
-                                        company</a> and who we are.</li>
+                                  The origins and identity of our establishment.</li>
                                 <li id="text_block-103-24"
-                                  class="ct-text-block atomic-content-4-text"><a
-                                      href="/how-we-buy-houses/">How we buy
-                                        houses</a><a
-                                      href="/how-it-works/">&nbsp;</a>and make
-                                    you a fair all cash offer for your house.
+                                  class="ct-text-block atomic-content-4-text">
+                                  Our approach to property acquisition, encompassing equitable all-cash offers for your residence.
                                 </li>
                                 <li id="text_block-105-24"
                                   class="ct-text-block atomic-content-4-text">
-                                    Our process for helping homeowners avoid
-                                    foreclosure.</li>
+                                  Guidance we offer in circumventing foreclosure predicaments.
+                                    </li>
                                 <li id="text_block-106-24"
-                                  class="ct-text-block atomic-content-4-text">Or
-                                    anything else you want to ask us, even if
-                                    it’s just to make sure we’re real people!
+                                  class="ct-text-block atomic-content-4-text">Or any topic you wish to discuss, be it a mere assurance of our genuine nature!
+                                </li>
+                                <li id="text_block-106-24"
+                                  class="ct-text-block atomic-content-4-text">Feel free to inquire openly; we're here to provide comprehensive insights.
                                 </li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <p id="text_block-116-24"
-                  class="ct-text-block atomic-content-4-text"><b>Just give us a
-                        call</b> at the phone number below or shoot us an email
-                    through the form. We’ll get back to you within 24 hours. If
-                    you need us quicker, make sure to call or text us, as we’re
-                    able to answer phone calls more quickly than we’re able to
-                    return emails.<br></p>
+                  class="ct-text-block atomic-content-4-text"><b>
+                    To connect with us, don't hesitate to dial the provided phone number or send an email using the provided form. You can expect a response within 24 hours. If urgency is paramount, opting for a phone call or text is advised, as our promptness in addressing phone inquiries surpasses our ability to swiftly address emails.<br></p>
                 <p id="text_block-128-24"
-                  class="ct-text-block atomic-content-4-text">We look forward to
-                    chatting with you!</p>
+                  class="ct-text-block atomic-content-4-text">
+                  Anticipating a fruitful conversation ahead!</p>
                 <p id="text_block-129-24"
-                  class="ct-text-block atomic-content-4-text"><i>Don’t forget to
-                        check out our <a href="/faq/">frequently asked
-                            questions</a> to see if any of your questions have
-                        been answered.</i> 🙂</p>
+                  class="ct-text-block atomic-content-4-text">Also, remember to explore our compilation of frequently asked questions; you might find the answers you seek already there. 🙂</p>
             </div>
             <div id="div_block-1594-106" class="ct-div-block"></div>
         </div>
@@ -4511,10 +4499,9 @@
         <div class="ct-section-inner-wrap">
             <h2 id="headline-83-24" class="ct-headline">Contact Info</h2>
             <div id="text_block-124-24"
-              class="ct-text-block atomic-content-4-text"><b></b>Sell My House
-                Fast<br>4510 Tipton Ln<br>Alexandria, VA 22310<br><a
-                  href="tel:844-207-0788">(844) 207-0788</a><br><a
-                  href="mailto:team@sellmyhousefast.com">team@sellmyhousefast.com</a>
+              class="ct-text-block atomic-content-4-text"><b></b>EZ Sell My House Fast<br><a
+                  href="">(xxx) xxx-xxxx</a><br><a
+                  href="mailto:offer@ezsellmyhousefast.com">offer@ezsellmyhousefast.com</a>
             </div>
             <div id="shortcode-65-24" class="ct-shortcode">
                 <script type="text/javascript"></script>
@@ -4791,17 +4778,11 @@
                             </div>
                         </div>
                         <div class="gform_footer top_label"> 
-                            <button class="xash-buton">Get My Cash Offer!</button>               
+                            <button class="xash-buton">Receive my cash proposal!</button>               
                           </div>
                     </form>
                 </div>
-                <iframe style="display:none;width:0px;height:0px;"
-                  src="about:blank" name="gform_ajax_frame_1"
-                  id="gform_ajax_frame_1"
-                  title="This iframe contains the logic required to handle Ajax powered Gravity Forms."></iframe>
-                <script>
-                    gform.initializeOnLoaded( function() {gformInitSpinner( 1, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} );
-                </script>
+             
             </div>
         </div>
     </section>

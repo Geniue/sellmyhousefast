@@ -1,7 +1,7 @@
 @extends('layouts.index')
 
 
-    @section('css')
+@section('css')
 
 
     
@@ -665,8 +665,10 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
   <div class="aid-flex-ares m-srobot-mhu">
     <div class="">
       <div class="text-who-se-white h1-www3s-s">
-        <h1 class="h1-www3s-s tex-wrapnow-bg-no">Are You a Real Estate Agent?</h1>
-        <h4 class="he-ase2-30px">Want to 
+        <h1 class="h1-www3s-s tex-wrapnow-bg-no">
+          Are You a Licensed Realtor?</h1>
+        <h4 class="he-ase2-30px">
+          Seeking to 
             <span style="text-decoration: underline">
                 3x – 4x your commission
             </span>
@@ -676,9 +678,9 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
     <div class="">
       <div class="text-who-se-white">
         <p>
-            We’re looking to partner with high-quality agents and turn your leads that aren’t suitable for selling traditionally, into 
+          We're seeking partnerships with top-tier agents to transform leads unsuitable for traditional sales into 
             <strong>
-                serious commissions.
+              substantial commissions.
             </strong>
         </p>
       </div>
@@ -791,17 +793,17 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
     <div class="">
       <div class="">
         <div class="">
-          <p class="sunb-bms-head">Get Your Seller’s Home Sold
-        </p>
+            <p class="sunb-bms-head">Facilitate Your Seller's Home Sale
+            </p>
         </div>
-      </div>
-      <div class="">
+    </div>
+    <div class="">
         <div class="new-scor-colr">
-          <p>
-            If you come across rundown properties that would be perfect for an investor to flip, highly motivated sellers that need to sell quickly, or sellers that would benefit from an as-is cash offer for a variety of other reasons, we’d love to help you get your seller’s home sold. We buy homes in as-is condition and can close as quickly as we can get title.
-          </p>
+            <p>
+                If you encounter dilapidated properties suitable for investor flipping, sellers in urgent need of swift sales, or homeowners seeking as-is cash offers for various reasons, we're here to assist in getting your seller's home sold. We purchase homes in their existing condition and aim to close promptly upon title acquisition.
+            </p>
         </div>
-      </div>
+    </div>
     </div>
   </div>
 </div>
@@ -811,7 +813,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
 <section style="background-color: #ecf4ff" id="section-1360-106" class="ct-section" style="margin-top: 20px">
     <div class="ct-section-inner-wrap">
       <h2 class="sunb-bms-head" style="text-align: center">
-        Why Leave The Key is Better for Agents
+        The Edge of Leave The Key for Agents
       </h2>
       <div id="new_columns-1363-106">
         <div
@@ -820,7 +822,8 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
           style="align-items: flex-end !important"
         >
           <h4 id="text_block-1377-106" class="ct-text-block">
-            Selling to Leave The Key
+            
+Embracing the Leave The Key Approach
           </h4>
           <div
             id="text_block-1367-106"
@@ -838,7 +841,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
                 </span>
               </div>
               <div class="green-list">
-                Proof of funds showing cash to close
+                Demonstrate financial capability for a prompt conclusion.
                 <span>
                   <img
                     style="padding-left: 4px"
@@ -848,7 +851,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
                 </span>
               </div>
               <div class="green-list">
-                Quick closing as soon as we get title
+                Finalize the sale promptly upon title acquisition.
                 <span>
                   <img
                     style="padding-left: 4px"
@@ -858,7 +861,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
                 </span>
               </div>
               <div class="green-list">
-                Double-ended commission
+                Unlock the advantage of double-ended commission.
                 <span>
                   <img
                     style="padding-left: 4px"
@@ -868,7 +871,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
                 </span>
               </div>
               <div class="green-list">
-                3-4x your commission by re-listing the house after it’s flipped
+                Boost your commission potential 3-4 times by relisting post-flip.
                 <span>
                   <img
                     style="padding-left: 4px"
@@ -886,7 +889,8 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
             class="ct-text-block"
             style="text-align: start"
           >
-          Selling to a “Retail” Buyer
+    
+Selling to a Conventional Buyer
           </h4>
           <div
             id="text_block-1372-106"
@@ -900,7 +904,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
                     alt=""
                   />
                 </span>
-                Risk of buyer financing or inspections killing the deal
+                Potential jeopardy from buyer financing or inspections derailing the deal
               </div>
     
               <div class="red-list">
@@ -910,7 +914,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
                     alt=""
                   />
                 </span>
-                Hours of open houses and showings
+                Extensive commitment to open houses and showings
               </div>
     
               <div class="red-list">
@@ -920,7 +924,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
                     alt=""
                   />
                 </span>
-                Fielding and negotiating multiple offers
+                Managing and negotiating numerous offers
               </div>
     
               <div class="red-list">
@@ -930,7 +934,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
                     alt=""
                   />
                 </span>
-                Dealing with inexperienced and emotional buyers
+                Navigating through inexperienced and emotionally charged buyers
               </div>
     
               <div class="red-list">
@@ -940,7 +944,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
                     alt=""
                   />
                 </span>
-                Long closing timelines
+                Enduring prolonged closing timelines
               </div>
             </div>
           </div>
@@ -962,13 +966,13 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
     <div class="">
       <div class="">
         <div class="">
-          <p class="sunb-bms-head">When We’re a Good Fit for Real Estate Agents</p>
+          <p class="sunb-bms-head">Matching Well with Real Estate Agents</p>
         </div>
       </div>
       <div class="">
         <div class="new-scor-colr">
           <p>
-            As an agent, we’re sure you come across properties with all types of issues – whether it’s the sellers, buyers, lenders, attorneys, or the property itself. We are professional home buyers that will buy the home, regardless of the issue. Here are some of the common scenarios in which can help real estate agents sell a property.
+            In your role as an agent, you undoubtedly encounter a wide array of property-related challenges, spanning sellers, buyers, lenders, attorneys, and the properties themselves. We are seasoned property purchasers, willing to acquire homes regardless of the complications. Below are typical situations where our expertise can assist real estate agents in facilitating property sales.
           </p>
         </div>
       </div>
@@ -980,11 +984,14 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
         <div class="">
           <div class="">
             <h3 class="new-scor-colr">
-              <span>Fast Sale</span>
+              <span>Speedy Transaction</span>
             </h3>
             <div class="new-scor-colr">
               <p>
-                Sometimes buyers expect miracles in order to sell their home quickly. We in the business know that closing a retail transaction takes time. Let our cash offer be your fast path to closing.
+                
+
+
+Occasionally, buyers anticipate swift sales that may seem miraculous. As industry professionals, we recognize that conventional transactions involve a time commitment. Allow our cash offer to serve as your expedited route to a swift closing.
               </p>
             </div>
           </div>
@@ -996,11 +1003,14 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
         <div class="">
           <div class="">
             <h3 class="new-scor-colr">
-              <span>Inspection Issues</span>
+              <span>                
+                Addressing Inspection Challenges</span>
             </h3>
             <div class="new-scor-colr">
               <p>
-                When the buyer’s inspection comes back with issues that the seller doesn’t want to fix, an as-is cash offer may be a good option.
+
+
+In instances where the buyer's inspection unveils issues the seller is unwilling to address, an as-is cash offer can emerge as a viable solution.
               </p>
             </div>
           </div>
@@ -1014,11 +1024,13 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
         <div class="">
           <div class="">
             <h3 class="new-scor-colr">
-              <span>Unpermitted Improvements</span>
+              <span>                Unlicensed Enhancements</span>
             </h3>
             <div class="new-scor-colr">
               <p>
-                The home has no certificate of occupancy or has unpermitted improvements that will prevent a retail buyer from purchasing the property, leaving the seller with limited options.
+
+
+In situations where the property lacks a certificate of occupancy or features unpermitted enhancements, deterring a conventional buyer from acquisition, the seller's alternatives become restricted.
               </p>
             </div>
           </div>
@@ -1030,11 +1042,13 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
         <div class="">
           <div class="">
             <h3 class="new-scor-colr">
-              <span>Unmortgageable Properties</span>
+              <span>  Properties Unfit for Mortgage Approval</span>
             </h3>
             <div class="new-scor-colr">
               <p>
-                A property which will not qualify for any bank financing due to the condition or other issues with the property. Whether you have a hoarder house or one stripped to the studs, we’ll buy it.
+              
+
+A property ineligible for bank financing due to its condition or other property-related concerns. Whether it's a hoarder house or one stripped to the studs, we're prepared to make the purchase.
               </p>
             </div>
           </div>
@@ -1049,12 +1063,15 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
           <div class="">
             <h3 class="new-scor-colr">
               <span>
-                Buyer Falls Through
+                              
+Buyer Backs Out
               </span>
             </h3>
             <div class="new-scor-colr">
               <p>
-                The seller needs to move, maybe they already purchased or are under contract to buy another home, and all of a sudden the buyer falls through or backs out. We can close quickly and keep the closing on schedule.
+
+
+When circumstances dictate a seller's urgency to relocate, perhaps due to an existing purchase or contractual commitment, and a buyer unexpectedly withdraws or reneges, we can swiftly finalize the transaction, ensuring the closing adheres to the original schedule.
               </p>
             </div>
           </div>
@@ -1085,7 +1102,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
             >
               <div class="ms-eh-ein">
                 <h2 class="sunb-bms-head" style="text-align: center;padding:40px 0px;">
-                    How We Work with Agents
+                   Collaborating with Real Estate Professionals
                   </h2>
               </div>
             </div>
@@ -1115,11 +1132,14 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
               </div>
               <div class="et_pb_team_member_description">
                   <p class="et_pb_member_position">STEP 1</p>
-                <h5 class="ad-upe-ckas">Send Us a Property &
-                    Get a Ballpark Offer</h5>
+                <h5 class="ad-upe-ckas">
+                  SUBMIT A PROPERTY FOR A ROUGH ESTIMATE
+                </h5>
                 <div>
                   <p>
-                    Tell us a bit about a property you are looking to sell and we’ll run our own after repair value (ARV) comps and see what it’d be worth after rehabbing. We don’t want to waste anyone’s time so we’ll give you a ballpark offer sight unseen and provide proof of funds to show we can really close.
+                 
+
+Provide us with some details about the property you're considering selling. Our team will conduct our own assessment based on after repair value (ARV) comparisons, projecting its value after renovation. Rest assured, we're committed to efficiency, and we'll provide a preliminary offer without the need for an on-site visit. Additionally, we'll furnish proof of funds to establish our ability to execute a genuine closing.
                   </p>
                 </div>
               </div>
@@ -1148,10 +1168,14 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
               </div>
               <div class="et_pb_team_member_description">
                   <p class="et_pb_member_position">STEP 2</p>
-                <h5 class="ad-upe-ckas">Property Visit</h5>
+                <h5 class="ad-upe-ckas">ON-SITE PROPERTY EVALUATION</h5>
                 <div>
                   <p>
-                    We’ll tour the house to assess it’s condition and make a formal offer. Don’t worry about cleaning up or getting the owners to leave for a showing, we’ll be in and out quickly and our offer won’t be based on whether or not the house is spotless.                  </p>
+                    
+
+
+Our team will conduct an in-person inspection of the property to evaluate its current condition. You needn't concern yourself with tidying up or arranging for the owners to vacate during the visit – our assessment will be swift and thorough. It's important to note that our offer won't be influenced by the property's cleanliness; we're focused on its inherent value and potential.
+                  </p>
                 </div>
               </div>
             </div>
@@ -1179,10 +1203,12 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
               </div>
               <div class="et_pb_team_member_description">
                   <p class="et_pb_member_position">STEP 3</p>
-                <h5 class="ad-upe-ckas">We’ll Close on the Home</h5>
+                <h5 class="ad-upe-ckas"> FINALIZING THE TRANSACTION</h5>
                 <div>
                   <p>
-                    We’ll buy the home as-is and you’ll receive a double-ended commission. We have purchased and sold hundreds of homes and have a dedicated transaction coordinator to make the closing as simple as possible.                  </p>
+                   
+                    We'll proceed to purchase the property in its current condition. As part of this process, you'll benefit from a double-ended commission. With extensive experience in both property acquisitions and sales, our team has successfully managed hundreds of transactions. To ensure a seamless closing, we've assigned a dedicated transaction coordinator who will streamline the entire process.
+                  </p>
                 </div>
               </div>
             </div>
@@ -1212,10 +1238,14 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
               </div>
               <div class="et_pb_team_member_description">
                   <p class="et_pb_member_position">STEP 4</p>
-                <h5 class="ad-upe-ckas">We’ll Rehab the Home</h5>
+                <h5 class="ad-upe-ckas">          PROPERTY RENOVATION</h5>
                 <div>
                   <p>
-                    Our team of contractors will hop into action and completely renovate the property, bringing it up to code and top-selling design asthetics.                </div>
+          
+
+                    Our team of skilled contractors will spring into action, embarking on a comprehensive renovation journey. This endeavor entails a complete overhaul of the property, ensuring compliance with regulations and infusing it with appealing design aesthetics that resonate with prospective buyers. Our commitment is to elevate the property to its finest potential while adhering to code requirements.
+                  </p>
+                  </div>
               </div>
             </div>
           </div>
@@ -1241,10 +1271,12 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
             </div>
             <div class="et_pb_team_member_description" style="padding-bottom:60px; ">
                 <p class="et_pb_member_position">STEP 5</p>
-              <h5 class="ad-upe-ckas">You’ll Sell the Property Again</h5>
+              <h5 class="ad-upe-ckas">RETURNING THE OPPORTUNITY TO YOU</h5>
               <div>
                 <p>
-                    You brought us the house, so it’s only fair that we give it back to you. Once our rehab is complete, you’ll be the listing agent when this beautiful, fully renovated, home hits the market.              </div>
+                  Given your instrumental role in initiating the process, we believe in honoring that partnership. Following the meticulous renovation, we entrust you with the privilege of serving as the listing agent. When this magnificently rejuvenated home is prepared to grace the market, you will orchestrate its presentation to potential buyers, ensuring its full potential is realized.
+                   
+                </p></div>
             </div>
           </div>
         </div>
@@ -1266,208 +1298,196 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
         </div>
         </div>
 
-
-
-<div class="et_pb_section et_pb_section_6 et_section_regular new-container amfemc-se">
-    <div class="mb-ad-3">
-      <div class="">
-        <div class="">
-          <div class="et_pb_text_inner">
-            <p class="sunb-bms-head" style="text-align: center">
-              Common Questions we get from Wholesalers
-            </p>
+        <div class="et_pb_section et_pb_section_6 et_section_regular new-container amfemc-se">
+          <div class="mb-ad-3">
+              <div class="">
+                  <div class="">
+                      <div class="et_pb_text_inner">
+                          <p class="sunb-bms-head" style="text-align: center;">
+                              Frequently Asked Queries from Wholesalers
+                          </p>
+                      </div>
+                  </div>
+              </div>
           </div>
-        </div>
-      </div>
-    </div>
-    <div class="">
-      <div class="">
-        <div
-          class="et_pb_module et_pb_toggle et_pb_toggle_0 et_pb_toggle_item et_pb_toggle_close"
-        >
-          <div class="se-c-e2c">
-            <h5 class="et_pb_toggle_title">How do I get paid?</h5>
-            <div id="acor-1" class="tog-cles-sc">
-              <div class="ks-sd-plus clls-bnt"></div>
-            </div>
-          </div>
-          <div id="acor-1" class="sms-cacorind-nd acc-conate">
-            <p>
-                The agent will represent us as the buyer and will therefore receive a double-ended commission on the initial sale of the property to Leave The Key Homebuyers.
-            </p>
-            <p>
-                Then when it comes time to sell the renovated home, we’ll list the house with you so that you’ll have the opportunity to earn 3 or 4 commissions from a single property.
-            </p>
-          </div>
-        </div>
-        <div
-          class="et_pb_module et_pb_toggle et_pb_toggle_1 et_pb_toggle_item et_pb_toggle_close"
-        >
-          <div class="se-c-e2c">
-            <h5 class="et_pb_toggle_title">
-                How is selling to you in my seller's best interest?
-            </h5>
-            <div id="acor-2" class="tog-cles-sc">
-              <div class="ks-sd-plus clls-bnt"></div>
-            </div>
-          </div>
-          <div id="acor-2" class="sms-cacorind-nd acc-conate">
-            <p>
-                Every day we come across sellers that are not well suited for a traditional sale with a real estate agent – in fact, that’s our entire business. We even refer out to other agents the ones where listing traditionally is the best option. But we know that you come across these atypical sellers as well.
-            </p>
-            <p>
-                This is not a solution for everyone, but it serves a very specific need.
-            </p>
-            <p>
-                Whether the seller needs to close quickly to buy another home, they have a property that has issues or they simply want a simple sale, selling to a cash buyer like ourselves can help your client achieve their desired goals.
-            </p>
-          </div>
-        </div>
-        <div
-          class="et_pb_module et_pb_toggle et_pb_toggle_2 et_pb_toggle_item et_pb_toggle_close"
-        >
-          <div class="se-c-e2c">
-            <h5 class="et_pb_toggle_title">
-          Why should my client sell their home to an investor?
-            </h5>
-            <div id="acor-3" class="tog-cles-sc">
-              <div class="ks-sd-plus clls-bnt"></div>
-            </div>
-          </div>
-          <div id="acor-3" class="sms-cacorind-nd acc-conate">
-            <p>
-                Our goals as the agent and investor are aligned. We’re both here to make the sale of the home as easy as possible for the seller. When selling to us, the seller benefits from:
-            </p>
-            <p>
-                <div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_center et_pb_bg_layout_light">
-                    <div class="et_pb_text_inner"><ul class="tick">
-                    <li>Our Competitive cash offer in 24 hours</li>
-                    <li>No cleaning, open houses, or showings</li>
-                    <li>No need to perform any repairs or sort out any inspection issues</li>
-                    <li><strong>Double-ended commission</strong></li>
-                    <li>The seller is able to sell on their schedule and easily coordinate moving or the purchase of another home</li>
-                    </ul></div>
-                    </div>
-            </p>
-          </div>
-        </div>
-        <div
-          class="et_pb_module et_pb_toggle et_pb_toggle_3 et_pb_toggle_item et_pb_toggle_close"
-        >
-          <div class="se-c-e2c">
-            <h5 class="et_pb_toggle_title">
-                Why work with Leave The Key Homebuyers?
-            </h5>
-            <div id="acor-4" class="tog-cles-sc">
-              <div class="ks-sd-plus clls-bnt"></div>
-            </div>
-          </div>
-          <div id="acor-4" class="sms-cacorind-nd acc-conate">
-            <p>
-              <span
-                >We pride ourselves on being ethical, honest, and genuine.
-              </span>
-            </p>
-            <p>
-              <span
-                >We are experienced investors that have purchased, flipped, rented, and sold hundreds of homes all over Long Island, Queens, and Brooklyn.
-              </span>
-            </p>
-            <p>
-              <span
-                >We are well-funded so that closing is never an issue.</span
-              >
-            </p>
-            <p>
-              Take a look at our
-              <a href="http://localhost:8000/we-buy-houses-reviews"
-                >positive reviews</a
-              >
-              to see what some of our sellers and partners have to say about
-              working with us.
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-
-
-<div>
-<div class="ms-hehlae-e">
-  <div class="">
-    <div class="">
-      <div class="">
-        <div class="">
-          <p class="sunb-bms-head">
-            What We’re Looking to Buy / Our Buying Criteria
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="d-flex-es-ese">
-    <div class="">
-      <div class="">
-        <div class="">
           <div class="">
-            <h4 class="new-scor-colr">
-              <span>Our Strategies</span>
-            </h4>
-            <div class="new-scor-colr">
-              <ul class="ul-sl-ex-e">
-                <li>Fix &amp; Flip</li>
-                <li>Short Sales</li>
-                <li>REOs</li>
-                <li>Buy &amp; Hold Single-Family</li>
-                <li>Land</li>
-                <li>New Construction Opportunities</li>
-              </ul>
-            </div>
+              <div class="">
+                  <div class="et_pb_module et_pb_toggle et_pb_toggle_0 et_pb_toggle_item et_pb_toggle_close">
+                      <div class="se-c-e2c">
+                          <h5 class="et_pb_toggle_title">What's the payment process?</h5>
+                          <div id="acor-1" class="tog-cles-sc">
+                              <div class="ks-sd-plus clls-bnt"></div>
+                          </div>
+                      </div>
+                      <div id="acor-1" class="sms-cacorind-nd acc-conate">
+                          <p>
+                              The agent will act as the representative for us, the buyer, and consequently, will be entitled to a double-ended commission upon the property's initial sale to Leave The Key Homebuyers.
+                          </p>
+                          <p>
+                              Subsequently, when the renovated property is ready for sale, we'll collaborate with you to list the house. This provides you with the chance to potentially earn three or four commissions from a single property.
+                          </p>
+                      </div>
+                  </div>
+                  <div class="et_pb_module et_pb_toggle et_pb_toggle_1 et_pb_toggle_item et_pb_toggle_close">
+                      <div class="se-c-e2c">
+                          <h5 class="et_pb_toggle_title">
+                              Why is selling to us the best choice for my seller?
+                          </h5>
+                          <div id="acor-2" class="tog-cles-sc">
+                              <div class="ks-sd-plus clls-bnt"></div>
+                          </div>
+                      </div>
+                      <div id="acor-2" class="sms-cacorind-nd acc-conate">
+                          <p>
+                              Each day, we encounter sellers whose circumstances aren't ideally suited for a conventional real estate agent sale – in fact, catering to such scenarios defines our core business. We even refer those instances where
+                              a traditional listing would be more appropriate to other agents. We understand that you also encounter these atypical sellers.
+                          </p>
+                          <p>
+                              While not a universal solution, it effectively fulfills a distinct need.
+                          </p>
+                          <p>
+                              Whether your client seeks a swift closure for a new property purchase, owns a problematic property, or simply desires a straightforward transaction, opting for a cash buyer like us can enable your client to attain
+                              their envisioned outcomes.
+                          </p>
+                      </div>
+                  </div>
+                  <div class="et_pb_module et_pb_toggle et_pb_toggle_2 et_pb_toggle_item et_pb_toggle_close">
+                      <div class="se-c-e2c">
+                          <h5 class="et_pb_toggle_title">
+                              What are the advantages of having my client sell their home to an investor?
+                          </h5>
+                          <div id="acor-3" class="tog-cles-sc">
+                              <div class="ks-sd-plus clls-bnt"></div>
+                          </div>
+                      </div>
+                      <div id="acor-3" class="sms-cacorind-nd acc-conate">
+                          <p>
+                              Our objectives as both the agent and investor are harmonious – simplifying the home-selling process for the seller. When choosing us, the seller enjoys the following benefits:
+                          </p>
+                          <p></p>
+                          <div class="et_pb_module et_pb_text et_pb_text_7 et_pb_text_align_center et_pb_bg_layout_light">
+                              <div class="et_pb_text_inner">
+                                  <ul class="tick">
+                                      <li>Prompt competitive cash offer within 24 hours</li>
+                                      <li>Bypassing the need for cleaning, open houses, or showings</li>
+                                      <li>Eliminating the necessity for repairs or addressing inspection concerns</li>
+                                      <li>Securing a double-ended commission</li>
+                                      <li>Granting the seller the flexibility to vend on their own timetable, effortlessly coordinating relocation or the acquisition of a new home</li>
+                                  </ul>
+                              </div>
+                          </div>
+                          <p></p>
+                      </div>
+                  </div>
+                  <div class="et_pb_module et_pb_toggle et_pb_toggle_3 et_pb_toggle_item et_pb_toggle_close">
+                      <div class="se-c-e2c">
+                          <h5 class="et_pb_toggle_title">
+                              What sets Leave The Key Homebuyers apart?
+                          </h5>
+                          <div id="acor-4" class="tog-cles-sc">
+                              <div class="ks-sd-plus clls-bnt"></div>
+                          </div>
+                      </div>
+                      <div id="acor-4" class="sms-cacorind-nd acc-conate">
+                          <p>
+                              <span>Ethical, honest, and genuine approach </span>
+                          </p>
+                          <p>
+                              <span>
+                                  Seasoned investors with a track record of buying, flipping, renting, and selling numerous homes across Long Island, Queens, and Brooklyn
+                              </span>
+                          </p>
+                          <p>
+                              <span>
+                                  Strong financial backing ensures smooth and guaranteed closings
+                              </span>
+                          </p>
+                          <p>
+                              Explore our positive reviews for insights from satisfied sellers and partners about their experiences working with us.
+                          </p>
+                      </div>
+                  </div>
+              </div>
           </div>
-        </div>
       </div>
-    </div>
-    <div class="">
-      <div class="">
-        <div class="">
-          <div class="">
-            <h4 class="new-scor-colr">
-              <span>Let's JV</span>
-            </h4>
-            <div class="new-scor-colr">
-              <ul class="ul-sl-ex-e">
-          
-                <li>$50k – $1.25m purchase price</li>
-                <li>Looking for a 23% margin based on ARV</li>
-              </ul>
+      
+
+
+
+    <div>
+      <div class="ms-hehlae-e">
+         <div class="">
+            <div class="">
+               <div class="">
+                  <div class="">
+                     <p class="sunb-bms-head">
+                        Properties We're Interested In / Our Acquisition Criteria
+                     </p>
+                  </div>
+               </div>
             </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="">
-      <div class="">
-        <div class="">
-          <div class="">
-            <h4 class="new-scor-colr">
-              <span>Territory</span>
-            </h4>
-            <div class="new-scor-colr">
-              <ul class="ul-sl-ex-e">
-                <li>Nassau County</li>
-                <li>Suffolk County</li>
-                <li>Queens</li>
-                <li>Brooklyn</li>
-              </ul>
+         </div>
+         <div class="d-flex-es-ese">
+            <div class="">
+               <div class="">
+                  <div class="">
+                     <div class="">
+                        <h4 class="new-scor-colr">
+                           <span>Our Approaches</span>
+                        </h4>
+                        <div class="new-scor-colr">
+                           <ul class="ul-sl-ex-e">
+                              <li>Fix &amp; Flip</li>
+                              <li>Short Sales</li>
+                              <li>REOs(Real Estate Owned)</li>
+                              <li>Buy &amp; Hold Single-Family</li>
+                              <li>Land Investments</li>
+                              <li>New Construction Opportunities</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
-          </div>
-        </div>
+            <div class="">
+               <div class="">
+                  <div class="">
+                     <div class="">
+                        <h4 class="new-scor-colr">
+                           <span>Join Forces for Joint Venture</span>
+                        </h4>
+                        <div class="new-scor-colr">
+                           <ul class="ul-sl-ex-e">
+                              <li>$50k – $1.25m purchase price</li>
+                              <li>Looking for a 23% margin based on ARV</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="">
+               <div class="">
+                  <div class="">
+                     <div class="">
+                        <h4 class="new-scor-colr">
+                           <span>Territory</span>
+                        </h4>
+                        <div class="new-scor-colr">
+                           <ul class="ul-sl-ex-e">
+                              <li>Nassau County</li>
+                              <li>Suffolk County</li>
+                              <li>Queens</li>
+                              <li>Brooklyn</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
       </div>
-    </div>
-  </div>
-</div>
-</div>
+   </div>
 
 
 

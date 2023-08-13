@@ -3,8 +3,10 @@
 
     @section('css')
 
-    <style>
-
+<style>
+ h4{
+  font-size: 26px !important;
+ }
 
         h5{
             font-size: 20px !important;
@@ -404,15 +406,13 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
   <div class="aid-flex-ares">
     <div class="">
       <div class="text-who-se-white h1-www3s-s">
-        <h1 class="h1-www3s-s">Are You a Wholesaler &amp; Great at Finding Deals?</h1>
+        <h1 class="h1-www3s-s">Wholesalers & Deal Finders Wanted!</h1>
       </div>
     </div>
     <div class="">
       <div class="text-who-se-white">
         <p>
-          We’re looking to partner with wholesalers and bird dogs that are
-          great at finding deals. We can buy them, help you sell them, or
-          give you the experience to work them yourself.
+          Join our partnership if you're adept at finding deals. We're here to buy, assist in selling, or provide experience for your success.
         </p>
       </div>
     </div>
@@ -504,18 +504,13 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
     <div class="">
       <div class="">
         <div class="">
-          <p class="sunb-bms-head">Ways We Can Work Together</p>
+          <p class="sunb-bms-head">Collaborative Possibilities</p>
         </div>
       </div>
       <div class="">
         <div class="new-scor-colr">
           <p>
-            As a wholesaler or bird dog, you come across properties with
-            all types of issues. We are professional home buyers with
-            hundreds of deals under our belt and can help you navigate the
-            most complex situations. We believe in building relationships
-            and here are some of the common scenarios in which Leave The
-            Key Homebuyers can collaborate with wholesalers.
+            As a skilled wholesaler or diligent bird dog, you encounter properties with a myriad of challenges. With our extensive experience in real estate, encompassing numerous successful deals, we can assist you in tackling even the most intricate scenarios. Our focus on fostering relationships is evident in how Leave The Key Homebuyers can seamlessly collaborate with wholesalers in a variety of common scenarios.
           </p>
         </div>
       </div>
@@ -527,14 +522,11 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
         <div class="">
           <div class="">
             <h3 class="new-scor-colr">
-              <span>We'll Be the Buyer</span>
+              <span>Count on Us as the Buyer</span>
             </h3>
             <div class="new-scor-colr">
               <p>
-                We’re looking to buy more properties than ever before and
-                we’ll gladly buy your deals as long as the numbers work.
-                We use our own cash and are ready to close as soon as we
-                have title.
+                Our appetite for property acquisitions is greater than ever, and we're eager to consider your deals if they align with our criteria. With our own funds at the ready, we're prepared to swiftly finalize transactions upon securing title. Rest assured, if the numbers make sense, we're here to be the buyer you can rely on.
               </p>
             </div>
           </div>
@@ -546,16 +538,14 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
         <div class="">
           <div class="">
             <h3 class="new-scor-colr">
-              <span>Let's JV</span>
+              <span>                Let's Partner Up</span>
             </h3>
             <div class="new-scor-colr">
               <p>
-                You are great at finding deals, but what about selling
-                them? As one of the top home buyers in the area, we have a
-                network of investors, agents, and other cash buyers that
-                we can leverage to help you assign the contracts you lock
-                up. We can provide the proof of funds, deposit, attorney,
-                and handle dispositions for you.
+                
+
+
+Your knack for deal hunting is impressive, but what about the selling aspect? As a prominent home buyer in the region, we boast an extensive network of investors, agents, and fellow cash buyers. We're poised to assist you in assigning the contracts you secure. Count on us for proof of funds, deposits, legal support, and seamless dispositions – a collaborative solution that streamlines the process.
               </p>
             </div>
           </div>
@@ -569,14 +559,13 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
         <div class="">
           <div class="">
             <h3 class="new-scor-colr">
-              <span>Training From an Experienced Investor</span>
+              <span>Learn from Seasoned Experts</span>
             </h3>
             <div class="new-scor-colr">
               <p>
-                If you are still new and want someone experienced by your
-                side, we’ll happily help underwrite your deal, go on the
-                seller appointment/call with you, help you structure an
-                offer, and estimate repairs.
+               
+
+For those still finding their footing, we're here to provide guidance. We'll assist in underwriting your deal, accompany you on seller appointments/calls, aid in offer structuring, and offer repair estimates. Count on our experience to bolster your journey.
               </p>
             </div>
           </div>
@@ -590,7 +579,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
 <section id="section-1360-106" class="ct-section" style="margin-top: 20px">
 <div class="ct-section-inner-wrap">
   <h2 class="sunb-bms-head" style="text-align: center">
-    Why Leave The Key is Better
+    Why Choose Leave The Key?
   </h2>
   <div id="new_columns-1363-106">
     <div
@@ -607,7 +596,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
       >
         <div class="nas-adslasd green-list-wett">
           <div class="green-list">
-            Competitive cash offer in 24 hours
+            Swift competitive cash offer within 24 hours
             <span>
               <img
                 style="padding-left: 4px"
@@ -617,7 +606,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
             </span>
           </div>
           <div class="green-list">
-            No listing, prep work, or showings
+            Avoid listing, preparations, and showings
             <span>
               <img
                 style="padding-left: 4px"
@@ -627,7 +616,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
             </span>
           </div>
           <div class="green-list">
-            Skip the repair work & deduct costs
+            Bypass repair work and subtract associated costs
             <span>
               <img
                 style="padding-left: 4px"
@@ -637,7 +626,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
             </span>
           </div>
           <div class="green-list">
-            Sell on your schedule
+            Flexible selling timeline tailored to your needs
             <span>
               <img
                 style="padding-left: 4px"
@@ -655,7 +644,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
         class="ct-text-block"
         style="text-align: start"
       >
-        Traditional Home Sale
+      Traditional Home Sale
       </h4>
       <div
         id="text_block-1372-106"
@@ -669,7 +658,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
                 alt=""
               />
             </span>
-            Risk of buyer financing fall-through
+            Vulnerability to buyer financing falling through
           </div>
 
           <div class="red-list">
@@ -679,7 +668,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
                 alt=""
               />
             </span>
-            Hours of prep work and home showings
+            Extensive preparations and home showings required
           </div>
 
           <div class="red-list">
@@ -689,7 +678,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
                 alt=""
               />
             </span>
-            Manage repairs yourself
+            Responsible for managing repairs
           </div>
 
           <div class="red-list">
@@ -699,7 +688,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
                 alt=""
               />
             </span>
-            Uncertain closing timeline
+            Uncertain and potentially lengthy closing timeline
           </div>
         </div>
       </div>
@@ -715,7 +704,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
       <div class="">
         <div class="">
           <p class="sunb-bms-head">
-            What We’re Looking to Buy / Our Buying Criteria
+            Desired Acquisitions: Our Purchasing Standards
           </p>
         </div>
       </div>
@@ -726,17 +715,18 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
       <div class="">
         <div class="">
           <div class="">
-            <h3 class="new-scor-colr">
-              <span>The Numbers</span>
-            </h3>
+            <h4 class="new-scor-colr">
+              <span>Numeric Insights</span>
+            </h4>
             <div class="new-scor-colr">
               <ul class="ul-sl-ex-e">
-                <li>Fix &amp; Flip</li>
-                <li>Short Sales</li>
-                <li>REOs</li>
-                <li>Buy &amp; Hold Single-Family</li>
-                <li>Land</li>
-                <li>New Construction Opportunities</li>
+     
+  <li>Repair & Resell</li>
+  <li>Swift Sale Scenarios</li>
+  <li>Bank-Owned Properties</li>
+  <li>Acquire & Retain Detached Homes</li>
+  <li>Plots of Earth</li>
+  <li>Novel Building Prospects</li>
               </ul>
             </div>
           </div>
@@ -747,17 +737,17 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
       <div class="">
         <div class="">
           <div class="">
-            <h3 class="new-scor-colr">
-              <span>Let's JV</span>
-            </h3>
+            <h4 class="new-scor-colr">
+              <span>Collaborate in Partnership</span>
+            </h4>
             <div class="new-scor-colr">
               <ul class="ul-sl-ex-e">
-                <li>Fix &amp; Flip</li>
-                <li>Short Sales</li>
-                <li>REOs</li>
-                <li>Buy &amp; Hold Single-Family</li>
-                <li>Land</li>
-                <li>New Construction Opportunities</li>
+                <li>Renovate and Resell Ventures</li>
+  <li>Quick Sales with a Brief Timeline</li>
+  <li>Bank-Owned Property Possibilities</li>
+  <li>Acquire and Retain Detached Residences</li>
+  <li>Territory to Cultivate</li>
+  <li>Innovative Prospects for Fresh Constructions</li>
               </ul>
             </div>
           </div>
@@ -768,9 +758,9 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
       <div class="">
         <div class="">
           <div class="">
-            <h3 class="new-scor-colr">
+            <h4 class="new-scor-colr">
               <span>Territory</span>
-            </h3>
+            </h4>
             <div class="new-scor-colr">
               <ul class="ul-sl-ex-e">
                 <li>Nassau County</li>
@@ -793,7 +783,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
     <div class="">
       <div class="et_pb_text_inner">
         <p class="sunb-bms-head" style="text-align: center">
-          Common Questions we get from Wholesalers
+          Frequently Asked Queries from Wholesalers
         </p>
       </div>
     </div>
@@ -805,18 +795,14 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
       class="et_pb_module et_pb_toggle et_pb_toggle_0 et_pb_toggle_item et_pb_toggle_close"
     >
       <div class="se-c-e2c">
-        <h5 class="et_pb_toggle_title">How do I get paid?</h5>
+        <h5 class="et_pb_toggle_title">What's the payment process?</h5>
         <div id="acor-1" class="tog-cles-sc">
           <div class="ks-sd-plus clls-bnt"></div>
         </div>
       </div>
       <div id="acor-1" class="sms-cacorind-nd acc-conate">
         <p>
-          Every situation is unique – if we buy, you’ll receive your
-          assignment fee, and if we help you sell it to one of our buyers,
-          we’ll do some split of the assignment fee. So contact us about a
-          property or a way you want to partner and we’ll discuss an
-          arrangement that works for everyone.
+          Each scenario carries its distinct nature – upon purchase, your assignment fee is disbursed. Conversely, if we facilitate the property's sale to one of our clients, a division of the assignment fee will transpire. Feel free to reach out to us regarding a property or your interest in collaboration, and we shall engage in a conversation to formulate an arrangement that satisfies all parties involved.
         </p>
       </div>
     </div>
@@ -825,7 +811,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
     >
       <div class="se-c-e2c">
         <h5 class="et_pb_toggle_title">
-          Can I trust bringing you a deal I don't have in contract?
+          Can I rely on entrusting you with a deal that lacks formal documentation?
         </h5>
         <div id="acor-2" class="tog-cles-sc">
           <div class="ks-sd-plus clls-bnt"></div>
@@ -833,21 +819,13 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
       </div>
       <div id="acor-2" class="sms-cacorind-nd acc-conate">
         <p>
-          We believe this is a business of abundance and that there is
-          more than enough to go around without screwing each other over.
-          Integrity is one of our core values and treating everyone fairly
-          is a top priority.
+          Within our perspective, this venture thrives on abundance, with ample resources to share without resorting to harmful tactics. Our foundation rests on integrity, and ensuring equitable treatment stands as a paramount principle.
         </p>
         <p>
-          We’ve done $10+ million of business with people, just over a
-          handshake, and we have no intention or desire to take from
-          others. Our reputation and reviews are of utmost importance and
-          we’d never do anything to risk that.
+          Our history showcases transactions exceeding $10 million, sealed only through gestures of trust, and our commitment remains unwavering. Preserving our standing and testimonials holds the highest significance, motivating us to shun any jeopardizing actions.
         </p>
         <p>
-          If you bring us a deal that’s not in contract we can help advise
-          you on what you should offer, what we would pay, and can help
-          you bring the deal across the finish line with our attorneys.
+          Should you present an undocumented deal, we stand ready to offer guidance on your proposition, determine a suitable valuation, and collaborate alongside our legal experts to bring the agreement to fruition.
         </p>
       </div>
     </div>
@@ -856,7 +834,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
     >
       <div class="se-c-e2c">
         <h5 class="et_pb_toggle_title">
-          What kind of deals should I send you?
+          What sorts of agreements should I forward to you? 
         </h5>
         <div id="acor-3" class="tog-cles-sc">
           <div class="ks-sd-plus clls-bnt"></div>
@@ -864,14 +842,10 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
       </div>
       <div id="acor-3" class="sms-cacorind-nd acc-conate">
         <p>
-          You can send us pretty much anything. If it fits our buying
-          criteria, we may be a buyer for you. If not, we can always
-          assist you in locking it up and/or co-wholesaling it.
+          Virtually any arrangement holds potential. Should it align with our acquisition standards, there's a chance we'll become your purchaser. In instances where it doesn't align, we're still open to aiding you in securing it or collaborating on wholesaling.
         </p>
         <p>
-          However, please don’t waste our time and send us properties that
-          are listed on MLS/Zillow unless you’ve already spoken with the
-          agent/homeowner or already have an “in.”
+          Yet, kindly refrain from utilizing our time with offerings tied to MLS/Zillow listings unless you've established communication with the agent/homeowner or possess an existing connection.
         </p>
       </div>
     </div>
@@ -880,7 +854,7 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
     >
       <div class="se-c-e2c">
         <h5 class="et_pb_toggle_title">
-          Why work with Leave The Key Homebuyers?
+          What sets Leave The Key Homebuyers apart as a choice partner?
         </h5>
         <div id="acor-4" class="tog-cles-sc">
           <div class="ks-sd-plus clls-bnt"></div>
@@ -889,28 +863,23 @@ class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular"
       <div id="acor-4" class="sms-cacorind-nd acc-conate">
         <p>
           <span
-            >We pride ourselves on being ethical, honest, and genuine.
+            >Our distinctiveness stems from a foundation of unwavering ethics, unwavering honesty, and authenticity.
           </span>
         </p>
         <p>
           <span
-            >We are experienced investors that have purchased, flipped,
-            rented, and sold hundreds of homes all over Long Island,
-            Queens, and Brooklyn.
+            >Our track record boasts seasoned expertise as investors, having engaged in the acquisition, renovation, leasing, and sale of numerous properties spanning Long Island, Queens, and Brooklyn.
           </span>
         </p>
         <p>
           <span
-            >We are well-funded so that closing is never an issue.</span
+            >
+            Financial robustness ensures that the closing process remains seamless without any concerns.
+            </span
           >
         </p>
         <p>
-          Take a look at our
-          <a href="http://localhost:8000/we-buy-houses-reviews"
-            >positive reviews</a
-          >
-          to see what some of our sellers and partners have to say about
-          working with us.
+          For a tangible testament to our approach, explore the wealth of positive feedback from sellers and collaborators who've experienced the value of our partnership firsthand.
         </p>
       </div>
     </div>

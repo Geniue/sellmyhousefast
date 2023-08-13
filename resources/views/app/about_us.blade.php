@@ -4525,13 +4525,11 @@
       class=" ct-section ct-section-with-shape-divider">
         <div class="ct-section-inner-wrap">
             <h1 id="headline-220-25" class="ct-headline atomic-primary-heading">
-                We Are Andy &amp; Liz...</h1>
-            <h3 id="headline-256-25" class="ct-headline"><span
-                  style="font-weight: normal;">Come Get To Know Us!</span></h3>
+                About Us
+                </h1>
             <p id="text_block-329-25" class="ct-text-block atomic-subheading">As
-                engineers, we’ve always had a passion for problem solving. But,
-                we really found our niche once we combined our passion with real
-                estate…<br></p>
+                With a background in engineering, our affinity for creative problem-solving has always been a driving force. However, it was when we merged this passion with the realm of real estate that we truly found our calling...
+                <br></p>
             <div id="-shape-divider-331-25" class="oxy-shape-divider ">
                 <div class="oxy_shape_divider">
                     <svg xmlns="http://www.w3.org/2000/svg"
@@ -4555,40 +4553,19 @@
                       class="ct-image"
                       sizes="(max-width: 1024px) 100vw, 1024px"></div>
                 <div id="div_block-264-25" class="ct-div-block">
-                    <h3 id="headline-265-25" class="ct-headline">Andy Kolodgie
-                        &amp; Liz Hutz</h3>
-                    <p id="text_block-319-25"
-                      class="ct-text-block atomic-subheading"><span
-                          style="font-weight: normal;">Cash Home Buyers, SEO
-                            Experts, &amp; Engineers</span><br></p>
-                    <p id="text_block-322-25"
-                      class="ct-text-block atomic-subheading"><b>Andy and Liz
-                            are Virginia Tech grads</b> who went from coding
-                        software for Navy ships and aircrafts to flipping
-                        houses. As co-owners of <a href="/our-company/">Sell My
-                            House Fast</a>, we have years of experience buying,
-                        renovating, and selling homes in multiple markets across
-                        the country.<br></p>
-                    <div id="div_block-320-25" class="ct-div-block"><img
-                          loading="lazy" id="image-321-25"
-                          alt="about us sell my house fast"
-                          src="//www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast.webp"
-                          class="ct-image"
-                          srcset="//www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast.webp 386w, //www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast-300x300.webp 300w, //www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast-150x150.webp 150w"
-                          sizes="(max-width: 386px) 100vw, 386px">
+              
                         <p id="text_block-272-25"
-                          class="ct-text-block atomic-subheading">We keep busy
-                            through all of our different roles, but our #1
-                            priority is you, the homeowner!<span
-                              style="font-weight: normal;"> Without happy
-                                customers, we wouldn’t be able to maintain our
-                                top position nationwide.</span><br></p>
+                          class="ct-text-block atomic-subheading">
+                          About us sell my house fast
+We keep busy through all of our different roles, but our #1 priority is you,
+ the homeowner! Without happy customers, we wouldn’t be able to maintain our top position nationwide.
+                        </p>
+                        <p id="text_block-327-25"
+                        class="ct-text-block atomic-subheading">
+                        When we’re not busy flipping houses, you can catch us on the next flight to pretty much anywhere! We also love hanging out at local breweries, hiking, and trail running.
+                        <br></p>
                     </div>
-                    <p id="text_block-327-25"
-                      class="ct-text-block atomic-subheading">When we’re not
-                        busy flipping houses, you can catch us on the next
-                        flight to pretty much anywhere! We also love hanging out
-                        at local breweries, hiking, and trail running.<br></p>
+                   
                 </div>
             </div>
         </div>
@@ -4599,10 +4576,11 @@
               class="ct-headline atomic-secondary-heading"><b>Why Choose Us?</b>
             </h2>
             <p id="text_block-234-25" class="ct-text-block atomic-subheading">
-                What you see is what you get with us. We don’t dress in button
-                downs or slacks. We’re not going for that pseudo-perfect image.
-                <b>We are honest, fair, and reliable people who work hard.</b>
-                We want to help each and every homeowner including you!</p>
+                With us, authenticity reigns supreme. We don't put on airs with button-downs or slacks. We're not aiming for a veneer of pseudo-perfection. Instead, we stand as genuine, equitable, and dependable individuals 
+                who put in earnest effort. Our mission is to <b>
+                    extend assistance to every homeowner, including you
+                </b>
+                !</p>
         </div>
     </section>
     <section id="section-144-25" class=" ct-section">
@@ -4613,30 +4591,19 @@
             <div id="new_columns-278-25" class="ct-new-columns">
                 <div id="div_block-279-25" class="ct-div-block">
                     <p id="text_block-276-25"
-                      class="ct-text-block atomic-subheading"><b>We commit to
-                            being fair, honest, and respectful with <i>every</i>
-                            interaction.</b> We will act with integrity and
-                        <i>never</i> take advantage of a difficult situation. We
-                        will have a positive attitude and always do whatever it
-                        takes to arrive at a win-win for everyone.<br></p>
+                      class="ct-text-block atomic-subheading">
+                      Our dedication is unwavering: we vow to treat each encounter with fairness, candor, and respect. Our actions will always embody integrity, void of any exploitation during challenging times. An optimistic outlook will guide us, and we are committed to tirelessly pursuing solutions that yield mutual benefits.
+                        <br></p>
                     <p id="text_block-333-25"
-                      class="ct-text-block atomic-subheading"><b></b>We believe
-                        a person dealing with a difficult situation needs
-                        someone who can help. We promise to be there for you as
-                        we do our absolute best to truly be the solution to your
-                        real estate troubles.<br></p>
+                      class="ct-text-block atomic-subheading"><b></b>
+                      We firmly believe that in times of hardship, an empathetic hand is crucial. Count on us to stand by your side, earnestly striving to be the remedy for your real estate woes.<br></p>
                 </div>
-                <div id="div_block-280-25" class="ct-div-block"><img
-                      loading="lazy" id="image-282-25"
-                      alt="about sell my house fast"
-                      src="{{asset('assets/images/logo.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 1380px) 100vw, 1380px"></div>
+                <div id="div_block-280-25" class="ct-div-block"></div>
             </div>
             <p id="text_block-293-25" class="ct-text-block atomic-subheading"><i
-                  style="">Our goal is to help every homeowner, including you.
-                    You will be treated with respect &amp; integrity the entire
-                    way.</i><br></p>
+                  style="">
+Our aim is to assist all homeowners, including you, with utmost respect and integrity.
+                  <br></p>
         </div>
     </section>
 </div>

@@ -11082,9 +11082,9 @@
             <h1 id="headline-443-13" class="ct-headline atomic-primary-heading">
                 How It Works</h1>
             <p id="text_block-692-13"
-              class="ct-text-block atomic-content-29-text"><b>Receive a FREE and
-                    FAIR cash offer from a <i>qualified</i> local investor. Find
-                    out how below!</b></p>
+              class="ct-text-block atomic-content-29-text"><b>
+                Secure a just,  
+                  <i>costless cash offer</i> from a nearby investor.Learn more!</b></p>
             <div id="-shape-divider-913-13" class="oxy-shape-divider ">
                 <div class="oxy_shape_divider">
                     <svg xmlns="http://www.w3.org/2000/svg"
@@ -11099,8 +11099,7 @@
     <section id="section-696-13" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <h2 id="headline-697-13"
-              class="ct-headline atomic-secondary-heading">Our 3-Step Simple
-                Selling Process...</h2>
+              class="ct-headline atomic-secondary-heading">The Straightforward 3-Phase Selling Method We Employ...</h2>
             <div id="div_block-931-13" class="ct-div-block">
                 <div id="div_block-914-13" class="ct-div-block"><img
                       loading="lazy" id="image-915-13" alt="step 1"
@@ -11109,12 +11108,11 @@
                       sizes="(max-width: 256px) 100vw, 256px">
                     <div id="text_block-704-13"
                       class="ct-text-block atomic-steps-1-text"><b><span
-                              id="span-933-13" class="ct-span">Tell us about the
-                                house you want to sell</span> by filling in the
-                            form below or calling us at <a
-                              href="tel:844-207-0788">(844) 207-0788</a>. We
-                            want to learn more about your property before making
-                            an offer.</b></div>
+                              id="span-933-13" class="ct-span">
+                              Share details about the property you wish to sell 
+                            </span> by completing the
+                            form below or reaching out to us at <a
+                              href="tel:844-207-0788">(xxx) xxx-xxxx</a>We aim to gather insights about your house prior to presenting an offer.</b></div>
                 </div>
                 <div id="div_block-698-13"
                   class="ct-div-block atomic-steps-1-wrapper">
@@ -11422,17 +11420,10 @@
                                     </div>
                                 </div>
                                 <div class="gform_footer top_label"> 
-                                    <button class="xash-buton">Get My Cash Offer!</button>               
+                                    <button class="xash-buton">Receive my cash proposal!</button>               
                                   </div>
                             </form>
                         </div>
-                        <iframe style="display:none;width:0px;height:0px;"
-                          src="about:blank" name="gform_ajax_frame_1"
-                          id="gform_ajax_frame_1"
-                          title="This iframe contains the logic required to handle Ajax powered Gravity Forms."></iframe>
-                        <script>
-                            gform.initializeOnLoaded( function() {gformInitSpinner( 1, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} );
-                        </script>
                     </div>
                 </div>
                 <div id="div_block-919-13" class="ct-div-block"><img
@@ -11441,11 +11432,10 @@
                       class="ct-image"
                       sizes="(max-width: 256px) 100vw, 256px">
                     <div id="text_block-921-13"
-                      class="ct-text-block atomic-steps-1-text"><b>We connect
-                            you to a local cash buyer who specializes in your
-                            market and will present you with a <span
-                              id="span-936-13" class="ct-span">fair offer for
-                                your house</span>.</b></div>
+                      class="ct-text-block atomic-steps-1-text"><b>
+                        We link you with a nearby cash purchaser who specializes in your area and will
+                         provide you with <span
+                              id="span-936-13" class="ct-span">an equitable proposal for your property</span>.</b></div>
                 </div>
                 <div id="div_block-926-13" class="ct-div-block"><img
                       loading="lazy" id="image-927-13" alt="step 3"
@@ -11453,11 +11443,10 @@
                       class="ct-image"
                       sizes="(max-width: 256px) 100vw, 256px">
                     <div id="text_block-928-13"
-                      class="ct-text-block atomic-steps-1-text"><b>We set a
-                            closing date that aligns with your selling timeline
-                            and you&nbsp;<span id="span-939-13"
-                              class="ct-span">receive cash for your
-                                house</span>!</b></div>
+                      class="ct-text-block atomic-steps-1-text"><b>
+                        We establish a closing date that matches your selling schedule,
+                        &nbsp;<span id="span-939-13"
+                              class="ct-span">ensuring you obtain cash for your property</span>!</b></div>
                 </div>
             </div>
         </div>
@@ -11466,90 +11455,63 @@
         <div class="ct-section-inner-wrap">
             <h2 id="headline-170-13" class="ct-headline">
                 <div style="text-align: center;"><span
-                      style="font-weight: normal;">Selling Your House With Sell
-                        My House Fast</span></div>
+                      style="font-weight: normal;">Vend Your Property Through Swift House Sale</span></div>
             </h2>
         </div>
     </section>
     <section id="section-727-13" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <p id="text_block-754-13" class="ct-text-block atomic-subheading">
-                <b>1. What info will you need from me?</b></p>
+                <b>1. What details are required?</b></p>
             <div id="new_columns-748-13" class="ct-new-columns">
                 <div id="div_block-749-13" class="ct-div-block">
                     <ul id="div_block-733-13" class="ct-div-block">
-                        <li id="text_block-736-13" class="ct-text-block">Your
-                            timeline for selling</li>
-                        <li id="text_block-738-13" class="ct-text-block">Current
-                            condition of the home</li>
-                        <li id="text_block-739-13" class="ct-text-block">How
-                            long you’ve owned the property</li>
-                        <li id="text_block-740-13" class="ct-text-block">The
-                            reason for wanting to sell</li>
+                        <li id="text_block-736-13" class="ct-text-block">Your desired selling timeframe</li>
+                        <li id="text_block-738-13" class="ct-text-block">Present state of the property</li>
+                        <li id="text_block-739-13" class="ct-text-block">Duration of property ownership</li>
+                        <li id="text_block-740-13" class="ct-text-block">Motivation behind the sale</li>
                     </ul>
                     <p id="text_block-744-13"
-                      class="ct-text-block atomic-subheading">This information
-                        will help us figure out how we can provide the <b>best
-                            solution for you</b>. Our goal is to connect you
-                        with a local cash buyer who will be able to buy your
-                        home hassle free.</p>
+                      class="ct-text-block atomic-subheading">
+                      This data aids us in devising the optimal solution for you. 
+                       <b>Our objective is to link you with a nearby cash buyer</b>, ensuring a seamless home sale process.</p>
                 </div>
-                <div id="div_block-750-13" class="ct-div-block"><img
-                      loading="lazy" id="image-752-13"
-                      alt="how we buy houses works"
-                      src="{{asset('assets/images/logo.webp')}}"
-                      class="ct-image"
-                      sizes="(max-width: 1380px) 100vw, 1380px"></div>
+                <div id="div_block-750-13" class="ct-div-block"></div>
             </div>
             <div id="div_block-972-13" class="ct-div-block">
                 <p id="text_block-774-13"
-                  class="ct-text-block atomic-subheading"><b>2. Do I get a cash
-                        offer right when I submit the form?</b></p>
+                  class="ct-text-block atomic-subheading"><b>2. Will I receive an instant cash offer upon form submission?</b></p>
                 <p id="text_block-758-13"
-                  class="ct-text-block atomic-subheading">No. We do not
-                    autogenerate cash offers. Each cash offer you receive
-                    requires research and a full understanding of the property.
+                  class="ct-text-block atomic-subheading">
+                  No. We don't provide automated cash offers. Each cash offer necessitates thorough research and a comprehensive understanding of the property.
                 </p>
                 <p id="text_block-945-13"
-                  class="ct-text-block atomic-subheading"><b>Why Not? Other “We
-                        Buy Houses” Companies Make Offers Right Away…</b></p>
+                  class="ct-text-block atomic-subheading"><b>Why the Delay? Contrary to other "We Buy Houses" firms that swiftly offer quotes...</b></p>
                 <p id="text_block-946-13"
-                  class="ct-text-block atomic-subheading">These companies will
-                    give you a wildly inflated offer to bring you in and lock
-                    you up in a <i>legally binding contract</i>. They will then
-                    use an “inspection report” to come back and ask for a price
-                    reduction.</p>
+                  class="ct-text-block atomic-subheading">
+                  Such companies tend to overstate their offers initially to
+                  <i>lure you into a binding contractt</i>.  Later, they employ an "inspection report" to demand a reduced price.</p>
                 <p id="text_block-949-13"
-                  class="ct-text-block atomic-subheading">We don’t play those
-                    games.</p>
+                  class="ct-text-block atomic-subheading">We abstain from such tactics.</p>
                 <p id="text_block-951-13"
-                  class="ct-text-block atomic-subheading">There are several
-                    factors that go into curating a cash offer, so we will reach
-                    out if we have any questions about your property. This lets
-                    us <b>present you an initial offer <i>range</i></b> to
-                    confirm we are in your ballpark.</p>
+                  class="ct-text-block atomic-subheading">
+                  Numerous variables factor into shaping a cash offer. Thus, we may reach out for further property details. 
+                  This approach <b>enables us to propose an initial offer<i>range</i></b>, ensuring alignment with your expectations.</p>
             </div>
-            <div id="div_block-764-13" class="ct-div-block"><img loading="lazy"
-                  id="image-772-13" alt="how we buy houses"
-                  src="{{asset('assets/images/google-5.webp')}}"
-                  class="ct-image alignright"
-                  sizes="(max-width: 386px) 100vw, 386px">
+            <div id="div_block-764-13" class="ct-div-block">
+
                 <p id="text_block-728-13"
-                  class="ct-text-block atomic-subheading"><b>3. How do I know
-                        you’re not going to lowball me?</b></p>
+                  class="ct-text-block atomic-subheading"><b>How can I be certain you won't undervalue my property?</b></p>
                 <p id="text_block-770-13"
-                  class="ct-text-block atomic-subheading">If we made lowball
-                    offers, we would not be in business…</p>
+                  class="ct-text-block atomic-subheading">Operating with lowball offers would be detrimental to our business...</p>
                 <p id="text_block-956-13"
-                  class="ct-text-block atomic-subheading">It is in everyone’s
-                    best interest to make you the highest possible cash offer!
+                  class="ct-text-block atomic-subheading">
+                  Our mutual benefit hinges on presenting you with the most favorable cash offer!
                 </p>
                 <p id="text_block-957-13"
-                  class="ct-text-block atomic-subheading">Our entire business is
-                    based on buying houses across the country.</p>
+                  class="ct-text-block atomic-subheading">Our core operations revolve around purchasing properties nationwide.</p>
                 <p id="text_block-958-13"
-                  class="ct-text-block atomic-subheading"><b>If we can’t make
-                        fair offers, then we can’t buy houses.</b></p>
+                  class="ct-text-block atomic-subheading"><b>Without the ability to extend fair offers, our capacity to acquire houses would diminish.</b></p>
             </div>
         </div>
     </section>
@@ -11557,19 +11519,17 @@
         <div class="ct-section-inner-wrap">
             <h2 id="headline-781-13" class="ct-headline">
                 <div style="text-align: center;"><span
-                      style="font-weight: normal;">Find the Best Fit for your
-                        Home Sale!</span></div>
+                      style="font-weight: normal;">Discover the Perfect Match for Selling Your Home!</span></div>
             </h2>
             <div id="new_columns-784-13" class="ct-new-columns">
                 <div id="div_block-785-13" class="ct-div-block">
                     <div id="text_block-786-13"
                       class="ct-text-block atomic-subheading">
-                        <div style="text-align: center;">If the value you have
-                            in mind for your home is outside of our offer range,
-                            we can discuss a couple other options that may be a
-                            better fit. Our local cash buyers have experience
-                            with creative financing, meaning they can help even
-                            when a cash offer isn’t right for your home sale.
+                        <div style="text-align: center;">
+                            If the estimated worth of your property falls beyond our offer spectrum,
+                             we can explore alternative avenues that might align better. Our nearby 
+                             cash buyers possess adeptness in innovative financing, enabling them to assist
+                              even if a direct cash offer isn't the ideal solution for your home sale.
                         </div><b></b>
                     </div>
                 </div>
@@ -11579,43 +11539,34 @@
     <section id="section-445-13" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <h2 id="headline-448-13" class="ct-headline"><span
-                  style="font-weight: normal;">How Our Cash Offer is
-                    Calculated…</span></h2>
+                  style="font-weight: normal;">The Calculation Behind Our Cash Proposition…</span></h2>
             <div id="div_block-657-13" class="ct-div-block">
                 <div id="div_block-681-13" class="ct-div-block">
                     <p id="text_block-688-13"
                       class="ct-text-block atomic-subheading"><span
-                          style="font-weight: normal;">[YOUR OFFER] = [ARV] –
-                            [REPAIR COSTS] – [SELLING COSTS] – [ROI]</span></p>
+                          style="font-weight: normal;">[OUR PROPOSAL] = [PROPERTY VALUE] –
+                          [RENOVATION EXPENSES] – [MARKETING EXPENSES] – [RETURN ON INVESTMENT]</span></p>
                 </div>
                 <div id="div_block-793-13" class="ct-div-block">
                     <p id="text_block-679-13"
                       class="ct-text-block atomic-content-4-text"><b><span
-                              id="span-964-13" class="ct-span">After Repair
-                                Value (ARV):</span></b> This is the market value
-                        of your home after we buy and renovate your house.</p>
+                              id="span-964-13" class="ct-span">After Repair Value (ARV):</span></b>The estimated market value of your home post-purchase and renovation.</p>
                     <p id="text_block-660-13"
                       class="ct-text-block atomic-content-4-text"><b><span
-                              id="span-966-13" class="ct-span">Cost Of
-                                Repairs:</span></b> This is what we estimate our
-                        cost will be to update the house to current market
-                        conditions, and <b>it’s what you are saving</b>
-                        (<i>along with your time</i>) if you sell your house to
-                        us!</p>
+                              id="span-966-13" class="ct-span">Cost of Renovations:</span></b> Our projected expenditure to update the property to current market standards,
+                               <b>representing your savings</b>
+                        (<i>including time</i>)when you opt to sell to us!</p>
                     <p id="text_block-665-13"
                       class="ct-text-block atomic-content-4-text"><b><span
-                              id="span-968-13" class="ct-span">Our Selling
-                                Costs:</span></b> This is an estimate of the
-                        cost of selling commissions, excise tax, property tax,
-                        utilities, insurance (title and property and escrow
-                        fees.) It’s typically around 10% of the ARV.</p>
+                              id="span-968-13" class="ct-span">Selling Expenses:</span></b> An approximation of costs encompassing selling commissions,
+                              excise tax, property tax, utilities, insurance (title, property, and escrow fees). Typically, this amounts to around 10% of the ARV.  
+                            </p>
                     <p id="text_block-666-13"
                       class="ct-text-block atomic-content-4-text"><b><span
-                              id="span-970-13" class="ct-span">Return On
-                                Investment (ROI):</span> </b>This is how we pay
-                        our contractors and keep the business running. If we
-                        didn’t return some level of profit, we wouldn’t be a
-                        great business!</p>
+                              id="span-970-13" class="ct-span">
+                              Return on Investment (ROI)
+                              :</span> </b>How we compensate contractors and sustain business operations. 
+                              Our ability to generate a certain level of profit is what makes us successful!</p>
                 </div>
             </div>
         </div>
@@ -11627,13 +11578,13 @@
             <div id="div_block-427-13" class="ct-div-block">
                 <h2 id="headline-268-13" class="ct-headline">
                     <div style="text-align: center;"><span
-                          style="font-weight: normal;">Want To Know What YOUR
-                            Numbers Are?</span></div>
+                          style="font-weight: normal;">Curious About YOUR Figures?</span></div>
                 </h2>
             </div>
             <p id="text_block-575-13" class="ct-text-block atomic-subheading">
-                Fill out our short form, and we will be in touch to discuss your
-                property and give you our cash offer range.</p>
+                Complete our concise form, and we'll reach out to delve into your property details
+                 and provide an initial cash offer range.
+               </p>
             <div id="shortcode-461-13" class="ct-shortcode">
                 <div class="gf_browser_gecko gform_wrapper gravity-theme"
                   id="gform_wrapper_4">
@@ -11908,108 +11859,78 @@
                             </div>
                         </div>
                         <div class="gform_footer top_label"> 
-                            <button class="xash-buton">Get My Cash Offer!</button>               
+                            <button class="xash-buton">Receive My Cash Proposal!</button>               
                           </div>
                     </form>
                 </div>
-                <iframe style="display:none;width:0px;height:0px;"
-                  src="about:blank" name="gform_ajax_frame_4"
-                  id="gform_ajax_frame_4"
-                  title="This iframe contains the logic required to handle Ajax powered Gravity Forms."></iframe>
-                <script>
-                    gform.initializeOnLoaded( function() {gformInitSpinner( 4, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_4').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_4');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_4').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_4').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_4').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_4').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_4').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_4').val();gformInitSpinner( 4, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [4, current_page]);window['gf_submitting_4'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_4').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_4').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [4]);window['gf_submitting_4'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_4').text());}, 50);}else{jQuery('#gform_4').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [4, current_page]);} );} );
-                </script>
             </div>
             <div id="div_block-440-13" class="ct-div-block">
                 <p id="text_block-821-13"
-                  class="ct-text-block atomic-subheading">Still have questions?
-                    Please visit our <a href="/faq/" style=""><span
-                          id="span-985-13" class="ct-span">frequently asked
-                            questions</span></a> page or give us a call at <a
-                      href="tel:844-207-0788" style=""><span id="span-987-13"
-                          class="ct-span">(844) 207-0788</span></a>. We are
-                    happy to chat with you before you submit your property
-                    information. 🙂</p>
+                  class="ct-text-block atomic-subheading">
+                  Need more answers? Explore our FAQ section or feel free to dial 
+                  <a href="#">
+                      (xxx) xxx-xxxx.
+                    </a>
+                   We're delighted to have a conversation with you prior to you sharing your property details. 🙂
+                </p>
             </div>
         </div>
     </section>
     <section id="section-474-13" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <h2 id="headline-475-13"
-              class="ct-headline atomic-secondary-heading">Why Sell to You
-                Instead of Listing with a Realtor?</h2>
+              class="ct-headline atomic-secondary-heading"> Why Choose Us Over Listing with an Agent? </h2>
             <div id="div_block-994-13" class="ct-div-block">
                 <p id="text_block-892-13"
-                  class="ct-text-block atomic-content-4-text"><b></b>Even in a
-                    seller’s market, it’s smart to look at ALL of your options
-                    to see what will actually help you best reach your goals
-                    with the sale of your house.<br></p>
+                  class="ct-text-block atomic-content-4-text"><b></b>Even during a seller's market, it's 
+                  prudent to explore ALL possibilities to determine the most effective route for achieving your house sale objectives.<br></p>
                 <p id="text_block-988-13"
-                  class="ct-text-block atomic-content-4-text"><b></b>While you
-                    may be able to get a higher “top line” sales price listing
-                    with a local agent, that doesn’t always boil down to more
-                    money in your pocket after subtracting commission and
-                    closing costs… not to mention the time and stress.</p>
+                  class="ct-text-block atomic-content-4-text"><b></b>While listing with a local agent might yield a higher initial sales price, it doesn't always translate to greater net proceeds 
+                  after deducting commissions, closing expenses, and factoring in time and stress.</p>
                 <p id="text_block-989-13"
-                  class="ct-text-block atomic-content-4-text"><b></b><i>Let’s
-                        compare selling your house to Sell My House Fast vs.
-                        with a local real estate agent…</i></p>
+                  class="ct-text-block atomic-content-4-text"><b></b><i>
+                    Let's juxtapose the process of selling your house with Sell My House Fast versus engaging a local real estate agent...
+                    </i></p>
             </div>
             <div id="new_columns-477-13" class="ct-new-columns">
                 <div id="div_block-478-13"
                   class="ct-div-block atomic-pricing-8-column">
                     <h4 id="headline-480-13"
-                      class="ct-headline atomic-pricing-8-title"><b>Selling To
-                            <i>Sell My House Fast</i></b></h4>
+                      class="ct-headline atomic-pricing-8-title"><b>Opting for :
+                            <i>Sell My House Fast Selling Approach</i></b></h4>
                     <p id="text_block-481-13"
-                      class="ct-text-block atomic-pricing-8-text">• You pay 0%
-                        in commission and NO fees.</p>
+                      class="ct-text-block atomic-pricing-8-text">• Commission and fees: 0% payment.</p>
                     <p id="text_block-482-13"
-                      class="ct-text-block atomic-pricing-8-text">• We pay ALL
-                        closing costs.</p>
+                      class="ct-text-block atomic-pricing-8-text">•  ALL closing expenses covered by us.</p>
                     <p id="text_block-483-13"
-                      class="ct-text-block atomic-pricing-8-text">• Close within
-                        7-28 days or on your timeline.</p>
+                      class="ct-text-block atomic-pricing-8-text">• Closure within 7-28 days or per your schedule.</p>
                     <p id="text_block-484-13"
-                      class="ct-text-block atomic-pricing-8-text">• Sell in
-                        "as-is" condition without making <i>any</i> repairs.</p>
+                      class="ct-text-block atomic-pricing-8-text">• "As-is" sale, <i>no</i>repair obligations.</p>
                     <p id="text_block-526-13"
-                      class="ct-text-block atomic-pricing-8-text">• No formal
-                        inspections.</p>
+                      class="ct-text-block atomic-pricing-8-text">• No formal inspections required.</p>
                     <p id="text_block-527-13"
-                      class="ct-text-block atomic-pricing-8-text">• No open
-                        houses or endless showings.</p>
+                      class="ct-text-block atomic-pricing-8-text">• Eliminate open houses and constant showings.</p>
                     <p id="text_block-528-13"
-                      class="ct-text-block atomic-pricing-8-text">• No appraisal
-                        or financing contingencies.</p>
+                      class="ct-text-block atomic-pricing-8-text">•  Appraisal and financing contingencies not applicable.</p>
                 </div>
                 <div id="div_block-492-13"
                   class="ct-div-block atomic-pricing-8-column">
                     <h4 id="headline-494-13"
-                      class="ct-headline atomic-pricing-8-title"><b>Selling with
-                            a Real Estate Agent</b></h4>
+                      class="ct-headline atomic-pricing-8-title"><b>Opting for Real Estate Agent-Assisted Sale</b></h4>
                     <p id="text_block-495-13"
-                      class="ct-text-block atomic-pricing-8-text">• You
-                        typically pay 6% of the sales price in commission.</p>
+                      class="ct-text-block atomic-pricing-8-text">• Standard commission: Generally 6% of the sales price.</p>
                     <p id="text_block-496-13"
-                      class="ct-text-block atomic-pricing-8-text">• You pay
-                        2%-4% of the sales price in closing costs.</p>
+                      class="ct-text-block atomic-pricing-8-text">• Closing costs: Typically 2%-4% of the sales price.</p>
                     <p id="text_block-497-13"
-                      class="ct-text-block atomic-pricing-8-text">• Closing can
-                        take 60-90 days after accepting an offer.</p>
+                      class="ct-text-block atomic-pricing-8-text">• Closing costs: Typically 2%-4% of the sales price.</p>
                     <p id="text_block-498-13"
-                      class="ct-text-block atomic-pricing-8-text">• Make repairs
-                        to meet market standards.</p>
+                      class="ct-text-block atomic-pricing-8-text">• Necessary repairs to align with market expectations.</p>
                     <p id="text_block-499-13"
-                      class="ct-text-block atomic-pricing-8-text">• A bad
-                        inspection can drop the sale price or cause more
-                        repairs.</p>
+                      class="ct-text-block atomic-pricing-8-text">• Risk of a diminished sale price or additional repairs upon unfavorable inspection.</p>
                     <p id="text_block-538-13"
-                      class="ct-text-block atomic-pricing-8-text">• There can be
-                        20+ showings and open houses.</p>
+                      class="ct-text-block atomic-pricing-8-text">• Frequent showings and multiple open house events.</p>
                     <p id="text_block-539-13"
-                      class="ct-text-block atomic-pricing-8-text">• A low
-                        appraisal may force you to lower your sale price.</p>
+                      class="ct-text-block atomic-pricing-8-text">• Potential need to lower the sale price due to a low appraisal.</p>
                 </div>
             </div>
         </div>
@@ -12017,48 +11938,39 @@
     <section id="section-829-13" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <h2 id="headline-830-13" class="ct-headline"><span
-                  style="font-weight: normal;">What Makes Our Cash Offers
-                    Better?</span></h2>
+                  style="font-weight: normal;">What Sets Our Cash Offers Apart?</span></h2>
             <p id="text_block-1022-13" class="ct-text-block atomic-subheading">
-                Our main focus is fast cash offers for your home. We promise our
-                offers will be honest and fair. <i>However, they will not be for
-                    “full market value.”</i> (We’re just being honest.) Our cash
-                offers will be as high as we are able to make them due to our
-                vast network of experienced local buyers in each market. 🙂</p>
+                Our main focus is fast cash offers for your home. We promise our offers will be honest and fair.
+                 However, they will not be for “full market value.” (We’re just being honest.) 
+                Our cash offers will be as high as we are able to make them due to our vast network
+                 of experienced local buyers in each market. 🙂</p>
         </div>
     </section>
     <section id="section-90-244" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <div id="div_block-673-13" class="ct-div-block">
                 <h2 id="headline-91-244"
-                  class="ct-headline atomic-tritary-heading"><b>💥 SCAM
-                        ALERT!&nbsp;💥</b></h2>
+                  class="ct-headline atomic-tritary-heading"><b>💥 BEWARE OF SCAMS! &nbsp;💥</b></h2>
                 <h3 id="headline-840-13"
                   class="ct-headline atomic-tritary-heading">
-                    <div style="text-align: center;"><i style="">“How Do I Know
-                            You Will Close? And That This Is NOT A Scam?”</i>
+                    <div style="text-align: center;"><i style="">“Worried About Closing and Scams?”</i>
                     </div>
                 </h3>
                 <p id="text_block-471-13"
-                  class="ct-text-block atomic-content-4-text">There are so many
-                    new investors and scammers out there that you’re smart to be
-                    questioning this. Getting the highest offer for your home
-                    means nothing if the buyer reduces the price after an
-                    “inspection”, cannot close, and the deal falls through. It’s
-                    very common for sellers to reach out to us after one (or
-                    sometimes multiple) failed closings with other “We buy
-                    houses” companies. They are frustrated and distrustful of
-                    investors.</p>
+                  class="ct-text-block atomic-content-4-text">
+                  With the surge of new investors and potential scammers, it's wise to have reservations.
+                   Achieving the best offer for your home means little if the buyer reduces the price post-"inspection," fails to close,
+                    and the deal collapses. Numerous sellers turn to us after experiencing one 
+                  or multiple failed closures with other "We buy houses" entities. Such experiences breed frustration and skepticism towards investors.
+                </p>
                 <p id="text_block-1015-13"
-                  class="ct-text-block atomic-content-4-text">That’s where Sell
-                    My House Fast is different. Our team makes honest and fair
-                    offers with the intent to close, always. Our offer will not
-                    be reduced later in the process. That’s why we receive so
-                    many positive reviews! 🙂</p>
+                  class="ct-text-block atomic-content-4-text">
+                  Sell My House Fast stands apart in this realm. Our team crafts transparent and equitable offers with a steadfast commitment to closing, always.
+                   Our offers won't face reductions later in the process, a key reason behind our abundance of positive reviews! 🙂
+                </p>
                 <h3 id="headline-844-13"
                   class="ct-headline atomic-tritary-heading">
-                    <div style="text-align: center;"><i style="">“How Can I
-                            Avoid Being Scammed?”</i></div>
+                    <div style="text-align: center;"><i style="">“How Can You Dodge Scams?”</i></div>
                 </h3>
                 <div id="div_block-851-13" class="ct-div-block">
                     <div id="div_block-847-13" class="ct-div-block"><img
@@ -12067,47 +11979,34 @@
                                                       class="ct-image"
                           sizes="(max-width: 512px) 100vw, 512px">
                         <h4 id="headline-849-13" class="ct-headline">
-                            Professional Website</h4>
+                            Professionally Designed Website</h4>
                     </div>
                     <p id="text_block-861-13"
-                      class="ct-text-block atomic-content-4-text">A business’s
-                        website is a direct reflection of who they are as a
-                        business <i>and personally</i>. Explore the site to see
-                        if the company shows who the people are behind the
-                        business. Look for pictures of the owner(s) and any
-                        possible employees. Check if they give you their names
-                        (first and last names are important, so you can cross
-                        check if they are a real person on Google).</p>
+                      class="ct-text-block atomic-content-4-text">A business's website mirrors its identity both professionally and personally.
+                       Delve into the site to discern whether the company reveals the faces behind the business. Look for images 
+                       of the owner(s) and any potential staff.
+                       Verify if they share their full names (first and last) for credibility cross-checking through Google.</p>
                     <div id="div_block-852-13" class="ct-div-block"><img
                           loading="lazy" id="image-853-13" alt="how it works"
                           src="{{asset('assets/images/checked.webp')}}"
                                                       class="ct-image"
                           sizes="(max-width: 512px) 100vw, 512px">
-                        <h4 id="headline-854-13" class="ct-headline">Online
-                            Reviews</h4>
+                        <h4 id="headline-854-13" class="ct-headline">Genuine Online Reviews</h4>
                     </div>
                     <p id="text_block-869-13"
-                      class="ct-text-block atomic-content-4-text">A legitimate
-                        business will have reviews online. We’re not talking
-                        about text inserted on the business’s home page… Verify
-                        there are reputable reviews online.</p>
+                      class="ct-text-block atomic-content-4-text">A bona fide business will boast genuine online reviews. We're not referring 
+                      to mere text inserted on the homepage... Ensure reputable reviews exist online.</p>
                     <div id="div_block-855-13" class="ct-div-block"><img
                           loading="lazy" id="image-856-13" alt="how it works"
                           src="{{asset('assets/images/checked.webp')}}"
                                                       class="ct-image"
                           sizes="(max-width: 512px) 100vw, 512px">
-                        <h4 id="headline-857-13" class="ct-headline">Contract
-                            Terms</h4>
+                        <h4 id="headline-857-13" class="ct-headline">Contractual Conditions</h4>
                     </div>
                     <p id="text_block-870-13"
-                      class="ct-text-block atomic-content-4-text">Don’t fall for
-                        a tiny deposit that doesn’t get delivered to escrow for
-                        30 days (Sell My House Fast deposits within 48 hours).
-                        Many scammers use “<a
-                          href="#">weasel
-                            clauses</a>” to leave a backdoor open for
-                        themselves. These are signs a buyer is not serious about
-                        closing.</p>
+                      class="ct-text-block atomic-content-4-text">Beware of meager deposits that won't be channeled to escrow until 30 days later (Sell My House Fast delivers deposits within 48 hours). 
+                      Numerous scammers employ 
+                      "weasel clauses" to keep an escape route open for themselves. These are indicators of a buyer's lack of genuine commitment to closing.</p>
                 </div>
             </div>
         </div>
@@ -12388,17 +12287,11 @@
                             </div>
                         </div>
                         <div class="gform_footer top_label"> 
-                            <button class="xash-buton">Get My Cash Offer!</button>               
+                            <button class="xash-buton">Receive my cash proposal!</button>               
                           </div>
                     </form>
                 </div>
-                <iframe style="display:none;width:0px;height:0px;"
-                  src="about:blank" name="gform_ajax_frame_5"
-                  id="gform_ajax_frame_5"
-                  title="This iframe contains the logic required to handle Ajax powered Gravity Forms."></iframe>
-                <script>
-                    gform.initializeOnLoaded( function() {gformInitSpinner( 5, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_5').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_5');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_5').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_5').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_5').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_5').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_5').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_5').val();gformInitSpinner( 5, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [5, current_page]);window['gf_submitting_5'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_5').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_5').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [5]);window['gf_submitting_5'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_5').text());}, 50);}else{jQuery('#gform_5').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [5, current_page]);} );} );
-                </script>
+             
             </div>
         </div>
     </section>
@@ -12406,20 +12299,17 @@
         <div class="ct-section-inner-wrap">
             <div id="div_block-1594-106" class="ct-div-block"></div>
             <h2 id="headline-881-13" class="ct-headline"><span
-                  style="font-weight: normal;">Sell Your House Simply!</span>
+                  style="font-weight: normal;">
+                  Simplify Your Home Sale Process!</span>
             </h2>
             <p id="text_block-1032-13"
-              class="ct-text-block atomic-content-4-text"><b></b>Sell My House
-                Fast values honesty, integrity and transparency. We eliminate
-                all of the drawbacks that come with selling your house the
-                traditional way. At <a href="/">Sell My House Fast</a>, we do
-                not rely on lender financing– we have our own cash. We buy as-is
-                and close on your timeline. Unlike agents, we do not charge
-                commission or fees. If you need to sell your house fast for cash
-                anywhere in the country, we truly believe we are a great option!
-                Our local investors are ready to buy your house right now, and
-                it all starts by <a href="#get-my-cash-offer">filling in our
-                    form</a>. <span style="font-style: normal;">🙂</span><br>
+              class="ct-text-block atomic-content-4-text"><b></b>
+              At Sell My House Fast, we hold honesty, integrity, and transparency in high regard. We eradicate all the pitfalls associated with
+               the conventional home selling process. Unlike traditional approaches, we don't hinge on lender financing; we possess our own cash.
+                We purchase properties as-is and accommodate your preferred timeline. Diverging from agents, we refrain from imposing commissions 
+                or fees. Should you require a swift cash sale for your property anywhere in the nation, we genuinely believe we offer an excellent solution! 
+              Our local investors stand ready to purchase your property promptly, and the journey commences by completing our form. 
+               <span style="font-style: normal;">🙂</span><br>
             </p>
         </div>
     </section>

@@ -341,7 +341,7 @@
         <div class="our-ccoma-banner" style="position: relative;">
             <div class="">
               <div class="">
-                <h1 class="h1-asw3s-s">Long Island’s Premier House Buyers</h1>
+                <h1 class="h1-asw3s-s">The Foremost Home Buyers in Long Island</h1>
               </div>
             </div>
             <div id="-shape-divider-913-13" class="oxy-shape-divider ">
@@ -357,25 +357,22 @@
           <div class="">
             <div class="ps-serdcd">
               <div class="">
-                <h2 class="heid-instn-2">Our Story</h2>
+                <h2 class="heid-instn-2">Our Journey</h2>
                 <p>
-                  At Leave The Key Homebuyers , we pride ourselves on being
-                  ethical, honest, and genuine.&nbsp;We believe selling your home
-                  is a consultative process, and we are always happy to answer any
-                  questions that you may have to help you achieve your desired
-                  outcome, whether that be to sell quickly, get out of a tough
-                  financial situation, or whatever other reasons you may have.
+                  At Leave The Key Homebuyers, our foundation is built upon ethical, honest, and authentic principles.
+                   We view the process of selling your home as a consultative journey, always ready to address any queries
+                    to facilitate your desired outcome.
+                   Whether your aim is a swift sale, overcoming financial challenges, or any other motive, we're here to assist.
                 </p>
                 <p>
-                  Leave The Key Homebuyers is family-owned company and was started
-                  specifically to offer another option to New York homeowners
-                  looking to sell their homes. In the last few years, we have
-                  helped hundreds of happy homeowners
+                  Leave The Key Homebuyers, a family-owned enterprise, emerged to offer an alternative avenue for New York homeowners
+                   seeking to sell their properties. Over the past years, we've been privileged to assist numerous delighted homeowners.
                 </p>
                 <p>
                   <em
-                    >Our goal is to help make the sale of your home as quick and
-                    easy as possible.</em
+                    >
+                    Our objective centers on streamlining and expediting the sale of your home, ensuring a seamless and stress-free experience.
+                    </em
                   >
                 </p>
               </div>
@@ -543,12 +540,12 @@
           <div class="">
             <div class="ps-serdcd">
               <div class="">
-                <h2 class="heid-instn-2">Why Our Name & Logo?</h2>
+                <h2 class="heid-instn-2">The Significance Behind Our Name & Logo</h2>
                 <p>
-                    We chose the name Leave The Key Homebuyers to convey how simple it can be to sell your home – just leave the key, and all the hard work to us.
+                  We opted for the name "Leave The Key Homebuyers" to epitomize the effortless process of selling your home – a mere act of leaving the key, while entrusting all the intricacies to us.
                 </p>
                 <p>
-                    Whatever the reason that made you want or have to sell your home, the bird symbolizes the freedom you gain when you are no longer burdened by a property weighing you down.
+                  Irrespective of the motivating factors behind your decision to sell your home, the bird within our symbol embodies the liberation attained when you're unshackled from the weight of property responsibilities.
                 </p>
               </div>
             </div>
@@ -674,8 +671,11 @@
             <div class="">
               <div class="con-tss-e">
                 <p style="text-align: center">
-                  Just fill in this simple form and we will be in touch.<br />
-                  Or give us a call at <a href="tel:+16313887771">631-388-7771</a>
+                 
+                Complete this straightforward form, you can contact us at 
+                <a href="#">
+                  xxx-xxx-xxxx
+                </a>
                 </p>
               </div>
             </div>

@@ -83,7 +83,7 @@
 
 #section-2-224{
         background-image: linear-gradient(90deg,rgba(51,51,51,0.65) 0%,rgba(51,51,51,0.3) 100%),
-        url('{{asset('assets/images/home23.jpg')}}')!important ;
+        url('{{asset('assets/images/home_1.jpg')}}')!important ;
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -521,7 +521,7 @@ max-width: 100%;
     margin-top:10px;
   }
   .ex0xtoopsmain-banner{
-    padding-top:100px !important;  
+    padding-top:78px !important;  
     padding-bottom:70px !important; 
   }
   .ez-feac-ute-form-ban{

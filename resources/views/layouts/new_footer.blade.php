@@ -25,7 +25,19 @@
             <li>
               <a href="{{route("re_agents")}}"> Are You an Agent? </a>
             </li>
-            <li><a href="{{route("re_wholesalers")}}"> Are you a Wholesaler / Bird Dog? </a></li>
+            <li><a href="{{route("re_wholesalers")}}"> Are you a Wholesaler / Bird Dog? </a></li> 
+          </ul>
+        </div>
+        <div class="sfld-glr-glrc jasdl-jus-between">
+          <ul class="lisd-lis widks-wo-50">
+            <li><p class="asfsd-rehe-40">Sell Your House</p></li>
+            <li><a href="{{route('our_company')}}">Our Company</a></li>
+            <li><a href="{{route("smhf_online_quote")}}">Request An Offer</a></li>
+            <li><a href="{{route("hwb_houses")}}">How It Works</a></li>
+            <li><a href="#">Reviews</a></li>
+            <li><a href="{{route("leads")}}">Locations</a></li>
+          </ul>
+          <ul class="lisd-lis widks-wo-50">
             <li>
               <p class="asfsd-rehe-40">Resources</p>
             </li>
@@ -38,27 +50,7 @@
             <li>
               <a href="{{route('contact_us')}}">Contact Us</a>
             </li>
-            
           </ul>
-        </div>
-        <div class="sfld-glr-glrc jasdl-jus-between">
-          <ul class="lisd-lis widks-wo-50">
-            <li><p class="asfsd-rehe-40">Sell Your House</p></li>
-            <li><a href="{{route('our_company')}}">Our Company</a></li>
-            <li><a href="{{route("smhf_online_quote")}}">Request An Offer</a></li>
-            <li><a href="{{route("hwb_houses")}}">How It Works</a></li>
-            <li><a href="#">Reviews</a></li>
-            <li><a href="{{route("leads")}}">Locations</a></li>
-          </ul>
-          {{-- <ul class="lisd-lis widks-wo-50">
-            <li class=""><p class="asfsd-rehe-40">About Us</p></li>
-            <li><a href="{{route('about_us')}}">We buy houses on Long Island and</a></li>
-            <li><a href="{{route('about_us')}}">have helped hundreds of</a></li>
-            <li><a href="{{route('about_us')}}">homeowners sell their homes all over</a></li>
-            <li><a href="#">Nassau County, Suffolk County,</a></li>
-            <li><a href="#">Queens, and Brooklyn New York.</a></li>
-            <li><a href="{{route('about_us')}}" class="reas-moreP">Read More</a></li>
-          </ul> --}}
         </div>
       </div>
       <div class="sfld-glr-glrc jasdl-jus-between" style="padding: 10px 0 0 0;">

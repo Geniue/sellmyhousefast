@@ -26,8 +26,8 @@
         align-items: center
     }
     
-    #section-2-224 {url
-        background-image: linear-gradient(rgba(100,100,100,0.3),rgba(100,100,100,0.3)),url('{{asset('assets/images/bg-banner.webp')}}');
+    #section-2-224 {
+        background-image: linear-gradient(90deg,rgba(51,51,51,0.65) 0%,rgba(51,51,51,0.3) 100%), url('{{asset('assets/images/home.jpg')}}')!important ;
         text-align: center;
         border-top-width: 1px;
         border-top-color: rgba(0,0,0,0.1);
@@ -4406,24 +4406,17 @@
       class=" ct-section ct-section-with-shape-divider">
         <div class="ct-section-inner-wrap">
             <h2 id="headline-4-224" class="ct-headline atomic-primary-heading">
-                Real Estate Investor Leads</h2>
-            <div id="div_block-1194-106" class="ct-div-block"><img
-                  id="image-1676-6122" alt="sell my house fast"
-                  src="//www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast.webp"
-                  class="ct-image"
-                  srcset="//www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast.webp 386w, //www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast-300x300.webp 300w, //www.sellmyhousefast.com/wp-content/uploads/2022/11/sell-my-house-fast-150x150.webp 150w"
-                  sizes="(max-width: 386px) 100vw, 386px">
+                Leads for Real Estate Investors</h2>
+            <div id="div_block-1194-106" class="ct-div-block">
                 <p id="text_block-1626-106"
                   class="ct-text-block atomic-content-26-text"></p>
                 <div style="text-align: center;"><span
-                      style="font-size: 1.25rem;"><b>Are you an <i>active</i>
-                            real estate investor who buys houses for cash? Not
-                            just a wholesaler? Apply to gain access to our SEO
-                            <i>leads</i> in your markets!</b></span></div>
+                      style="font-size: 1.25rem;"><b>
+                        Are you a hands-on real estate investor, actively purchasing properties for cash? Not solely a wholesaler? Apply now to access our SEO-generated leads in your targeted markets!
+                        </b></span></div>
                 <p></p>
             </div>
             <div id="shortcode-678-106" class="ct-shortcode">
-                <script type="text/javascript"></script>
                 <div class="gf_browser_gecko gform_wrapper gravity-theme"
                   id="gform_wrapper_8">
                     <div id="gf_8" class="gform_anchor" tabindex="-1"></div>
@@ -4588,17 +4581,11 @@
                             </div>
                         </div>
                         <div class="gform_footer top_label"> 
-                            <button class="xash-buton">Get My Cash Offer!</button>               
+                            <button class="xash-buton">Receive my cash proposal!</button>               
                           </div>
                     </form>
                 </div>
-                <iframe style="display:none;width:0px;height:0px;"
-                  src="about:blank" name="gform_ajax_frame_8"
-                  id="gform_ajax_frame_8"
-                  title="This iframe contains the logic required to handle Ajax powered Gravity Forms."></iframe>
-                <script>
-                    gform.initializeOnLoaded( function() {gformInitSpinner( 8, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_8').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_8');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_8').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_8').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_8').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_8').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_8').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_8').val();gformInitSpinner( 8, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [8, current_page]);window['gf_submitting_8'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_8').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_8').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [8]);window['gf_submitting_8'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_8').text());}, 50);}else{jQuery('#gform_8').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [8, current_page]);} );} );
-                </script>
+               
             </div>
             <div id="-shape-divider-1647-106" class="oxy-shape-divider ">
                 <div class="oxy_shape_divider">
@@ -4614,23 +4601,19 @@
     <section id="section-353-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <h1 id="headline-354-106"
-              class="ct-headline atomic-secondary-heading"><b>Highly Motivated
-                    REI Leads</b></h1>
+              class="ct-headline atomic-secondary-heading"><b>
+                Target Driven REI Leads
+                </b></h1>
             <p id="text_block-1616-106"
-              class="ct-text-block atomic-content-26-text"><b>Join Our Ethical
-                    Network Of Investors For Access To Highly Motivated
-                    Leads!</b></p>
+              class="ct-text-block atomic-content-26-text"><b>
+                Become Part of Our Integrity-Driven Investor Network for Premium Leads!
+                </b></p>
             <div id="div_block-1594-106" class="ct-div-block"></div>
             <div id="div_block-359-106" class="ct-div-block ">
                 <p id="text_block-361-106"
-                  class="ct-text-block atomic-content-26-text">We are looking
-                    for real estate investors who buy houses anywhere in the
-                    United States including Puerto Rico to join our investor
-                    network for access to highly motivated SEO leads. We bring
-                    in leads from sellers who are searching for a specific
-                    solution to their problem, and <b>we want to give investors
-                        across the nation access to these high quality
-                        leads</b>.<br></p>
+                  class="ct-text-block atomic-content-26-text">
+                  We're seeking dedicated real estate investors purchasing properties nationwide, including Puerto Rico, to join our investor network and access top-tier SEO-generated leads. Our leads stem from sellers actively seeking targeted solutions to their issues, and we're eager to provide investors across the nation with access to these exceptional leads.
+                </p>
                 <div id="div_block-1669-106" class="ct-div-block"><img
                       loading="lazy" id="image-1670-106"
                       alt="motivated real estate investor leads"
@@ -4642,13 +4625,9 @@
                             markets</a>&nbsp;across the country!</div>
                 </div>
                 <p id="text_block-1203-106"
-                  class="ct-text-block atomic-content-26-text">We only work with
-                    <b>ethical real estate investors</b> who prioritize the
-                    sellers' best interests. If you are an ethical and honest
-                    investor who wants to work with homeowners that need help
-                    selling, apply by filling out the short form below. Once we
-                    confirm you are qualified, we will give you access to our
-                    highly motivated SEO leads in your market(s)!<b></b></p>
+                  class="ct-text-block atomic-content-26-text">
+                  We exclusively collaborate with ethical real estate investors who hold the sellers' best interests at heart. If you are an investor driven by honesty and integrity, eager to assist homeowners in need of selling support, we invite you to apply by completing the brief form below. Upon confirming your eligibility, we'll grant you access to our dynamic SEO leads brimming with motivation in your chosen market(s)!
+                  <b></b></p>
             </div>
         </div>
     </section>
@@ -4826,17 +4805,13 @@
                                 </div>
                             </div>
                             <div class="gform_footer top_label"> 
-                                <button class="xash-buton">Get My Cash Offer!</button>               
+                                <button class="xash-buton">
+                                    Receive my cash proposal!
+                                    </button>               
                               </div>
                         </form>
                     </div>
-                    <iframe style="display:none;width:0px;height:0px;"
-                      src="about:blank" name="gform_ajax_frame_9"
-                      id="gform_ajax_frame_9"
-                      title="This iframe contains the logic required to handle Ajax powered Gravity Forms."></iframe>
-                    <script>
-                        gform.initializeOnLoaded( function() {gformInitSpinner( 9, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_9').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_9');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_9').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_9').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_9').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_9').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_9').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_9').val();gformInitSpinner( 9, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [9, current_page]);window['gf_submitting_9'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_9').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_9').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [9]);window['gf_submitting_9'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_9').text());}, 50);}else{jQuery('#gform_9').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [9, current_page]);} );} );
-                    </script>
+                  
                 </div>
             </div>
         </div>

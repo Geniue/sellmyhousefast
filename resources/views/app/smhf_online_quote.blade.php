@@ -5115,8 +5115,8 @@
             <div id="new_columns-1649-6078" class="ct-new-columns">
                 <div id="div_block-1650-6078" class="ct-div-block">
                     <h2 id="headline-4-224"
-                      class="ct-headline atomic-primary-heading">Sell My House
-                        Fast Online Quote</h2>
+                      class="ct-headline atomic-primary-heading">Get a Quick Online Quote to Sell Your House Fast
+                    </h2>
                     <div id="div_block-1661-6078"
                       class="ct-div-block atomic-steps-1-wrapper">
                         <div id="div_block-1662-6078"
@@ -5129,9 +5129,7 @@
                         <div id="div_block-1665-6078"
                           class="ct-div-block atomic-steps-1-text-wrapper">
                             <div id="text_block-1667-6078"
-                              class="ct-text-block atomic-steps-1-text"><b>Fill
-                                    out the form, and we will connect you with
-                                    an expert local cash buyer.</b></div>
+                              class="ct-text-block atomic-steps-1-text"><b>Complete the form to connect with a skilled local cash buyer.</b></div>
                         </div>
                     </div>
                     <div id="div_block-1685-6078"
@@ -5147,8 +5145,7 @@
                           class="ct-div-block atomic-steps-1-text-wrapper">
                             <div id="text_block-1690-6078"
                               class="ct-text-block atomic-steps-1-text">
-                                <b>Receive a cash online quote for your house
-                                    from a local investor.</b></div>
+                                <b>Receive a rapid cash quote for your property from a nearby investor.</b></div>
                         </div>
                     </div>
                     <div id="div_block-1691-6078"
@@ -5163,14 +5160,11 @@
                         <div id="div_block-1695-6078"
                           class="ct-div-block atomic-steps-1-text-wrapper">
                             <div id="text_block-1696-6078"
-                              class="ct-text-block atomic-steps-1-text"><b>Get
-                                    cash for your house! We close on your home
-                                    selling timeline.</b></div>
+                              class="ct-text-block atomic-steps-1-text"><b>Secure cash for your house! We close according to your preferred timeline.</b></div>
                         </div>
                     </div>
                     <p id="text_block-1657-6078"
-                      class="ct-text-block atomic-content-26-text"><b>No Risk.
-                            No Obligations. Hassle Free.</b></p>
+                      class="ct-text-block atomic-content-26-text"><b>Zero Risk. No Commitments. Effortless Process..</b></p>
                 </div>
                 <div id="div_block-1651-6078" class="ct-div-block">
                     <div id="shortcode-678-106" class="ct-shortcode">
@@ -5481,13 +5475,7 @@
                                 </div>
                             </form>
                         </div>
-                        <iframe style="display:none;width:0px;height:0px;"
-                          src="about:blank" name="gform_ajax_frame_1"
-                          id="gform_ajax_frame_1"
-                          title="This iframe contains the logic required to handle Ajax powered Gravity Forms."></iframe>
-                        <script>
-                            gform.initializeOnLoaded( function() {gformInitSpinner( 1, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} );
-                        </script>
+                      
                     </div>
                 </div>
             </div>
@@ -5505,17 +5493,10 @@
     <section id="section-216-106" class=" ct-section">
       <div class="ct-section-inner-wrap">
           <h2 id="headline-217-106"
-            class="ct-headline atomic-secondary-heading">How Do I Sell My
-              House Fast?</h2>
+            class="ct-headline atomic-secondary-heading">Speed Up Your Home Sale Process</h2>
           <p id="text_block-1565-106"
-            class="ct-text-block atomic-content-26-text">At Sell My House
-              Fast, we buy homes for cash, <i style="">and</i> we connect
-              you with a local cash buyer! <b>This allows sellers to work
-                  with a house buyer who can offer <i style="">more</i>
-                  because they know the area better than national real
-                  estate investors. </b>We want to enhance your selling
-              experience by giving you access to a cash home buyer who
-              operates exclusively in your market.<br></p>
+            class="ct-text-block atomic-content-26-text">Sell My House Fast facilitates swift property transactions by purchasing homes for cash and linking you with a nearby cash buyer! This empowers sellers to collaborate with a property purchaser who can provide enhanced offers due to their in-depth local knowledge. Our objective is to elevate your 
+            selling journey by granting you access to a cash-oriented home buyer dedicated solely to your market.<br></p>
               <div id="new_columns-219-106" class="ct-new-columns max-md-ps-20px">
                 <div id="div_block-220-106" class="ct-div-block">
                     <div id="step1" class="step-rounded-wrapper">
@@ -5525,7 +5506,8 @@
                           <img width="60" src="{{asset('assets/images/icons/fill_out_form.png')}}" alt="">
                       </div>
                       <p class="step-heading-sde">
-                        FILL OUT
+                        
+                        SUBMIT
                         <br>
                         FORM
                       </p>
@@ -5545,10 +5527,10 @@
                     <p class="step-heading-sde">
                       GET 
                       <br>
-                      OFFERS
+                        OFFERS
                     </p>
                     <p class="step-para-eas">
-                      Receive a CASH offer for your house from a local buyer. No obligations.
+                      Fill out the form, and we'll connect you with a local cash buyer to provide offers.
                     </p>
                   </div>
                 </div>
@@ -5566,7 +5548,7 @@
                       PAID
                     </p>
                     <p class="step-para-eas">
-                      Get cash for your house! Close on your timeline. No hassles.
+                      Receive cash for your property! Close on your preferred schedule. Hassle-free process.
                     </p>
                   </div>
                 </div>
@@ -5586,19 +5568,13 @@
             <div id="code_block-932-106" class="ct-code-block"><a
                   id="sell-house-as-is"></a></div>
             <h2 id="headline-237-106"
-              class="ct-headline atomic-secondary-heading">Online Quote From a
-                Local Investor</h2>
+              class="ct-headline atomic-secondary-heading">
+              Online Quote by a Local Investor</h2>
             <div id="new_columns-1640-106" class="ct-new-columns">
                 <div id="div_block-1641-106" class="ct-div-block">
                     <p id="text_block-1646-106"
-                      class="ct-text-block atomic-content-26-text">At Sell My
-                        House Fast, we connect sellers with a cash buyer
-                        exclusive to their market. This means you receive an
-                        expert online quote from a reputable investor. Unlike
-                        big corporations and “ibuyers,” our investors are local
-                        meaning they know their own markets best. This allows
-                        sellers to receive higher cash offers and faster
-                        closings.<b></b><br></p>
+                      class="ct-text-block atomic-content-26-text">At Sell My House Fast, we link sellers with a cash buyer tailored to their specific market. This guarantees an informed online quote from a trustworthy investor. Unlike large corporations and "ibuyers," our investors are deeply rooted in their local markets, ensuring a more comprehensive understanding. 
+                      This setup enables sellers to secure elevated cash offers and expedited closing processes.<b></b><br></p>
                 </div>
             </div>
         </div>
@@ -5606,8 +5582,7 @@
     <section id="section-609-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <h2 id="headline-610-106"
-              class="ct-headline atomic-secondary-heading">Receive An Online
-                Quote In Any Situation</h2>
+              class="ct-headline atomic-secondary-heading">Get an Online Quote Regardless of Your Situation</h2>
             <div id="new_columns-1716-6078" class="ct-new-columns">
                 <ul id="div_block-1717-6078" class="ct-div-block">
                     <li id="text_block-1725-6078"
@@ -5992,9 +5967,7 @@
                 </ul>
             </div>
             <p id="text_block-1749-6078"
-              class="ct-text-block atomic-content-26-text"><b><b>If you answered
-                        “yes” to any of these, just fill out our form to receive
-                        your no obligation online quote!</b></b></p>
+              class="ct-text-block atomic-content-26-text"><b><b>If you responded "yes" to any of these, simply complete our form to obtain your no-obligation online quote!</b></b></p>
         </div>
     </section>
     <section id="section-1596-106" class=" ct-section">
@@ -6274,45 +6247,29 @@
                             </div>
                         </div>
                         <div class="gform_footer top_label"> 
-                          <button class="xash-buton">Get My Cash Offer!</button>               
+                          <button class="xash-buton">Receive my cash proposal!</button>               
                         </div>
                     </form>
                 </div>
-                <iframe style="display:none;width:0px;height:0px;"
-                  src="about:blank" name="gform_ajax_frame_6"
-                  id="gform_ajax_frame_6"
-                  title="This iframe contains the logic required to handle Ajax powered Gravity Forms."></iframe>
-                <script>
-                    gform.initializeOnLoaded( function() {gformInitSpinner( 6, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_6').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_6');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_6').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_6').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_6').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_6').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_6').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_6').val();gformInitSpinner( 6, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [6, current_page]);window['gf_submitting_6'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_6').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_6').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [6]);window['gf_submitting_6'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_6').text());}, 50);}else{jQuery('#gform_6').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [6, current_page]);} );} );
-                </script>
+               
             </div>
             <p id="text_block-538-106"
               class="ct-text-block atomic-content-26-text">Or, you can give us a
-                call!&nbsp;<a href="tel:844-207-0788" style="">(844)
-                    207-0788</a><br></p>
+                call!&nbsp;<a href="tel:844-207-0788" style="">(xxx)xxx-xxxx</a><br></p>
         </div>
     </section>
     <section id="section-1524-106" class=" ct-section">
         <div class="ct-section-inner-wrap">
             <div id="div_block-1594-106" class="ct-div-block"></div>
-            <h2 id="headline-1529-106" class="ct-headline">Get Your <i>Sell My
-                    House Fast</i> Online Quote</h2>
+            <h2 id="headline-1529-106" class="ct-headline">Secure Your Sell My House Fast Online Quote</h2>
             <p id="text_block-1766-6078"
-              class="ct-text-block atomic-content-26-text"><b><i>If you want an
-                        online quote to sell your house for cash, Sell My House
-                        Fast could be the best fit for you! Take control of your
-                        situation and get back to living your life. Skip all of
-                        the hassles and drawbacks of real estate agents when you
-                        work with Sell My House Fast. There is no need to pay
-                        fees and commission or make repairs or deal with house
-                        showings when you choose to work together with us. We
-                        are happy to make you a no obligation cash offer for
-                        your home.</i> 🙂</b></p>
+              class="ct-text-block atomic-content-26-text"><b><i>If you're seeking a cash offer for your house, Sell My House Fast might be your ideal solution! Regain control of your circumstances and embrace life fully. Bypass the hassles and drawbacks tied to real estate agents by partnering with Sell My House Fast. You can sidestep fees, commissions, repairs, 
+                and house showings. Opting to collaborate with us means you can receive a no-obligation cash offer for your home. 🙂</i> 🙂</b></p>
             <div id="div_block-1594-106" class="ct-div-block"></div>
             <div id="div_block-1710-6078" class="ct-div-block">
                 <p id="text_block-1853-6078"
-                  class="ct-text-block atomic-content-26-text"><i><b>Let’s get
-                            your house sold stress free!</b></i></p>
+                  class="ct-text-block atomic-content-26-text"><i><b>
+                    Let's Make Selling Your House Stress-Free!</b></i></p>
             </div>
         </div>
     </section>
