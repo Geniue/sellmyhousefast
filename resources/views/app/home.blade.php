@@ -1508,9 +1508,6 @@ max-width: 100%;
                   src='about:blank' name='gform_ajax_frame_6'
                   id='gform_ajax_frame_6'
                   title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
-                <script>
-                    gform.initializeOnLoaded( function() {gformInitSpinner( 6, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_6').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_6');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_6').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_6').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_6').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_6').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_6').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_6').val();gformInitSpinner( 6, '//www.sellmyhousefast.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [6, current_page]);window['gf_submitting_6'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_6').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_6').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [6]);window['gf_submitting_6'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_6').text());}, 50);}else{jQuery('#gform_6').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [6, current_page]);} );} );
-                </script>
             </div>
             <p id="text_block-538-106"
               class="ct-text-block atomic-content-26-text">Or Give Us A Call
@@ -1657,8 +1654,8 @@ max-width: 100%;
               class="ct-new-columns atomic-content-26-columns">
                 <div id="div_block-534-106" class="ct-div-block">
                     <div id="_map-687-106" class="oxy-map" loading="lazy">
-                        <iframe
-                          src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBKMd2SCpa_Gy6g7IRCzlwPBZzdxI6Y0TU&q=United+States&zoom=3'
+                        <iframe class="lozad" 
+                          data-src='https://www.google.com/maps/embed/v1/place?key=AIzaSyDVg2FunV8BQLbAyPDoSjP8UQJ7hhv4Tdc&q=United+States&zoom=3'
                           frameborder=0></iframe></div>
                 </div>
                 <div id="div_block-536-106" class="ct-div-block ">
