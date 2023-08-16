@@ -1,8 +1,8 @@
 <footer class="fooer-main-col">
     <div class="asd-fasoo-fooer as0e-de ">
       <div class="sfld-glr-glrc jasdl-jus-between asds-flow-column">
-        <div class="sfld-glr-glrc jasdl-jus-between jasdl-jus-between">
-          <ul class="lisd-lis widks-wo-50">
+ 
+          <ul class="lisd-lis   ">
             <li>
               <strong>
                 <p class="asfsd-rehe-40" style="font-weight: 600">
@@ -17,7 +17,7 @@
               </a>
             </li>
           </ul>
-          <ul class="lisd-lis widks-wo-50">
+          <ul class="lisd-lis   ">
 
             <li>
               <p class="asfsd-rehe-40">Let’s Work Together</p>
@@ -27,9 +27,9 @@
             </li>
             <li><a href="{{route("re_wholesalers")}}"> Are you a Wholesaler / Bird Dog? </a></li> 
           </ul>
-        </div>
-        <div class="sfld-glr-glrc jasdl-jus-between">
-          <ul class="lisd-lis widks-wo-50">
+
+
+          <ul class="lisd-lis   ">
             <li><p class="asfsd-rehe-40">Sell Your House</p></li>
             <li><a href="{{route('our_company')}}">Our Company</a></li>
             <li><a href="{{route("smhf_online_quote")}}">Request An Offer</a></li>
@@ -37,7 +37,7 @@
             <li><a href="#">Reviews</a></li>
             <li><a href="{{route("leads")}}">Locations</a></li>
           </ul>
-          <ul class="lisd-lis widks-wo-50">
+          <ul class="lisd-lis   ">
             <li>
               <p class="asfsd-rehe-40">Resources</p>
             </li>
@@ -51,7 +51,7 @@
               <a href="{{route('contact_us')}}">Contact Us</a>
             </li>
           </ul>
-        </div>
+
       </div>
       <div class="sfld-glr-glrc jasdl-jus-between" style="padding: 10px 0 0 0;">
         <div class="sfld-glr-glrc af-flen-14px">Copyright © 2023 LeaveTheKey. All Rights Reserved.</div>

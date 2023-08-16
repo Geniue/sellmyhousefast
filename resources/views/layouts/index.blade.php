@@ -293,7 +293,7 @@
       font-size: 14px !important;
   }
   .as0e-de {
-    max-width: 1260px !important;
+    max-width: 1100px !important;
     margin: auto;
   }
   .sfld-glr-glrc .lisd-lis a {
