@@ -64,6 +64,13 @@
           padding-bottom:5px; 
         }
       }
+      @media (max-width: 479px){
+      #div_block-112-91 {
+        width: 58vw;
+        padding-bottom: 0px;
+        max-height: 150px;
+      }
+      }
       #image-13-225{
         width: 100% !important;
       }
