@@ -7,7 +7,7 @@ class="oxy-header-wrapper oxy-overlay-header oxy-header">
                     id="link-12-225" class="ct-link atomic-logo" href="/"
                     target="_self"><img id="image-13-225"
                         alt="sell my house fast"
-                        src="{{asset('assets/images/man-logo.webp')}}"
+                        src="{{asset('assets/images/sellmyhousefast_logo.png')}}"
                         class="ct-image" /></a></div>
           </div>
           <div id="_header_center-14-225" class="oxy-header-center"></div>

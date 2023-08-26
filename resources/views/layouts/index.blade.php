@@ -57,7 +57,19 @@
       @media(min-width:777px){
 
         #image-13-225 {
-          width: 120px !important;
+          width: 250px !important;
+        }
+        .atomic-logo{
+          padding-top:5px; 
+          padding-bottom:5px; 
+        }
+      }
+      #image-13-225{
+        width: 100% !important;
+      }
+      @media (max-width: 479px){
+        #image-13-225 {
+          width: 100% !important;
         }
       }
       .oxy_shape_divider svg{
